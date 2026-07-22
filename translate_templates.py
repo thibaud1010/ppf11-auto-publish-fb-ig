@@ -78,7 +78,8 @@ def call_claude(api_key, payload_desc, source_obj, target_lang):
         },
         timeout=60,
     )
-    r.raise_for_status()
+    if r.status_code >= 400:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:400]}")
     text = r.json()["content"][0]["text"].strip()
     # por si el modelo envuelve en ```json
     if text.startswith("```"):

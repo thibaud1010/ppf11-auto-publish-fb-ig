@@ -1,0 +1,47 @@
+name: Traducir plantillas (IA)
+
+# Traduce las plantillas y hashtags base de un idioma fuente a los otros 6 con la
+# API de Claude, y guarda el resultado en el repo. Se lanza a mano (o desde el panel).
+# Requiere el secreto ANTHROPIC_API_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      source_lang:
+        description: "Idioma fuente (desde el que traducir)"
+        type: choice
+        default: es
+        options: [es, en, fr, de, it, pt, nl]
+      scope:
+        description: "Qué traducir"
+        type: choice
+        default: both
+        options: [both, templates, hashtags]
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    concurrency: translate
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Traducir con IA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python translate_templates.py --source "${{ inputs.source_lang }}" --scope "${{ inputs.scope }}"
+      - name: Guardar traducciones
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add config/templates.json config/hashtags.json
+          git commit -m "traduccion IA desde ${{ inputs.source_lang }} ($(date -u +%FT%TZ))" || { echo "sin cambios"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "reintento push $i"; sleep 5
+          done
+          echo "push fallo" >&2; exit 1

@@ -1,0 +1,33 @@
+{
+  "_comment": "IDs NO secretos. Los tokens van en config/secrets.json, en TOKENS_JSON o como variables de entorno FB_TOKEN_<LANG> / IG_TOKEN_<LANG>. Renombra los codigos de idioma a los tuyos.",
+  "languages": {
+    "es": {
+      "facebook": { "page_id": "132757827561079" },
+      "instagram": { "mode": "page", "ig_user_id": "17841413449517207" }
+    },
+    "en": {
+      "facebook": { "page_id": "1024504440752713" },
+      "instagram": { "mode": "login", "ig_user_id": "17841442089186417" }
+    },
+    "fr": {
+      "facebook": { "page_id": "530259557167030" },
+      "instagram": { "mode": "page", "ig_user_id": "17841404957099202" }
+    },
+    "de": {
+      "facebook": { "page_id": "1054668431063584" },
+      "instagram": { "mode": "login", "ig_user_id": "17841437469614547" }
+    },
+    "it": {
+      "facebook": { "page_id": "1133160749871158" },
+      "instagram": { "mode": "login", "ig_user_id": "17841441683493759" }
+    },
+    "pt": {
+      "facebook": { "page_id": "1112223148630716" },
+      "instagram": { "mode": "login", "ig_user_id": "17841439358213088" }
+    },
+    "nl": {
+      "facebook": { "page_id": "1009641588905073" },
+      "instagram": { "mode": "page", "ig_user_id": "17841439245232249" }
+    }
+  }
+}

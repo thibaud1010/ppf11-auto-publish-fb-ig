@@ -1,0 +1,34 @@
+name: Renovar tokens IG (60 dias)
+
+# Los 4 tokens de Instagram Login (en/it/de/pt) caducan a los 60 dias, pero cada
+# renovacion los extiende otros 60. Renovamos SEMANALMENTE (muy por delante del
+# limite) y guardamos el resultado de vuelta en el secreto TOKENS_JSON.
+#
+# Requiere un secreto extra `GH_PAT`: un Personal Access Token con permiso de
+# ESCRITURA de secrets del repositorio (fine-grained: Secrets = Read and write).
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # cada lunes 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Renovar tokens IG y actualizar el secreto
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          python refresh_ig_tokens.py --out tokens.new.json
+          gh secret set TOKENS_JSON < tokens.new.json
+          rm -f tokens.new.json
+          echo "Secreto TOKENS_JSON actualizado."

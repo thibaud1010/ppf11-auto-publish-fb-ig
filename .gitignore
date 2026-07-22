@@ -1,0 +1,11 @@
+config/secrets.json
+.claude/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# NOTA: state/ SI se versiona (la rotacion debe persistir entre ejecuciones
+# en la nube; los runners de GitHub Actions son efimeros). Solo se ignora el
+# secreto de tokens.

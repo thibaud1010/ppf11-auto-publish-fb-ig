@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>PPF · Generador de tokens permanentes de Facebook</title>
+<style>
+  body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:820px;margin:24px auto;padding:0 16px;color:#1c1e21;background:#f0f2f5}
+  h1{font-size:20px}
+  .card{background:#fff;border:1px solid #dddfe2;border-radius:10px;padding:18px;margin:14px 0}
+  label{display:block;font-weight:600;margin:10px 0 4px}
+  input,textarea{width:100%;box-sizing:border-box;padding:9px;border:1px solid #ccd0d5;border-radius:6px;font-family:ui-monospace,Consolas,monospace;font-size:13px}
+  textarea{height:190px}
+  button{background:#1877f2;color:#fff;border:0;border-radius:6px;padding:11px 18px;font-size:15px;font-weight:600;cursor:pointer;margin-top:12px}
+  button.sec{background:#42b72a}
+  .muted{color:#606770;font-size:13px}
+  .ok{color:#1a7f37;font-weight:600}
+  .err{color:#c1121f;font-weight:600;white-space:pre-wrap}
+  code{background:#eaecef;padding:1px 5px;border-radius:4px}
+  ol{line-height:1.6}
+</style>
+</head>
+<body>
+  <h1>🔑 Generador de tokens permanentes de Facebook (PPF)</h1>
+  <p class="muted">Todo ocurre en <b>tu navegador</b>. Nada se envía a terceros salvo la propia API de Facebook. Genera tokens de Página que <b>no caducan</b>.</p>
+
+  <div class="card">
+    <b>Antes de empezar:</b>
+    <ol class="muted">
+      <li>Abre el <a href="https://developers.facebook.com/tools/explorer/" target="_blank">Explorador de la API Graph</a>, app <b>PPF Auto Publish</b>, y copia el <b>Token de acceso</b> (empieza por <code>EAA…</code>). Dura ~2 h: úsalo pronto.</li>
+      <li>Ten a mano la <b>Clave secreta</b> de la app (Ajustes → General → Afficher).</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <label>App ID</label>
+    <input id="appId" value="1772204267564608">
+    <label>Clave secreta de la app</label>
+    <input id="appSecret" placeholder="32 caracteres" autocomplete="off">
+    <label>Token de usuario (corto, del Explorador)</label>
+    <input id="userToken" placeholder="EAA..." autocomplete="off">
+    <button onclick="run()">Generar tokens permanentes</button>
+    <button class="sec" onclick="dl()" id="dlBtn" style="display:none">Descargar secrets.json</button>
+    <p id="status" class="muted"></p>
+  </div>
+
+  <div class="card">
+    <label>Resultado — pega esto en <code>config/secrets.json</code> y/o en el secreto <code>TOKENS_JSON</code> de GitHub</label>
+    <textarea id="out" readonly placeholder="Aquí aparecerán tus 6 tokens de página…"></textarea>
+    <button onclick="copyOut()">Copiar</button>
+  </div>
+
+<script>
+const GV="v21.0";
+// Mapa page_id -> idioma (tus 6 páginas)
+const PAGE_LANG={
+  "530259557167030":"fr",       // Préparation Physique Football
+  "1024504440752713":"en",      // PPF11 - en
+  "1054668431063584":"de",      // PPF11.de
+  "1133160749871158":"it",      // PPF11.it
+  "1009641588905073":"nl",      // PPF11.nl
+  "1112223148630716":"pt",      // PPF11.bra-pt
+  "132757827561079":"es"        // Preparacion Física Fútbol
+};
+const $=id=>document.getElementById(id);
+function setStatus(msg,cls){const s=$("status");s.className=cls||"muted";s.textContent=msg;}
+
+async function run(){
+  const appId=$("appId").value.trim();
+  const secret=$("appSecret").value.trim();
+  const short=$("userToken").value.trim();
+  $("out").value="";$("dlBtn").style.display="none";
+  if(!secret||!short){setStatus("Falta la clave secreta o el token.","err");return;}
+  try{
+    setStatus("1/2 · Cambiando a token de larga duración…");
+    const ex=await fetch(`https://graph.facebook.com/${GV}/oauth/access_token?grant_type=fb_exchange_token&client_id=${appId}&client_secret=${encodeURIComponent(secret)}&fb_exchange_token=${encodeURIComponent(short)}`).then(r=>r.json());
+    if(ex.error) throw new Error("Intercambio: "+ex.error.message);
+    const longTok=ex.access_token;
+    setStatus("2/2 · Obteniendo tokens de tus páginas…");
+    const acc=await fetch(`https://graph.facebook.com/${GV}/me/accounts?fields=name,access_token&limit=100&access_token=${longTok}`).then(r=>r.json());
+    if(acc.error) throw new Error("me/accounts: "+acc.error.message);
+    const result={};const rows=[];
+    (acc.data||[]).forEach(p=>{
+      const lang=PAGE_LANG[p.id];
+      if(lang){result["FB_TOKEN_"+lang.toUpperCase()]=p.access_token;rows.push(lang+" ✓ "+p.name);}
+      else{rows.push("(?) "+p.name+" — id "+p.id+" no está en el mapa");}
+    });
+    window._secrets=result;
+    $("out").value=JSON.stringify(result,null,2);
+    $("dlBtn").style.display="inline-block";
+    setStatus("Listo · "+Object.keys(result).length+"/6 páginas: "+rows.join("  |  "),"ok");
+  }catch(e){
+    setStatus("Error: "+e.message+"\n\nSi es un error de CORS/red, usa el método por URL (te lo indica el asistente).","err");
+  }
+}
+function copyOut(){$("out").select();document.execCommand("copy");setStatus("Copiado.","ok");}
+function dl(){
+  const blob=new Blob([$("out").value],{type:"application/json"});
+  const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="secrets.json";a.click();
+}
+</script>
+</body>
+</html>

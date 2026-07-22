@@ -1,0 +1,31 @@
+{
+  "_comment": "Plantillas de caption por tipo e idioma. Variables disponibles: {title} {summary} {url} {hashtags}. Edita los textos a tu gusto.",
+  "article": {
+    "es": "📖 {title}\n\n{summary}\n\n👉 Lee el artículo completo: {url}\n\n{hashtags}",
+    "en": "📖 {title}\n\n{summary}\n\n👉 Read the full article: {url}\n\n{hashtags}",
+    "fr": "📖 {title}\n\n{summary}\n\n👉 Lire l'article complet : {url}\n\n{hashtags}",
+    "de": "📖 {title}\n\n{summary}\n\n👉 Ganzen Artikel lesen: {url}\n\n{hashtags}",
+    "it": "📖 {title}\n\n{summary}\n\n👉 Leggi l'articolo completo: {url}\n\n{hashtags}",
+    "pt": "📖 {title}\n\n{summary}\n\n👉 Leia o artigo completo: {url}\n\n{hashtags}",
+    "nl": "📖 {title}\n\n{summary}\n\n👉 Lees het volledige artikel: {url}\n\n{hashtags}"
+  },
+  "exercise": {
+    "es": "💪 {title}\n\n{summary}\n\n✅ Ejercicio gratis aquí: {url}\n\n{hashtags}",
+    "en": "💪 {title}\n\n{summary}\n\n✅ Free exercise here: {url}\n\n{hashtags}",
+    "fr": "💪 {title}\n\n{summary}\n\n✅ Exercice gratuit ici : {url}\n\n{hashtags}",
+    "de": "💪 {title}\n\n{summary}\n\n✅ Kostenlose Übung hier: {url}\n\n{hashtags}",
+    "it": "💪 {title}\n\n{summary}\n\n✅ Esercizio gratuito qui: {url}\n\n{hashtags}",
+    "pt": "💪 {title}\n\n{summary}\n\n✅ Exercício grátis aqui: {url}\n\n{hashtags}",
+    "nl": "💪 {title}\n\n{summary}\n\n✅ Gratis oefening hier: {url}\n\n{hashtags}"
+  },
+  "_comment_ig": "Instagram: los captions del feed NO admiten enlaces clicables. Se omite {url} y se dirige al enlace de la bio.",
+  "ig_exercise": {
+    "es": "💪 {title}\n\n{summary}\n\n✅ Ejercicio gratis 👉 enlace en la bio\n\n{hashtags}",
+    "en": "💪 {title}\n\n{summary}\n\n✅ Free exercise 👉 link in bio\n\n{hashtags}",
+    "fr": "💪 {title}\n\n{summary}\n\n✅ Exercice gratuit 👉 lien dans la bio\n\n{hashtags}",
+    "de": "💪 {title}\n\n{summary}\n\n✅ Kostenlose Übung 👉 Link in der Bio\n\n{hashtags}",
+    "it": "💪 {title}\n\n{summary}\n\n✅ Esercizio gratuito 👉 link in bio\n\n{hashtags}",
+    "pt": "💪 {title}\n\n{summary}\n\n✅ Exercício grátis 👉 link na bio\n\n{hashtags}",
+    "nl": "💪 {title}\n\n{summary}\n\n✅ Gratis oefening 👉 link in bio\n\n{hashtags}"
+  }
+}

@@ -1,0 +1,55 @@
+name: FB - Ejercicio gratis (18:00 Paris)
+
+# Publica UN ejercicio en las 7 Paginas, a las 18:00 hora de Paris.
+# Disparamos en las dos horas UTC posibles (16 y 17) y un "guardian" deja
+# pasar solo la que coincide con las 18:00 reales de Paris (verano/invierno).
+on:
+  schedule:
+    - cron: "0 16 * * *"  # 18:00 Paris en verano (CEST, UTC+2)
+    - cron: "0 17 * * *"  # 18:00 Paris en invierno (CET, UTC+1)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    concurrency: fb-state
+    steps:
+      - uses: actions/checkout@v4
+      - name: Guardian horario (18:00 Paris)
+        id: guard
+        run: |
+          H=$(TZ=Europe/Paris date +%H)
+          echo "Hora actual en Paris: ${H}:00"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$H" = "18" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "No son las 18:00 en Paris -> se omite esta ejecucion."
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run == 'true'
+        with:
+          python-version: "3.11"
+      - name: Instalar dependencias
+        if: steps.guard.outputs.run == 'true'
+        run: pip install -r requirements.txt
+      - name: Publicar ejercicio en todas las Paginas
+        if: steps.guard.outputs.run == 'true'
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+        run: python publish_facebook.py --type exercise
+      - name: Guardar registro de rotacion
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add state/
+          git commit -m "state: fb exercise $(TZ=Europe/Paris date +%FT%T%z)" || { echo "sin cambios"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "reintento push $i"; sleep 5
+          done
+          echo "push fallo tras reintentos" >&2; exit 1

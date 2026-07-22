@@ -1,0 +1,10 @@
+{
+  "_comment": "Hashtags BASE por idioma (se anteponen al tag de tema de cada post). Edita aquí para cambiarlos en un solo sitio; el tag de tema específico de cada ejercicio/artículo va en la columna 'hashtags' de los CSV.",
+  "es": "#fútbol #entrenamiento #preparaciónfísica",
+  "en": "#football #soccer #training",
+  "fr": "#football #préparationphysique #entraînement",
+  "de": "#fußball #training #athletik",
+  "it": "#calcio #allenamento #preparazione",
+  "pt": "#futebol #treino #preparaçãofísica",
+  "nl": "#voetbal #training #conditie"
+}

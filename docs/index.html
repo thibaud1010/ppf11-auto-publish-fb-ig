@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Panel PPF11 · Auto-publicación</title>
+<style>
+  :root{
+    --bg:#0f1216; --panel:#161b22; --panel2:#1b2129; --ink:#e8edf2; --muted:#98a2b0;
+    --line:#252c36; --accent:#1f9d55; --accent-ink:#a7f3c9;
+    --ig1:#f09433; --ig2:#c13584; --fb:#2f7bf0;
+    --warn:#f0a531; --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  a{color:var(--accent-ink)}
+  .app{max-width:1200px;margin:0 auto;padding:20px 16px 60px}
+  header.top{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+  .logo{width:38px;height:38px;border-radius:10px;display:grid;place-items:center;font-size:20px;
+    background:linear-gradient(135deg,var(--accent),#0d7a3f);flex:none}
+  h1{font-size:20px;margin:0;font-weight:800;letter-spacing:-.01em}
+  .sub{color:var(--muted);font-size:13px;margin:2px 0 0}
+  .spacer{flex:1}
+  .btn{background:var(--panel2);color:var(--ink);border:1px solid var(--line);border-radius:10px;
+    padding:8px 13px;font-size:13px;cursor:pointer;font-weight:600}
+  .btn:hover{border-color:var(--accent)}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:#04240f}
+  .btn.small{padding:5px 9px;font-size:12px}
+  .tabs{display:flex;gap:6px;margin:18px 0 16px;border-bottom:1px solid var(--line)}
+  .tab{padding:10px 16px;cursor:pointer;color:var(--muted);font-weight:650;font-size:14px;
+    border-bottom:2px solid transparent;margin-bottom:-1px}
+  .tab.active{color:var(--ink);border-color:var(--accent)}
+  .controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
+  select,input,textarea{background:var(--panel);color:var(--ink);border:1px solid var(--line);
+    border-radius:9px;padding:8px 10px;font-size:13px;font-family:inherit}
+  textarea{width:100%;resize:vertical;line-height:1.5}
+  label.fld{display:flex;flex-direction:column;gap:5px;font-size:12px;color:var(--muted)}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .seg button{background:var(--panel);color:var(--muted);border:0;padding:8px 14px;cursor:pointer;font-size:13px;font-weight:650}
+  .seg button.on{color:var(--ink)}
+  .seg button.on.ig{background:linear-gradient(135deg,var(--ig1),var(--ig2));color:#fff}
+  .seg button.on.fb{background:var(--fb);color:#fff}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}
+  .card .meta{display:flex;align-items:center;gap:8px;padding:9px 12px;border-bottom:1px solid var(--line);font-size:12px}
+  .pill{font-size:10.5px;text-transform:uppercase;letter-spacing:.04em;padding:2px 7px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+  .pill.slot{color:var(--accent-ink);border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
+  .card img{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0c0f13;display:block}
+  .card .cap{padding:11px 12px 14px;font-size:12.5px;white-space:pre-wrap;line-height:1.5;color:var(--ink);flex:1;word-break:break-word}
+  .when{font-weight:700;font-size:12.5px}
+  .day-h{grid-column:1/-1;font-size:13px;color:var(--muted);font-weight:700;margin:6px 0 -4px;padding-top:8px;border-top:1px dashed var(--line)}
+  .loading{color:var(--muted);padding:40px;text-align:center}
+  .ed-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  @media(max-width:820px){.ed-grid{grid-template-columns:1fr}}
+  .ed-block{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px}
+  .ed-block h3{margin:0 0 4px;font-size:14px}
+  .ed-block p.hint{margin:0 0 12px;color:var(--muted);font-size:12px}
+  .live{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px;white-space:pre-wrap;
+    font-size:12.5px;line-height:1.5;min-height:60px}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end;margin-bottom:12px}
+  .note{background:color-mix(in srgb,var(--warn) 12%,transparent);border:1px solid color-mix(in srgb,var(--warn) 35%,transparent);
+    color:#ffd98a;border-radius:10px;padding:10px 12px;font-size:12.5px;margin:12px 0}
+  .ok{color:var(--accent-ink)} .err{color:#ff9b9b}
+  dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:14px;max-width:460px;width:92%}
+  dialog::backdrop{background:rgba(0,0,0,.6)}
+  code{font-family:ui-monospace,Consolas,monospace;font-size:.92em;background:var(--panel2);padding:1px 5px;border-radius:5px}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="logo">⚽</div>
+    <div>
+      <h1>Panel de auto-publicación · PPF11</h1>
+      <p class="sub">Vista previa, aprobación y edición de contenido — Facebook &amp; Instagram · 7 idiomas</p>
+    </div>
+    <div class="spacer"></div>
+    <button class="btn small" id="btnToken">🔑 Token</button>
+    <button class="btn small" id="btnReload">↻ Recargar</button>
+  </header>
+
+  <div class="tabs">
+    <div class="tab active" data-tab="preview">📅 Próximos posts</div>
+    <div class="tab" data-tab="editor">✏️ Editor de textos y hashtags</div>
+  </div>
+
+  <!-- ===== PREVIEW ===== -->
+  <section id="tab-preview">
+    <div class="controls">
+      <div class="seg" id="platSeg">
+        <button data-plat="ig" class="on ig">📸 Instagram</button>
+        <button data-plat="fb">📘 Facebook</button>
+      </div>
+      <label class="fld">Idioma
+        <select id="langSel"></select>
+      </label>
+      <label class="fld">Días a mostrar
+        <select id="daysSel">
+          <option value="3">3 días</option>
+          <option value="5">5 días</option>
+          <option value="7">7 días</option>
+        </select>
+      </label>
+      <div class="spacer"></div>
+      <span class="sub" id="rotInfo"></span>
+    </div>
+    <div id="previewOut" class="grid"><div class="loading">Cargando contenido…</div></div>
+  </section>
+
+  <!-- ===== EDITOR ===== -->
+  <section id="tab-editor" style="display:none">
+    <div class="controls">
+      <label class="fld">Idioma a editar
+        <select id="edLangSel"></select>
+      </label>
+      <label class="fld">Plantilla
+        <select id="edTypeSel">
+          <option value="ig_exercise">Instagram · ejercicio (sin enlace)</option>
+          <option value="exercise">Facebook · ejercicio</option>
+          <option value="article">Facebook · artículo</option>
+        </select>
+      </label>
+      <div class="spacer"></div>
+      <button class="btn primary" id="btnSave">💾 Guardar cambios</button>
+    </div>
+    <div class="note" id="edNote">
+      Edita aquí. Variables disponibles: <code>{title}</code> <code>{summary}</code> <code>{hashtags}</code>
+      <span id="urlVar"><code>{url}</code></span>. Los hashtags <b>base</b> se editan abajo y aplican a todos los posts de ese idioma.
+    </div>
+    <div class="ed-grid">
+      <div class="ed-block">
+        <h3>Plantilla del caption</h3>
+        <p class="hint" id="edTypeHint"></p>
+        <textarea id="edTemplate" rows="7"></textarea>
+        <div class="row" style="margin-top:12px">
+          <h3 style="margin:0">Hashtags base <span class="sub">(idioma seleccionado)</span></h3>
+        </div>
+        <textarea id="edHashtags" rows="2"></textarea>
+      </div>
+      <div class="ed-block">
+        <h3>Vista previa en vivo</h3>
+        <p class="hint">Con el primer ejercicio/artículo de este idioma como ejemplo.</p>
+        <div class="live" id="edLive">…</div>
+      </div>
+    </div>
+    <p class="sub" id="saveStatus" style="margin-top:14px"></p>
+  </section>
+</div>
+
+<dialog id="tokenDlg">
+  <form method="dialog" style="padding:18px">
+    <h3 style="margin:0 0 8px">Token de GitHub (para guardar)</h3>
+    <p class="sub" style="margin:0 0 12px">Se guarda solo en este navegador (localStorage). Necesita permiso <code>Contents: Read and write</code> sobre el repo.</p>
+    <input id="tokenInput" type="password" placeholder="github_pat_…" style="width:100%;margin-bottom:12px" />
+    <div style="display:flex;gap:8px;justify-content:flex-end">
+      <button class="btn" value="cancel">Cancelar</button>
+      <button class="btn primary" id="tokenSave" value="ok">Guardar token</button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+const REPO = "thibaud1010/ppf11-auto-publish-fb-ig";
+const RAW = "https://raw.githubusercontent.com/" + REPO + "/main";
+const LANGS = {es:"🇪🇸 Español",en:"🇬🇧 English",fr:"🇫🇷 Français",de:"🇩🇪 Deutsch",it:"🇮🇹 Italiano",pt:"🇧🇷 Português",nl:"🇳🇱 Nederlands"};
+const LANG_ORDER = ["es","en","fr","de","it","pt","nl"];
+const PAGE_MODE = ["es","fr","nl"];
+
+let DATA = { templates:null, hashtags:null, exercises:[], articles:[], state:{} };
+
+// ---------- utilidades ----------
+function parseCSV(text){
+  text = text.replace(/^﻿/,"");
+  const rows=[]; let f=[],cur="",q=false;
+  for(let i=0;i<text.length;i++){const c=text[i];
+    if(q){ if(c==='"'){ if(text[i+1]==='"'){cur+='"';i++;} else q=false;} else cur+=c; }
+    else{ if(c==='"')q=true; else if(c===','){f.push(cur);cur="";}
+      else if(c==='\n'){f.push(cur);rows.push(f);f=[];cur="";}
+      else if(c==='\r'){} else cur+=c; } }
+  if(cur.length||f.length){f.push(cur);rows.push(f);}
+  const head=rows.shift();
+  return rows.filter(r=>r.length>1).map(r=>Object.fromEntries(head.map((h,i)=>[h,(r[i]||"").trim()])));
+}
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+function mergeTags(lang,topic){ const b=(DATA.hashtags&&DATA.hashtags[lang])||""; return (b+" "+(topic||"")).trim().replace(/\s+/g," "); }
+function render(tpl,row){
+  return String(tpl)
+    .replace(/\{title\}/g,row.title).replace(/\{summary\}/g,row.summary)
+    .replace(/\{hashtags\}/g,mergeTags(row.language,row.hashtags)).replace(/\{url\}/g,row.url);
+}
+// rotación: replica pick_next + mark_posted (por image_url)
+function pickSequence(items,posted,n){
+  posted=[...(posted||[])]; const out=[];
+  for(let i=0;i<n;i++){
+    let p=items.find(it=>!posted.includes(it.image_url));
+    if(!p){ for(const u of posted){const f=items.find(it=>it.image_url===u); if(f){p=f;break;}} }
+    if(!p)p=items[0];
+    if(!p)break;
+    out.push(p);
+    const idx=posted.indexOf(p.image_url); if(idx>=0)posted.splice(idx,1); posted.push(p.image_url);
+  }
+  return out;
+}
+function itemsFor(kind,lang){ return (kind==="articles"?DATA.articles:DATA.exercises).filter(r=>r.language===lang); }
+
+// próximas fechas 07:00 y 18:00 desde ahora
+function upcomingSlots(days){
+  const slots=[]; const now=new Date();
+  for(let d=0; slots.length< days*2; d++){
+    for(const h of [7,18]){
+      const dt=new Date(now.getFullYear(),now.getMonth(),now.getDate()+d,h,0,0);
+      if(dt> now) slots.push(dt);
+    }
+  }
+  return slots.slice(0,days*2);
+}
+const DAYNAMES=["dom","lun","mar","mié","jue","vie","sáb"];
+function fmtDay(dt){const t=new Date(); const isToday=dt.toDateString()===t.toDateString();
+  const tm=new Date(t.getFullYear(),t.getMonth(),t.getDate()+1); const isTom=dt.toDateString()===tm.toDateString();
+  const base=`${DAYNAMES[dt.getDay()]} ${dt.getDate()}/${dt.getMonth()+1}`;
+  return isToday?`Hoy · ${base}`:isTom?`Mañana · ${base}`:base;}
+
+// ---------- carga ----------
+async function loadAll(){
+  const bust="?t="+Date.now();
+  const [tpl,ht,ex,ar,st]=await Promise.all([
+    fetch(RAW+"/config/templates.json"+bust).then(r=>r.json()),
+    fetch(RAW+"/config/hashtags.json"+bust).then(r=>r.json()),
+    fetch(RAW+"/content/exercises.csv"+bust).then(r=>r.text()).then(parseCSV),
+    fetch(RAW+"/content/articles.csv"+bust).then(r=>r.text()).then(parseCSV),
+    fetch(RAW+"/state/posted_log.json"+bust).then(r=>r.ok?r.json():{}).catch(()=>({})),
+  ]);
+  DATA={templates:tpl,hashtags:ht,exercises:ex,articles:ar,state:st||{}};
+}
+
+// ---------- PREVIEW ----------
+let plat="ig";
+function renderPreview(){
+  const lang=document.getElementById("langSel").value;
+  const days=+document.getElementById("daysSel").value;
+  const out=document.getElementById("previewOut");
+  const slots=upcomingSlots(days);
+  // secuencias por tipo (una por slot que aplique)
+  let cards=[];
+  if(plat==="ig"){
+    const seq=pickSequence(itemsFor("exercises",lang), DATA.state[`ig:${lang}:exercises`], slots.length);
+    slots.forEach((dt,i)=>{ const it=seq[i]; if(it)cards.push({dt,slot:dt.getHours()===7?"07:00":"18:00",kind:"Ejercicio",tpl:DATA.templates.ig_exercise[lang],it}); });
+  }else{
+    // FB: 07:00 artículo, 18:00 ejercicio
+    const arts=pickSequence(itemsFor("articles",lang), DATA.state[`fb:${lang}:articles`], days);
+    const exs=pickSequence(itemsFor("exercises",lang), DATA.state[`fb:${lang}:exercises`], days);
+    let ai=0,ei=0;
+    slots.forEach(dt=>{
+      if(dt.getHours()===7){const it=arts[ai++]; if(it)cards.push({dt,slot:"07:00",kind:"Artículo",tpl:DATA.templates.article[lang],it});}
+      else{const it=exs[ei++]; if(it)cards.push({dt,slot:"18:00",kind:"Ejercicio",tpl:DATA.templates.exercise[lang],it});}
+    });
+  }
+  document.getElementById("rotInfo").textContent =
+    `${plat==="ig"?"Instagram":"Facebook"} · ${LANGS[lang]} · ${PAGE_MODE.includes(lang)&&plat==="ig"?"modo Página":plat==="ig"?"modo Login":"Página"}`;
+  if(!cards.length){out.innerHTML='<div class="loading">Sin contenido para este idioma.</div>';return;}
+  let html="",lastDay="";
+  for(const c of cards){
+    const dh=fmtDay(c.dt);
+    if(dh!==lastDay){html+=`<div class="day-h">${dh}</div>`;lastDay=dh;}
+    const cap=render(c.tpl,c.it);
+    html+=`<div class="card">
+      <div class="meta"><span class="when">${c.slot}</span><span class="pill slot">${esc(c.kind)}</span>
+        <span style="flex:1"></span><span class="pill">${LANGS[c.it.language].split(" ")[0]}</span></div>
+      <img loading="lazy" src="${esc(c.it.image_url)}" alt=""/>
+      <div class="cap">${esc(cap)}</div></div>`;
+  }
+  out.innerHTML=html;
+}
+
+// ---------- EDITOR ----------
+function edFill(){
+  const lang=document.getElementById("edLangSel").value;
+  const type=document.getElementById("edTypeSel").value;
+  document.getElementById("edTemplate").value=DATA.templates[type][lang]||"";
+  document.getElementById("edHashtags").value=DATA.hashtags[lang]||"";
+  document.getElementById("urlVar").style.display = type==="ig_exercise"?"none":"inline";
+  document.getElementById("edTypeHint").textContent =
+    type==="ig_exercise"?"Instagram no admite enlaces clicables: no uses {url} (di «link en bio»).":"Puedes incluir {url} (enlace clicable en Facebook).";
+  edLive();
+}
+function edLive(){
+  const lang=document.getElementById("edLangSel").value;
+  const type=document.getElementById("edTypeSel").value;
+  const kind=type==="article"?"articles":"exercises";
+  const row=itemsFor(kind,lang)[0];
+  if(!row){document.getElementById("edLive").textContent="(sin ejemplo)";return;}
+  const tplText=document.getElementById("edTemplate").value;
+  const oldBase=DATA.hashtags[lang];
+  DATA.hashtags[lang]=document.getElementById("edHashtags").value; // temporal para preview
+  document.getElementById("edLive").textContent=render(tplText,row);
+  DATA.hashtags[lang]=oldBase;
+}
+
+// ---------- guardar (GitHub API) ----------
+function token(){return localStorage.getItem("ppf_gh_token")||"";}
+function b64(str){return btoa(unescape(encodeURIComponent(str)));}
+async function ghGet(path){
+  const r=await fetch(`https://api.github.com/repos/${REPO}/contents/${path}`,{headers:{Authorization:"Bearer "+token(),Accept:"application/vnd.github+json"}});
+  if(!r.ok)throw new Error("GET "+path+" → "+r.status); return r.json();
+}
+async function ghPut(path,contentStr,sha,msg){
+  const r=await fetch(`https://api.github.com/repos/${REPO}/contents/${path}`,{method:"PUT",
+    headers:{Authorization:"Bearer "+token(),Accept:"application/vnd.github+json"},
+    body:JSON.stringify({message:msg,content:b64(contentStr),sha})});
+  if(!r.ok){const e=await r.text();throw new Error("PUT "+path+" → "+r.status+" "+e);} return r.json();
+}
+async function saveChanges(){
+  const st=document.getElementById("saveStatus");
+  const lang=document.getElementById("edLangSel").value;
+  const type=document.getElementById("edTypeSel").value;
+  if(!token()){st.innerHTML='<span class="err">Falta el token. Pulsa 🔑 Token arriba.</span>';return;}
+  st.textContent="Guardando…";
+  try{
+    // aplica cambios en memoria
+    DATA.templates[type][lang]=document.getElementById("edTemplate").value;
+    DATA.hashtags[lang]=document.getElementById("edHashtags").value;
+    // commit templates.json
+    const tf=await ghGet("config/templates.json");
+    await ghPut("config/templates.json", JSON.stringify(DATA.templates,null,2)+"\n", tf.sha,
+      `panel: edita plantilla ${type}/${lang}`);
+    // commit hashtags.json
+    const hf=await ghGet("config/hashtags.json");
+    await ghPut("config/hashtags.json", JSON.stringify(DATA.hashtags,null,2)+"\n", hf.sha,
+      `panel: edita hashtags base ${lang}`);
+    st.innerHTML='<span class="ok">✓ Guardado. Si editaste el idioma base, el robot traducirá los demás en unos minutos.</span>';
+  }catch(e){ st.innerHTML='<span class="err">Error: '+esc(e.message)+'</span>'; }
+}
+
+// ---------- init ----------
+function fillLangSelects(){
+  for(const id of ["langSel","edLangSel"]){
+    const s=document.getElementById(id); s.innerHTML="";
+    LANG_ORDER.forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=LANGS[l];s.appendChild(o);});
+  }
+}
+function wire(){
+  document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
+    document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+    t.classList.add("active");
+    const n=t.dataset.tab;
+    document.getElementById("tab-preview").style.display=n==="preview"?"":"none";
+    document.getElementById("tab-editor").style.display=n==="editor"?"":"none";
+  });
+  document.querySelectorAll("#platSeg button").forEach(b=>b.onclick=()=>{
+    plat=b.dataset.plat;
+    document.querySelectorAll("#platSeg button").forEach(x=>{x.classList.remove("on","ig","fb");});
+    b.classList.add("on",plat); renderPreview();
+  });
+  document.getElementById("langSel").onchange=renderPreview;
+  document.getElementById("daysSel").onchange=renderPreview;
+  document.getElementById("edLangSel").onchange=edFill;
+  document.getElementById("edTypeSel").onchange=edFill;
+  document.getElementById("edTemplate").oninput=edLive;
+  document.getElementById("edHashtags").oninput=edLive;
+  document.getElementById("btnSave").onclick=saveChanges;
+  document.getElementById("btnReload").onclick=async()=>{await loadAll();renderPreview();edFill();};
+  const dlg=document.getElementById("tokenDlg");
+  document.getElementById("btnToken").onclick=()=>{document.getElementById("tokenInput").value=token();dlg.showModal();};
+  document.getElementById("tokenSave").onclick=()=>{localStorage.setItem("ppf_gh_token",document.getElementById("tokenInput").value.trim());};
+}
+(async function(){
+  fillLangSelects(); wire();
+  try{ await loadAll(); renderPreview(); edFill(); }
+  catch(e){ document.getElementById("previewOut").innerHTML='<div class="loading err">Error cargando datos: '+esc(e.message)+'</div>'; }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "_comment": "Enlaces fijos por idioma que usan los captions. free_exercises = página de ejercicios gratis (destino del gancho '+100 ejercicios gratis'). Verificados 200.",
+  "free_exercises": {
+    "es": "https://www.ppf11.com/es/entrenamientos/ejercicios-gratis",
+    "en": "https://www.ppf11.com/en/training/free-exercises",
+    "it": "https://www.ppf11.com/it/allenamenti/esercizi-gratuiti",
+    "pt": "https://www.ppf11.com/pt/treinos/exercicios-gratis",
+    "de": "https://www.ppf11.com/de/trainings/kostenlose-uebungen",
+    "nl": "https://www.ppf11.com/nl/trainingen/gratis-oefeningen",
+    "fr": "https://www.preparationphysiquefootball.com/entrainements/exercices-gratuits"
+  }
+}

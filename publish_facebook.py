@@ -43,13 +43,16 @@ def main():
             continue
         key = f"fb:{lang}:{kind}"
         item = st.pick_next(items, key, state)
-        try:
-            template = templates[args.type][lang]
-        except KeyError:
-            print(f"[FB][{lang}] falta plantilla '{args.type}' para el idioma")
-            fail += 1
-            continue
-        caption = render_caption(template, item)
+        # Preferimos el caption ya redactado (columna caption_fb); si no, plantilla.
+        caption = (item.get("caption_fb") or "").strip()
+        if not caption:
+            try:
+                template = templates[args.type][lang]
+            except KeyError:
+                print(f"[FB][{lang}] falta caption_fb y plantilla '{args.type}'")
+                fail += 1
+                continue
+            caption = render_caption(template, item)
 
         if args.dry_run:
             print(f"[FB][{lang}] DRY-RUN -> {item['url']}\n{caption}\n---")

@@ -41,13 +41,16 @@ def main():
             continue
         key = f"ig:{lang}:{KIND}"
         item = st.pick_next(items, key, state)
-        try:
-            template = templates[TYPE][lang]
-        except KeyError:
-            print(f"[IG][{lang}] falta plantilla '{TYPE}' para el idioma")
-            fail += 1
-            continue
-        caption = render_caption(template, item)
+        # Preferimos el caption ya redactado (columna caption_ig); si no, plantilla.
+        caption = (item.get("caption_ig") or "").strip()
+        if not caption:
+            try:
+                template = templates[TYPE][lang]
+            except KeyError:
+                print(f"[IG][{lang}] falta caption_ig y plantilla '{TYPE}'")
+                fail += 1
+                continue
+            caption = render_caption(template, item)
 
         if args.dry_run:
             print(f"[IG][{lang}] DRY-RUN -> {item['url']}\n{caption}\n---")

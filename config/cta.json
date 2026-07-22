@@ -1,0 +1,34 @@
+{
+  "_comment": "Líneas de CTA que se AÑADEN al cuerpo generado (con enlaces de links.json). Placeholders: {free_ex}=página ejercicios gratis del idioma, {article_url}=url del artículo, {exercise_url}=url del ejercicio (fr tiene página propia). IG no admite enlaces clicables → 'enlace en la bio'. FB sí → URL completa.",
+  "exercise": {
+    "ig": {
+      "es": "👉 Este ejercicio y +100 más, gratis en ppf11.com — enlace en la bio.",
+      "en": "👉 This drill and 100+ more, free on ppf11.com — link in bio.",
+      "fr": "👉 Cet exercice et +100 autres, gratuits sur preparationphysiquefootball.com — lien en bio.",
+      "de": "👉 Diese Übung und +100 weitere, gratis auf ppf11.com — Link in der Bio.",
+      "it": "👉 Questo esercizio e +100 altri, gratis su ppf11.com — link in bio.",
+      "pt": "👉 Este exercício e +100 mais, grátis em ppf11.com — link na bio.",
+      "nl": "👉 Deze oefening en +100 andere, gratis op ppf11.com — link in bio."
+    },
+    "fb": {
+      "es": "👉 Este ejercicio y +100 más, gratis: {free_ex}",
+      "en": "👉 This drill and 100+ more, free: {free_ex}",
+      "fr": "👉 Cet exercice en détail : {exercise_url}\n🎁 +100 exercices gratuits : {free_ex}",
+      "de": "👉 Diese Übung und +100 weitere, gratis: {free_ex}",
+      "it": "👉 Questo esercizio e +100 altri, gratis: {free_ex}",
+      "pt": "👉 Este exercício e +100 mais, grátis: {free_ex}",
+      "nl": "👉 Deze oefening en +100 andere, gratis: {free_ex}"
+    }
+  },
+  "article": {
+    "fb": {
+      "es": "👉 Lee el artículo completo: {article_url}\n🎁 +100 ejercicios gratis: {free_ex}",
+      "en": "👉 Read the full article: {article_url}\n🎁 100+ free exercises: {free_ex}",
+      "fr": "👉 Lis l'article complet : {article_url}\n🎁 +100 exercices gratuits : {free_ex}",
+      "de": "👉 Lies den ganzen Artikel: {article_url}\n🎁 Über 100 kostenlose Übungen: {free_ex}",
+      "it": "👉 Leggi l'articolo completo: {article_url}\n🎁 Oltre 100 esercizi gratuiti: {free_ex}",
+      "pt": "👉 Lê o artigo completo: {article_url}\n🎁 +100 exercícios grátis: {free_ex}",
+      "nl": "👉 Lees het volledige artikel: {article_url}\n🎁 100+ gratis oefeningen: {free_ex}"
+    }
+  }
+}

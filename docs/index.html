@@ -263,7 +263,9 @@ function renderPreview(){
   for(const c of cards){
     const dh=fmtDay(c.dt);
     if(dh!==lastDay){html+=`<div class="day-h">${dh}</div>`;lastDay=dh;}
-    const cap=render(c.tpl,c.it);
+    // Preferimos el caption ya redactado (caption_ig / caption_fb); si no, plantilla.
+    const stored=(plat==="ig"?c.it.caption_ig:c.it.caption_fb)||"";
+    const cap=stored.trim()?stored:render(c.tpl,c.it);
     html+=`<div class="card">
       <div class="meta"><span class="when">${c.slot}</span><span class="pill slot">${esc(c.kind)}</span>
         <span style="flex:1"></span><span class="pill">${LANGS[c.it.language].split(" ")[0]}</span></div>

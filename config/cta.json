@@ -27,7 +27,7 @@
       "fr": "👉 Lis l'article complet : {article_url}\n🎁 +100 exercices gratuits : {free_ex}",
       "de": "👉 Lies den ganzen Artikel: {article_url}\n🎁 Über 100 kostenlose Übungen: {free_ex}",
       "it": "👉 Leggi l'articolo completo: {article_url}\n🎁 Oltre 100 esercizi gratuiti: {free_ex}",
-      "pt": "👉 Lê o artigo completo: {article_url}\n🎁 +100 exercícios grátis: {free_ex}",
+      "pt": "👉 Leia o artigo completo: {article_url}\n🎁 +100 exercícios grátis: {free_ex}",
       "nl": "👉 Lees het volledige artikel: {article_url}\n🎁 100+ gratis oefeningen: {free_ex}"
     }
   }

@@ -1,0 +1,40 @@
+name: Propagar edición a los demás idiomas (IA)
+
+# Cuando el panel guarda una edición y pulsas "Traducir a los demás", escribe
+# state/propagate_request.json. Este workflow lo detecta, traduce el cuerpo del
+# caption a los idiomas que comparten el post y re-ensambla con los enlaces de cada uno.
+# (Los commits del panel usan tu PAT y SÍ disparan esto; los del propio bot con
+# GITHUB_TOKEN no re-disparan, así que no hay bucles.)
+on:
+  push:
+    paths: ["state/propagate_request.json"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  propagate:
+    runs-on: ubuntu-latest
+    concurrency: propagate
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Propagar con IA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python propagate_captions.py
+      - name: Guardar resultado
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add content/exercises.csv content/articles.csv state/propagate_request.json
+          git commit -m "propagacion IA de caption ($(date -u +%FT%TZ))" || { echo "sin cambios"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "reintento push $i"; sleep 5
+          done
+          echo "push fallo" >&2; exit 1

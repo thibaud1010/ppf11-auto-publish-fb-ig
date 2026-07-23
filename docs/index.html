@@ -151,10 +151,12 @@
         <select id="edPostSel"></select>
       </label>
       <div class="spacer"></div>
+      <button class="btn" id="btnPropagate">🌍 Traducir a los demás</button>
       <button class="btn primary" id="btnSave">💾 Guardar cambios (<span id="dirtyN">0</span>)</button>
     </div>
     <div class="note">
-      Edita el texto de este post concreto. Los cambios se acumulan; pulsa <b>Guardar cambios</b> para subirlos todos de una vez.
+      Edita el texto de este post concreto. Los cambios se acumulan; pulsa <b>Guardar cambios</b> para subirlos.
+      <b>Traducir a los demás</b> lleva este caption a los otros idiomas del mismo post (respetando enlaces y hashtags de cada uno).
       (Ejercicio: Instagram y Facebook tienen su propio texto; el artículo solo Facebook.)
     </div>
     <div class="ed-grid">
@@ -442,6 +444,21 @@ async function saveChanges(){
   }catch(e){ st.innerHTML='<span class="err">Error: '+esc(e.message)+'</span>'; }
 }
 
+// ---------- propagar edición a los demás idiomas ----------
+async function propagateEdit(){
+  const st=document.getElementById("saveStatus");
+  if(!token()){st.innerHTML='<span class="err">Falta el token (🔑 arriba).</span>';return;}
+  const it=edItems()[+$("edPostSel").value]; if(!it)return;
+  st.textContent="Guardando y lanzando la traducción…";
+  try{
+    await saveChanges();                       // sube primero la edición actual
+    const req={image_url:it.image_url, platform:edPlatform(), source_lang:$("edLangSel").value, ts:Date.now()};
+    let sha; try{ sha=(await ghGet("state/propagate_request.json")).sha; }catch(e){ sha=undefined; }
+    await ghPut("state/propagate_request.json", JSON.stringify(req,null,2)+"\n", sha, "panel: solicita propagacion IA");
+    st.innerHTML='<span class="ok">✓ Traducción en marcha. En ~2-3 min los demás idiomas se actualizan (pulsa ↻ Recargar para verlos).</span>';
+  }catch(e){ st.innerHTML='<span class="err">Error: '+esc(e.message)+'</span>'; }
+}
+
 // ---------- init ----------
 function fillLangSelects(){
   for(const id of ["langSel","edLangSel"]){
@@ -474,6 +491,7 @@ function wire(){
   document.getElementById("edPostSel").onchange=edLoadPost;
   document.getElementById("edCaption").oninput=edEdited;
   document.getElementById("btnSave").onclick=saveChanges;
+  document.getElementById("btnPropagate").onclick=propagateEdit;
   document.getElementById("btnReload").onclick=async()=>{await loadAll();renderPreview();edFillPosts();};
   const dlg=document.getElementById("tokenDlg");
   document.getElementById("btnToken").onclick=()=>{document.getElementById("tokenInput").value=token();dlg.showModal();};

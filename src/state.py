@@ -11,12 +11,22 @@ Estructura de state/posted_log.json:
   ...
 }
 """
+import datetime
 import json
 
 from .config import STATE_DIR
 
 # campo que identifica de forma unica cada item (ver nota arriba)
 IDENTITY = "image_url"
+
+
+def log_history(record):
+    """Anade una linea al historico de publicaciones (state/history.jsonl)."""
+    STATE_DIR.mkdir(exist_ok=True)
+    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    line = json.dumps({"ts": now, **record}, ensure_ascii=False)
+    with open(STATE_DIR / "history.jsonl", "a", encoding="utf-8") as f:
+        f.write(line + "\n")
 
 
 def _path():

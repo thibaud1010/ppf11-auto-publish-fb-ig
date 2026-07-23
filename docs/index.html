@@ -64,6 +64,14 @@
   .appr input{width:18px;height:18px;accent-color:var(--accent);cursor:pointer}
   .day-h.done{color:var(--accent-ink)}
   .loading{color:var(--muted);padding:40px;text-align:center}
+  /* Histórico */
+  .hist{max-width:1000px;margin:0 auto;display:flex;flex-direction:column;gap:8px}
+  .hrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:13px}
+  .hstatus{font-weight:700;font-size:12px}
+  .hstatus.ok{color:var(--accent-ink)} .hstatus.err{color:#ff9b9b}
+  .htype{color:var(--muted);text-transform:capitalize}
+  .htitle{flex:1;min-width:160px;font-weight:600}
+  .hdate{color:var(--muted);font-variant-numeric:tabular-nums;font-size:12px}
   .ed-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
   @media(max-width:820px){.ed-grid{grid-template-columns:1fr}}
   .ed-block{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px}
@@ -95,7 +103,8 @@
 
   <div class="tabs">
     <div class="tab active" data-tab="preview">📅 Próximos posts</div>
-    <div class="tab" data-tab="editor">✏️ Editor de textos y hashtags</div>
+    <div class="tab" data-tab="editor">✏️ Editor de captions</div>
+    <div class="tab" data-tab="history">📜 Histórico</div>
   </div>
 
   <!-- ===== PREVIEW ===== -->
@@ -162,6 +171,22 @@
     </div>
     <p class="sub" id="saveStatus" style="margin-top:14px"></p>
   </section>
+
+  <!-- ===== HISTÓRICO ===== -->
+  <section id="tab-history" style="display:none">
+    <div class="controls" style="justify-content:center">
+      <label class="fld">Ver
+        <select id="hFilter">
+          <option value="all">Todo</option>
+          <option value="ig">Instagram</option>
+          <option value="fb">Facebook</option>
+          <option value="error">Solo errores</option>
+        </select>
+      </label>
+      <button class="btn small" id="btnReload2">↻ Recargar</button>
+    </div>
+    <div id="historyOut"><div class="loading">…</div></div>
+  </section>
 </div>
 
 <dialog id="tokenDlg">
@@ -183,7 +208,7 @@ const LANGS = {es:"🇪🇸 Español",en:"🇬🇧 English",fr:"🇫🇷 França
 const LANG_ORDER = ["es","en","fr","de","it","pt","nl"];
 const PAGE_MODE = ["es","fr","nl"];
 
-let DATA = { templates:null, hashtags:null, exercises:[], articles:[], state:{} };
+let DATA = { templates:null, hashtags:null, exercises:[], articles:[], state:{}, history:[], approvals:{} };
 
 // ---------- utilidades ----------
 function parseCSV(text){
@@ -238,24 +263,35 @@ function fmtDay(dt){const t=new Date(); const isToday=dt.toDateString()===t.toDa
   return isToday?`Hoy · ${base}`:isTom?`Mañana · ${base}`:base;}
 
 // ---------- carga ----------
+function parseJSONL(text){
+  return (text||"").split("\n").map(l=>l.trim()).filter(Boolean).map(l=>{try{return JSON.parse(l);}catch(e){return null;}}).filter(Boolean);
+}
 async function loadAll(){
   const bust="?t="+Date.now();
-  const [tpl,ht,ex,ar,st]=await Promise.all([
+  const [tpl,ht,ex,ar,st,hist,appr]=await Promise.all([
     fetch(RAW+"/config/templates.json"+bust).then(r=>r.json()),
     fetch(RAW+"/config/hashtags.json"+bust).then(r=>r.json()),
     fetch(RAW+"/content/exercises.csv"+bust).then(r=>r.text()).then(parseCSV),
     fetch(RAW+"/content/articles.csv"+bust).then(r=>r.text()).then(parseCSV),
     fetch(RAW+"/state/posted_log.json"+bust).then(r=>r.ok?r.json():{}).catch(()=>({})),
+    fetch(RAW+"/state/history.jsonl"+bust).then(r=>r.ok?r.text():"").catch(()=>""),
+    fetch(RAW+"/state/approvals.json"+bust).then(r=>r.ok?r.json():{}).catch(()=>({})),
   ]);
-  DATA={templates:tpl,hashtags:ht,exercises:ex,articles:ar,state:st||{}};
+  DATA={templates:tpl,hashtags:ht,exercises:ex,articles:ar,state:st||{},history:parseJSONL(hist),approvals:appr||{}};
 }
 
 // ---------- PREVIEW ----------
 let plat="all";
 // ---- aprobación por día (se guarda en este navegador) ----
 function dayKey(dt){ return `${dt.getFullYear()}-${dt.getMonth()+1}-${dt.getDate()}`; }
-function approvals(){ try{ return JSON.parse(localStorage.getItem("ppf_approvals")||"{}"); }catch(e){ return {}; } }
-function setApproval(k,v){ const a=approvals(); if(v)a[k]=1; else delete a[k]; localStorage.setItem("ppf_approvals",JSON.stringify(a)); }
+function approvals(){ return DATA.approvals||{}; }
+async function setApproval(k,v){
+  if(v)DATA.approvals[k]=1; else delete DATA.approvals[k];
+  if(token()){
+    try{ const f=await ghGet("state/approvals.json"); await ghPut("state/approvals.json", JSON.stringify(DATA.approvals,null,2)+"\n", f.sha, `panel: aprobacion ${k}=${v?1:0}`); }
+    catch(e){ console.warn("approval save", e); }
+  } else { localStorage.setItem("ppf_approvals", JSON.stringify(DATA.approvals)); }
+}
 
 function buildCardsFor(p, lang, slots, days){
   const cards=[];
@@ -310,6 +346,31 @@ function renderPreview(){
     const hdr=out.querySelector(`[data-dayhdr="${cb.dataset.day}"]`);
     if(hdr) hdr.classList.toggle('done', cb.checked);
   });
+}
+
+// ---------- HISTÓRICO ----------
+function renderHistory(){
+  const out=document.getElementById("historyOut");
+  const filter=document.getElementById("hFilter").value;
+  let items=(DATA.history||[]).slice().reverse();
+  if(filter==="error") items=items.filter(x=>x.status==="error");
+  else if(filter!=="all") items=items.filter(x=>x.platform===filter);
+  if(!items.length){out.innerHTML='<div class="loading">Aún no hay publicaciones registradas. Aparecerán aquí cuando el sistema publique (o tras la primera prueba).</div>';return;}
+  let html='<div class="hist">';
+  for(const it of items){
+    const dt=(it.ts||"").replace("T"," ").replace("Z"," UTC");
+    const ok=it.status==="ok";
+    const type=it.type==="article"?"Artículo":"Ejercicio";
+    html+=`<div class="hrow">
+      <span class="pill pl-${it.platform}">${it.platform==="ig"?"Instagram":"Facebook"}</span>
+      <span class="hstatus ${ok?'ok':'err'}">${ok?'✓ publicado':'✕ error'}</span>
+      <span class="flag">${(LANGS[it.lang]||it.lang||'').split(" ")[0]}</span>
+      <span class="htype">${esc(type)}</span>
+      <span class="htitle">${esc(it.title||'')}</span>
+      <span class="hdate">${esc(dt)}</span>
+    </div>`;
+  }
+  out.innerHTML=html+'</div>';
 }
 
 // ---------- EDITOR (por post) ----------
@@ -395,7 +456,11 @@ function wire(){
     const n=t.dataset.tab;
     document.getElementById("tab-preview").style.display=n==="preview"?"":"none";
     document.getElementById("tab-editor").style.display=n==="editor"?"":"none";
+    document.getElementById("tab-history").style.display=n==="history"?"":"none";
+    if(n==="history") renderHistory();
   });
+  document.getElementById("hFilter").onchange=renderHistory;
+  document.getElementById("btnReload2").onclick=async()=>{await loadAll();renderHistory();};
   document.querySelectorAll("#platSeg button").forEach(b=>b.onclick=()=>{
     plat=b.dataset.plat;
     document.querySelectorAll("#platSeg button").forEach(x=>{x.classList.remove("on","ig","fb","all");});

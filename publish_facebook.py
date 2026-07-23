@@ -59,14 +59,19 @@ def main():
             st.mark_posted(state, key, item["image_url"])
             ok += 1
             continue
+        hist = {"platform": "fb", "lang": lang, "type": args.type,
+                "title": item.get("title", ""), "url": item.get("url", ""),
+                "image_url": item["image_url"]}
         try:
             token = get_token(f"FB_TOKEN_{lang.upper()}")
             res = publish_photo(fb["page_id"], token, item["image_url"], caption)
             print(f"[FB][{lang}] OK id={res.get('id')} <- {item['url']}")
             st.mark_posted(state, key, item["image_url"])
+            st.log_history({**hist, "status": "ok", "post_id": res.get("id", "")})
             ok += 1
         except Exception as e:  # noqa: BLE001
             print(f"[FB][{lang}] ERROR: {e}")
+            st.log_history({**hist, "status": "error", "error": str(e)[:200]})
             fail += 1
 
     st.save_state(state)

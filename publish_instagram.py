@@ -69,9 +69,15 @@ def main():
             res = publish(ig["ig_user_id"], token, item["image_url"], caption, host=host)
             print(f"[IG][{lang}] OK ({mode}) id={res.get('id')} <- {item['url']}")
             st.mark_posted(state, key, item["image_url"])
+            st.log_history({"platform": "ig", "lang": lang, "type": "exercise",
+                            "title": item.get("title", ""), "url": item.get("url", ""),
+                            "image_url": item["image_url"], "status": "ok", "post_id": res.get("id", "")})
             ok += 1
         except Exception as e:  # noqa: BLE001
             print(f"[IG][{lang}] ERROR: {e}")
+            st.log_history({"platform": "ig", "lang": lang, "type": "exercise",
+                            "title": item.get("title", ""), "url": item.get("url", ""),
+                            "image_url": item.get("image_url", ""), "status": "error", "error": str(e)[:200]})
             fail += 1
 
     st.save_state(state)

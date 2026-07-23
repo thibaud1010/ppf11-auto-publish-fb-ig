@@ -118,9 +118,11 @@
       <label class="fld">Idioma
         <select id="langSel"></select>
       </label>
-      <label class="fld">Días
+      <label class="fld">Periodo
         <select id="daysSel">
-          <option value="3">3 días</option>
+          <option value="hoy">Hoy</option>
+          <option value="manana">Mañana</option>
+          <option value="3" selected>3 días</option>
           <option value="5">5 días</option>
           <option value="7">7 días</option>
         </select>
@@ -247,16 +249,22 @@ function pickSequence(items,posted,n){
 }
 function itemsFor(kind,lang){ return (kind==="articles"?DATA.articles:DATA.exercises).filter(r=>r.language===lang); }
 
-// próximas fechas 07:00 y 18:00 desde ahora
-function upcomingSlots(days){
-  const slots=[]; const now=new Date();
-  for(let d=0; slots.length< days*2; d++){
-    for(const h of [7,18]){
-      const dt=new Date(now.getFullYear(),now.getMonth(),now.getDate()+d,h,0,0);
-      if(dt> now) slots.push(dt);
-    }
+// franjas 07:00 y 18:00 en el horizonte (8 días); luego se filtra por periodo
+const HORIZON=8;
+function horizonSlots(){
+  const now=new Date(); const out=[];
+  for(let d=0; d<HORIZON; d++) for(const h of [7,18]){
+    const dt=new Date(now.getFullYear(),now.getMonth(),now.getDate()+d,h,0,0);
+    if(dt>now) out.push(dt);
   }
-  return slots.slice(0,days*2);
+  return out;
+}
+function inWindow(dt, mode){
+  const now=new Date();
+  if(mode==="hoy") return dt.toDateString()===now.toDateString();
+  if(mode==="manana"){ const t=new Date(now.getFullYear(),now.getMonth(),now.getDate()+1); return dt.toDateString()===t.toDateString(); }
+  const n=+mode; const limit=new Date(now.getFullYear(),now.getMonth(),now.getDate()+n,0,0,0);
+  return dt<limit;
 }
 const DAYNAMES=["dom","lun","mar","mié","jue","vie","sáb"];
 function fmtDay(dt){const t=new Date(); const isToday=dt.toDateString()===t.toDateString();
@@ -295,14 +303,15 @@ async function setApproval(k,v){
   } else { localStorage.setItem("ppf_approvals", JSON.stringify(DATA.approvals)); }
 }
 
-function buildCardsFor(p, lang, slots, days){
+function buildCardsFor(p, lang, slots){
   const cards=[];
   if(p==="ig"){
     const seq=pickSequence(itemsFor("exercises",lang), DATA.state[`ig:${lang}:exercises`], slots.length);
     slots.forEach((dt,i)=>{ const it=seq[i]; if(it)cards.push({dt,slot:dt.getHours()===7?"07:00":"18:00",kind:"Ejercicio",plat:"ig",fld:"caption_ig",it}); });
   }else{ // fb: 07:00 artículo, 18:00 ejercicio
-    const arts=pickSequence(itemsFor("articles",lang), DATA.state[`fb:${lang}:articles`], days);
-    const exs=pickSequence(itemsFor("exercises",lang), DATA.state[`fb:${lang}:exercises`], days);
+    const n7=slots.filter(dt=>dt.getHours()===7).length, n18=slots.filter(dt=>dt.getHours()===18).length;
+    const arts=pickSequence(itemsFor("articles",lang), DATA.state[`fb:${lang}:articles`], n7);
+    const exs=pickSequence(itemsFor("exercises",lang), DATA.state[`fb:${lang}:exercises`], n18);
     let ai=0,ei=0;
     slots.forEach(dt=>{
       if(dt.getHours()===7){const it=arts[ai++]; if(it)cards.push({dt,slot:"07:00",kind:"Artículo",plat:"fb",fld:"caption_fb",it});}
@@ -313,14 +322,16 @@ function buildCardsFor(p, lang, slots, days){
 }
 function renderPreview(){
   const lang=document.getElementById("langSel").value;
-  const days=+document.getElementById("daysSel").value;
+  const mode=document.getElementById("daysSel").value;
   const out=document.getElementById("previewOut");
-  const slots=upcomingSlots(days);
+  const slots=horizonSlots();
   const plats = plat==="all" ? ["fb","ig"] : [plat];
+  const langs = lang==="all" ? LANG_ORDER : [lang];
   let cards=[];
-  for(const p of plats) cards=cards.concat(buildCardsFor(p,lang,slots,days));
-  cards.sort((a,b)=> (a.dt-b.dt) || (a.slot<b.slot?-1:a.slot>b.slot?1:0) || (a.plat<b.plat?-1:a.plat>b.plat?1:0));
-  if(!cards.length){out.innerHTML='<div class="loading">Sin contenido para este idioma.</div>';return;}
+  for(const L of langs) for(const p of plats) cards=cards.concat(buildCardsFor(p,L,slots));
+  cards=cards.filter(c=>inWindow(c.dt, mode));
+  cards.sort((a,b)=> (a.dt-b.dt) || (a.slot<b.slot?-1:a.slot>b.slot?1:0) || (a.plat<b.plat?-1:a.plat>b.plat?1:0) || (a.it.language<b.it.language?-1:a.it.language>b.it.language?1:0));
+  if(!cards.length){out.innerHTML='<div class="loading">Sin contenido en este periodo.</div>';return;}
   const appr=approvals();
   let html="",lastDay="";
   for(const c of cards){
@@ -332,8 +343,9 @@ function renderPreview(){
       lastDay=dh;
     }
     const stored=(c.it[c.fld]||"");
-    const fbTpl = c.kind==="Artículo"?DATA.templates.article[lang]:DATA.templates.exercise[lang];
-    const cap=stored.trim()?stored:render(c.plat==="ig"?DATA.templates.ig_exercise[lang]:fbTpl, c.it);
+    const L=c.it.language;
+    const fbTpl = c.kind==="Artículo"?(DATA.templates.article||{})[L]:(DATA.templates.exercise||{})[L];
+    const cap=stored.trim()?stored:render(c.plat==="ig"?(DATA.templates.ig_exercise||{})[L]:fbTpl, c.it);
     html+=`<div class="card">
       <div class="meta"><span class="when">${c.slot}</span>
         <span class="pill pl-${c.plat}">${c.plat==="ig"?"Instagram":"Facebook"}</span>
@@ -461,10 +473,11 @@ async function propagateEdit(){
 
 // ---------- init ----------
 function fillLangSelects(){
-  for(const id of ["langSel","edLangSel"]){
-    const s=document.getElementById(id); s.innerHTML="";
-    LANG_ORDER.forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=LANGS[l];s.appendChild(o);});
-  }
+  const ls=document.getElementById("langSel");
+  ls.innerHTML='<option value="all">🌍 Todos los idiomas</option>';
+  LANG_ORDER.forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=LANGS[l];ls.appendChild(o);});
+  const es=document.getElementById("edLangSel"); es.innerHTML="";
+  LANG_ORDER.forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=LANGS[l];es.appendChild(o);});
 }
 function wire(){
   document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{

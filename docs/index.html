@@ -243,6 +243,9 @@
 <script>
 const REPO = "thibaud1010/ppf11-auto-publish-fb-ig";
 const RAW = "https://raw.githubusercontent.com/" + REPO + "/main";
+// Hash SHA-256 de la contraseña del panel (vacío = sin candado). Se incrusta aquí
+// (servido por GitHub Pages) para no depender de la caché de raw.
+const PANEL_HASH = "a8325756bf8d424dfed1f6750c65455acd633e154eadebc23c90ceff30cefc3c";
 const LANGS = {es:"🇪🇸 Español",en:"🇬🇧 English",fr:"🇫🇷 Français",de:"🇩🇪 Deutsch",it:"🇮🇹 Italiano",pt:"🇧🇷 Português",nl:"🇳🇱 Nederlands"};
 const LANG_ORDER = ["es","en","fr","de","it","pt","nl"];
 const PAGE_MODE = ["es","fr","nl"];
@@ -313,7 +316,7 @@ function parseJSONL(text){
 }
 async function loadAll(){
   const bust="?t="+Date.now();
-  const [tpl,ht,ex,ar,st,hist,appr,auth]=await Promise.all([
+  const [tpl,ht,ex,ar,st,hist,appr]=await Promise.all([
     fetch(RAW+"/config/templates.json"+bust).then(r=>r.json()),
     fetch(RAW+"/config/hashtags.json"+bust).then(r=>r.json()),
     fetch(RAW+"/content/exercises.csv"+bust).then(r=>r.text()).then(parseCSV),
@@ -321,9 +324,8 @@ async function loadAll(){
     fetch(RAW+"/state/posted_log.json"+bust).then(r=>r.ok?r.json():{}).catch(()=>({})),
     fetch(RAW+"/state/history.jsonl"+bust).then(r=>r.ok?r.text():"").catch(()=>""),
     fetch(RAW+"/state/approvals.json"+bust).then(r=>r.ok?r.json():{}).catch(()=>({})),
-    fetch(RAW+"/config/panel_auth.json"+bust).then(r=>r.ok?r.json():{}).catch(()=>({})),
   ]);
-  DATA={templates:tpl,hashtags:ht,exercises:ex,articles:ar,state:st||{},history:parseJSONL(hist),approvals:appr||{},auth:auth||{}};
+  DATA={templates:tpl,hashtags:ht,exercises:ex,articles:ar,state:st||{},history:parseJSONL(hist),approvals:appr||{}};
 }
 
 // ---------- PREVIEW ----------
@@ -518,13 +520,12 @@ function showGateView(setup){
   document.getElementById("setupView").style.display=setup?"":"none";
 }
 function checkGate(){
-  const hash=DATA.auth&&DATA.auth.hash;
-  if(!hash || sessionStorage.getItem("ppf_unlocked")==="1"){ gateEl().classList.remove("on"); }
+  if(!PANEL_HASH || sessionStorage.getItem("ppf_unlocked")==="1"){ gateEl().classList.remove("on"); }
   else { gateEl().classList.add("on"); showGateView(false); document.getElementById("authPass").focus(); }
 }
 async function tryUnlock(){
   const h=await sha256(document.getElementById("authPass").value);
-  if(h===(DATA.auth&&DATA.auth.hash)){ sessionStorage.setItem("ppf_unlocked","1"); gateEl().classList.remove("on"); }
+  if(h===PANEL_HASH){ sessionStorage.setItem("ppf_unlocked","1"); gateEl().classList.remove("on"); }
   else { document.getElementById("authErr").textContent="Contraseña incorrecta."; }
 }
 async function genHash(){
@@ -581,7 +582,7 @@ function wire(){
   document.getElementById("genBtn").onclick=genHash;
 }
 (async function(){
-  fillLangSelects(); wire();
+  fillLangSelects(); wire(); checkGate();
   try{ await loadAll(); checkGate(); renderPreview(); edFillPosts(); }
   catch(e){ document.getElementById("previewOut").innerHTML='<div class="loading err">Error cargando datos: '+esc(e.message)+'</div>'; }
 })();

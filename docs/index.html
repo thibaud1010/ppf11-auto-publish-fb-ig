@@ -25,6 +25,8 @@
   .gatebox p{margin:0 0 16px;color:var(--muted);font-size:13px}
   .gatebox input{width:100%;margin-bottom:12px;padding:11px 12px}
   .gatebox .btn{width:100%}
+  .glink{color:var(--accent-ink);font-size:12.5px;margin-top:14px;cursor:pointer;text-decoration:underline}
+  #hashField{font-family:ui-monospace,Consolas,monospace;font-size:11px}
   header.top{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:6px}
   .logo{width:38px;height:38px;border-radius:10px;display:grid;place-items:center;font-size:20px;
     background:linear-gradient(135deg,var(--accent),#0d7a3f);flex:none}
@@ -102,10 +104,23 @@
   <div class="gatebox">
     <div class="glogo">⚽</div>
     <h2>Panel PPF11</h2>
-    <p>Introduce la contraseña para acceder al panel.</p>
-    <input id="authPass" type="password" placeholder="Contraseña" autocomplete="current-password" />
-    <button class="btn primary" id="authBtn">Entrar</button>
-    <div id="authErr" class="err"></div>
+    <div id="loginView">
+      <p>Introduce la contraseña para acceder.</p>
+      <input id="authPass" type="password" placeholder="Contraseña" autocomplete="current-password" />
+      <button class="btn primary" id="authBtn">Entrar</button>
+      <div id="authErr" class="err"></div>
+      <div class="glink" id="toSetup">Crear / cambiar contraseña</div>
+    </div>
+    <div id="setupView" style="display:none">
+      <p>Escribe la contraseña que quieras. Te dará un código: pégamelo en el chat una vez y la activo.</p>
+      <input id="newPass" type="text" placeholder="Nueva contraseña" />
+      <button class="btn" id="genBtn">Generar código</button>
+      <div id="hashOut" style="display:none;margin-top:12px">
+        <p class="sub">Copia este código y pégamelo en el chat:</p>
+        <input id="hashField" readonly onclick="this.select()" />
+      </div>
+      <div class="glink" id="toLogin">← Volver al login</div>
+    </div>
   </div>
 </div>
 <div class="app">
@@ -492,35 +507,33 @@ async function propagateEdit(){
   }catch(e){ st.innerHTML='<span class="err">Error: '+esc(e.message)+'</span>'; }
 }
 
-// ---------- candado de acceso ----------
+// ---------- candado de acceso (login por contraseña, sin token) ----------
 async function sha256(s){
   const buf=await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
   return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,"0")).join("");
 }
 function gateEl(){ return document.getElementById("authGate"); }
+function showGateView(setup){
+  document.getElementById("loginView").style.display=setup?"none":"";
+  document.getElementById("setupView").style.display=setup?"":"none";
+}
 function checkGate(){
   const hash=DATA.auth&&DATA.auth.hash;
   if(!hash || sessionStorage.getItem("ppf_unlocked")==="1"){ gateEl().classList.remove("on"); }
-  else { gateEl().classList.add("on"); document.getElementById("authPass").focus(); }
+  else { gateEl().classList.add("on"); showGateView(false); document.getElementById("authPass").focus(); }
 }
 async function tryUnlock(){
   const h=await sha256(document.getElementById("authPass").value);
   if(h===(DATA.auth&&DATA.auth.hash)){ sessionStorage.setItem("ppf_unlocked","1"); gateEl().classList.remove("on"); }
   else { document.getElementById("authErr").textContent="Contraseña incorrecta."; }
 }
-async function setPanelPassword(){
-  if(!token()){ alert("Pega primero tu token (botón 🔑) para poder fijar la contraseña."); return; }
-  const p=prompt("Nueva contraseña del panel (déjalo vacío y Aceptar para quitarla):");
-  if(p===null) return;
-  let auth={};
-  if(p){ const p2=prompt("Repite la contraseña:"); if(p!==p2){ alert("No coinciden, prueba de nuevo."); return; } auth={hash:await sha256(p)}; }
-  try{
-    let sha; try{ sha=(await ghGet("config/panel_auth.json")).sha; }catch(e){}
-    await ghPut("config/panel_auth.json", JSON.stringify(auth,null,2)+"\n", sha, "panel: cambia contrasena de acceso");
-    DATA.auth=auth; sessionStorage.setItem("ppf_unlocked","1");
-    alert(p?"✓ Contraseña fijada. Se pedirá al abrir el panel (tras ~1-2 min de caché de GitHub).":"✓ Contraseña quitada.");
-  }catch(e){ alert("Error: "+e.message); }
+async function genHash(){
+  const p=document.getElementById("newPass").value;
+  if(!p) return;
+  document.getElementById("hashField").value=await sha256(p);
+  document.getElementById("hashOut").style.display="";
 }
+function openSetup(){ gateEl().classList.add("on"); showGateView(true); }
 
 // ---------- init ----------
 function fillLangSelects(){
@@ -562,7 +575,10 @@ function wire(){
   document.getElementById("tokenSave").onclick=()=>{localStorage.setItem("ppf_gh_token",document.getElementById("tokenInput").value.trim());};
   document.getElementById("authBtn").onclick=tryUnlock;
   document.getElementById("authPass").addEventListener("keydown",e=>{if(e.key==="Enter")tryUnlock();});
-  document.getElementById("btnLock").onclick=setPanelPassword;
+  document.getElementById("btnLock").onclick=openSetup;
+  document.getElementById("toSetup").onclick=()=>showGateView(true);
+  document.getElementById("toLogin").onclick=()=>showGateView(false);
+  document.getElementById("genBtn").onclick=genHash;
 }
 (async function(){
   fillLangSelects(); wire();

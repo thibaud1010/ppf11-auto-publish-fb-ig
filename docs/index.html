@@ -41,15 +41,28 @@
   .seg button.on{color:var(--ink)}
   .seg button.on.ig{background:linear-gradient(135deg,var(--ig1),var(--ig2));color:#fff}
   .seg button.on.fb{background:var(--fb);color:#fff}
+  .seg button.on.all{background:var(--accent);color:#04240f}
+  /* Controles de "Próximos posts": grandes y centrados */
+  .preview-controls{justify-content:center;gap:16px;margin:20px 0 22px}
+  .preview-controls .fld{font-size:13px;gap:6px}
+  .preview-controls .seg button{padding:12px 22px;font-size:15px}
+  .preview-controls select{padding:11px 14px;font-size:15px;border-radius:11px}
+  /* Badges de plataforma en cada post */
+  .pill.pl-ig{color:#fff;border:0;background:linear-gradient(135deg,var(--ig1),var(--ig2))}
+  .pill.pl-fb{color:#fff;border:0;background:var(--fb)}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}
-  .card .meta{display:flex;align-items:center;gap:8px;padding:9px 12px;border-bottom:1px solid var(--line);font-size:12px}
-  .pill{font-size:10.5px;text-transform:uppercase;letter-spacing:.04em;padding:2px 7px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+  .card .meta{display:flex;align-items:center;gap:9px;padding:12px 14px;border-bottom:1px solid var(--line);font-size:14px}
+  .flag{font-size:17px}
+  .pill{font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;padding:3px 9px;border-radius:999px;border:1px solid var(--line);color:var(--muted);font-weight:600}
   .pill.slot{color:var(--accent-ink);border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
   .card img{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0c0f13;display:block}
   .card .cap{padding:11px 12px 14px;font-size:12.5px;white-space:pre-wrap;line-height:1.5;color:var(--ink);flex:1;word-break:break-word}
-  .when{font-weight:700;font-size:12.5px}
-  .day-h{grid-column:1/-1;font-size:13px;color:var(--muted);font-weight:700;margin:6px 0 -4px;padding-top:8px;border-top:1px dashed var(--line)}
+  .when{font-weight:800;font-size:16px}
+  .day-h{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;font-size:16px;color:var(--ink);font-weight:800;margin:10px 0 0;padding-top:12px;border-top:1px dashed var(--line)}
+  .appr{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:700;color:var(--accent-ink);cursor:pointer;user-select:none}
+  .appr input{width:18px;height:18px;accent-color:var(--accent);cursor:pointer}
+  .day-h.done{color:var(--accent-ink)}
   .loading{color:var(--muted);padding:40px;text-align:center}
   .ed-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
   @media(max-width:820px){.ed-grid{grid-template-columns:1fr}}
@@ -87,23 +100,22 @@
 
   <!-- ===== PREVIEW ===== -->
   <section id="tab-preview">
-    <div class="controls">
+    <div class="controls preview-controls">
       <div class="seg" id="platSeg">
-        <button data-plat="ig" class="on ig">📸 Instagram</button>
+        <button data-plat="all" class="on all">🌐 Todas</button>
+        <button data-plat="ig">📸 Instagram</button>
         <button data-plat="fb">📘 Facebook</button>
       </div>
       <label class="fld">Idioma
         <select id="langSel"></select>
       </label>
-      <label class="fld">Días a mostrar
+      <label class="fld">Días
         <select id="daysSel">
           <option value="3">3 días</option>
           <option value="5">5 días</option>
           <option value="7">7 días</option>
         </select>
       </label>
-      <div class="spacer"></div>
-      <span class="sub" id="rotInfo"></span>
     </div>
     <div id="previewOut" class="grid"><div class="loading">Cargando contenido…</div></div>
   </section>
@@ -239,44 +251,65 @@ async function loadAll(){
 }
 
 // ---------- PREVIEW ----------
-let plat="ig";
+let plat="all";
+// ---- aprobación por día (se guarda en este navegador) ----
+function dayKey(dt){ return `${dt.getFullYear()}-${dt.getMonth()+1}-${dt.getDate()}`; }
+function approvals(){ try{ return JSON.parse(localStorage.getItem("ppf_approvals")||"{}"); }catch(e){ return {}; } }
+function setApproval(k,v){ const a=approvals(); if(v)a[k]=1; else delete a[k]; localStorage.setItem("ppf_approvals",JSON.stringify(a)); }
+
+function buildCardsFor(p, lang, slots, days){
+  const cards=[];
+  if(p==="ig"){
+    const seq=pickSequence(itemsFor("exercises",lang), DATA.state[`ig:${lang}:exercises`], slots.length);
+    slots.forEach((dt,i)=>{ const it=seq[i]; if(it)cards.push({dt,slot:dt.getHours()===7?"07:00":"18:00",kind:"Ejercicio",plat:"ig",fld:"caption_ig",it}); });
+  }else{ // fb: 07:00 artículo, 18:00 ejercicio
+    const arts=pickSequence(itemsFor("articles",lang), DATA.state[`fb:${lang}:articles`], days);
+    const exs=pickSequence(itemsFor("exercises",lang), DATA.state[`fb:${lang}:exercises`], days);
+    let ai=0,ei=0;
+    slots.forEach(dt=>{
+      if(dt.getHours()===7){const it=arts[ai++]; if(it)cards.push({dt,slot:"07:00",kind:"Artículo",plat:"fb",fld:"caption_fb",it});}
+      else{const it=exs[ei++]; if(it)cards.push({dt,slot:"18:00",kind:"Ejercicio",plat:"fb",fld:"caption_fb",it});}
+    });
+  }
+  return cards;
+}
 function renderPreview(){
   const lang=document.getElementById("langSel").value;
   const days=+document.getElementById("daysSel").value;
   const out=document.getElementById("previewOut");
   const slots=upcomingSlots(days);
-  // secuencias por tipo (una por slot que aplique)
+  const plats = plat==="all" ? ["fb","ig"] : [plat];
   let cards=[];
-  if(plat==="ig"){
-    const seq=pickSequence(itemsFor("exercises",lang), DATA.state[`ig:${lang}:exercises`], slots.length);
-    slots.forEach((dt,i)=>{ const it=seq[i]; if(it)cards.push({dt,slot:dt.getHours()===7?"07:00":"18:00",kind:"Ejercicio",tpl:DATA.templates.ig_exercise[lang],it}); });
-  }else{
-    // FB: 07:00 artículo, 18:00 ejercicio
-    const arts=pickSequence(itemsFor("articles",lang), DATA.state[`fb:${lang}:articles`], days);
-    const exs=pickSequence(itemsFor("exercises",lang), DATA.state[`fb:${lang}:exercises`], days);
-    let ai=0,ei=0;
-    slots.forEach(dt=>{
-      if(dt.getHours()===7){const it=arts[ai++]; if(it)cards.push({dt,slot:"07:00",kind:"Artículo",tpl:DATA.templates.article[lang],it});}
-      else{const it=exs[ei++]; if(it)cards.push({dt,slot:"18:00",kind:"Ejercicio",tpl:DATA.templates.exercise[lang],it});}
-    });
-  }
-  document.getElementById("rotInfo").textContent =
-    `${plat==="ig"?"Instagram":"Facebook"} · ${LANGS[lang]} · ${PAGE_MODE.includes(lang)&&plat==="ig"?"modo Página":plat==="ig"?"modo Login":"Página"}`;
+  for(const p of plats) cards=cards.concat(buildCardsFor(p,lang,slots,days));
+  cards.sort((a,b)=> (a.dt-b.dt) || (a.slot<b.slot?-1:a.slot>b.slot?1:0) || (a.plat<b.plat?-1:a.plat>b.plat?1:0));
   if(!cards.length){out.innerHTML='<div class="loading">Sin contenido para este idioma.</div>';return;}
+  const appr=approvals();
   let html="",lastDay="";
   for(const c of cards){
     const dh=fmtDay(c.dt);
-    if(dh!==lastDay){html+=`<div class="day-h">${dh}</div>`;lastDay=dh;}
-    // Preferimos el caption ya redactado (caption_ig / caption_fb); si no, plantilla.
-    const stored=(plat==="ig"?c.it.caption_ig:c.it.caption_fb)||"";
-    const cap=stored.trim()?stored:render(c.tpl,c.it);
+    if(dh!==lastDay){
+      const k=dayKey(c.dt);
+      html+=`<div class="day-h${appr[k]?' done':''}" data-dayhdr="${k}"><span>${dh}</span>
+        <label class="appr"><input type="checkbox" data-day="${k}" ${appr[k]?'checked':''}/> Aprobado</label></div>`;
+      lastDay=dh;
+    }
+    const stored=(c.it[c.fld]||"");
+    const fbTpl = c.kind==="Artículo"?DATA.templates.article[lang]:DATA.templates.exercise[lang];
+    const cap=stored.trim()?stored:render(c.plat==="ig"?DATA.templates.ig_exercise[lang]:fbTpl, c.it);
     html+=`<div class="card">
-      <div class="meta"><span class="when">${c.slot}</span><span class="pill slot">${esc(c.kind)}</span>
-        <span style="flex:1"></span><span class="pill">${LANGS[c.it.language].split(" ")[0]}</span></div>
+      <div class="meta"><span class="when">${c.slot}</span>
+        <span class="pill pl-${c.plat}">${c.plat==="ig"?"Instagram":"Facebook"}</span>
+        <span class="pill slot">${esc(c.kind)}</span>
+        <span style="flex:1"></span><span class="flag">${LANGS[c.it.language].split(" ")[0]}</span></div>
       <img loading="lazy" src="${esc(c.it.image_url)}" alt=""/>
       <div class="cap">${esc(cap)}</div></div>`;
   }
   out.innerHTML=html;
+  out.querySelectorAll('input[data-day]').forEach(cb=>cb.onchange=()=>{
+    setApproval(cb.dataset.day, cb.checked);
+    const hdr=out.querySelector(`[data-dayhdr="${cb.dataset.day}"]`);
+    if(hdr) hdr.classList.toggle('done', cb.checked);
+  });
 }
 
 // ---------- EDITOR (por post) ----------
@@ -365,7 +398,7 @@ function wire(){
   });
   document.querySelectorAll("#platSeg button").forEach(b=>b.onclick=()=>{
     plat=b.dataset.plat;
-    document.querySelectorAll("#platSeg button").forEach(x=>{x.classList.remove("on","ig","fb");});
+    document.querySelectorAll("#platSeg button").forEach(x=>{x.classList.remove("on","ig","fb","all");});
     b.classList.add("on",plat); renderPreview();
   });
   document.getElementById("langSel").onchange=renderPreview;

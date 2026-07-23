@@ -111,37 +111,41 @@
   <!-- ===== EDITOR ===== -->
   <section id="tab-editor" style="display:none">
     <div class="controls">
-      <label class="fld">Idioma a editar
+      <label class="fld">Idioma
         <select id="edLangSel"></select>
       </label>
-      <label class="fld">Plantilla
+      <label class="fld">Tipo
         <select id="edTypeSel">
-          <option value="ig_exercise">Instagram · ejercicio (sin enlace)</option>
-          <option value="exercise">Facebook · ejercicio</option>
-          <option value="article">Facebook · artículo</option>
+          <option value="exercises">Ejercicio</option>
+          <option value="articles">Artículo</option>
         </select>
       </label>
+      <label class="fld" id="edPlatWrap">Plataforma
+        <select id="edPlatSel">
+          <option value="ig">Instagram</option>
+          <option value="fb">Facebook</option>
+        </select>
+      </label>
+      <label class="fld" style="flex:1;min-width:240px">Post
+        <select id="edPostSel"></select>
+      </label>
       <div class="spacer"></div>
-      <button class="btn primary" id="btnSave">💾 Guardar cambios</button>
+      <button class="btn primary" id="btnSave">💾 Guardar cambios (<span id="dirtyN">0</span>)</button>
     </div>
-    <div class="note" id="edNote">
-      Edita aquí. Variables disponibles: <code>{title}</code> <code>{summary}</code> <code>{hashtags}</code>
-      <span id="urlVar"><code>{url}</code></span>. Los hashtags <b>base</b> se editan abajo y aplican a todos los posts de ese idioma.
+    <div class="note">
+      Edita el texto de este post concreto. Los cambios se acumulan; pulsa <b>Guardar cambios</b> para subirlos todos de una vez.
+      (Ejercicio: Instagram y Facebook tienen su propio texto; el artículo solo Facebook.)
     </div>
     <div class="ed-grid">
       <div class="ed-block">
-        <h3>Plantilla del caption</h3>
-        <p class="hint" id="edTypeHint"></p>
-        <textarea id="edTemplate" rows="7"></textarea>
-        <div class="row" style="margin-top:12px">
-          <h3 style="margin:0">Hashtags base <span class="sub">(idioma seleccionado)</span></h3>
-        </div>
-        <textarea id="edHashtags" rows="2"></textarea>
+        <h3>Caption del post</h3>
+        <textarea id="edCaption" rows="16"></textarea>
+        <div class="sub" style="margin-top:6px"><span id="edChars">0</span> caracteres</div>
       </div>
       <div class="ed-block">
-        <h3>Vista previa en vivo</h3>
-        <p class="hint">Con el primer ejercicio/artículo de este idioma como ejemplo.</p>
-        <div class="live" id="edLive">…</div>
+        <h3>Vista previa</h3>
+        <img id="edImg" alt="" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;margin-bottom:10px;background:#0c0f13"/>
+        <div class="live" id="edLive"></div>
       </div>
     </div>
     <p class="sub" id="saveStatus" style="margin-top:14px"></p>
@@ -275,28 +279,34 @@ function renderPreview(){
   out.innerHTML=html;
 }
 
-// ---------- EDITOR ----------
-function edFill(){
-  const lang=document.getElementById("edLangSel").value;
-  const type=document.getElementById("edTypeSel").value;
-  document.getElementById("edTemplate").value=DATA.templates[type][lang]||"";
-  document.getElementById("edHashtags").value=DATA.hashtags[lang]||"";
-  document.getElementById("urlVar").style.display = type==="ig_exercise"?"none":"inline";
-  document.getElementById("edTypeHint").textContent =
-    type==="ig_exercise"?"Instagram no admite enlaces clicables: no uses {url} (di «link en bio»).":"Puedes incluir {url} (enlace clicable en Facebook).";
-  edLive();
+// ---------- EDITOR (por post) ----------
+const dirty={exercises:new Set(),articles:new Set()};
+const $=id=>document.getElementById(id);
+function edItems(){ return itemsFor($("edTypeSel").value, $("edLangSel").value); }
+function edPlatform(){ return $("edTypeSel").value==="articles" ? "fb" : $("edPlatSel").value; }
+function edField(){ return edPlatform()==="ig" ? "caption_ig" : "caption_fb"; }
+function edFillPosts(){
+  const items=edItems(), s=$("edPostSel"); s.innerHTML="";
+  items.forEach((it,i)=>{const o=document.createElement("option");o.value=i;o.textContent=`${i+1}. ${it.title}`;s.appendChild(o);});
+  $("edPlatWrap").style.display = $("edTypeSel").value==="articles"?"none":"";
+  edLoadPost();
 }
-function edLive(){
-  const lang=document.getElementById("edLangSel").value;
-  const type=document.getElementById("edTypeSel").value;
-  const kind=type==="article"?"articles":"exercises";
-  const row=itemsFor(kind,lang)[0];
-  if(!row){document.getElementById("edLive").textContent="(sin ejemplo)";return;}
-  const tplText=document.getElementById("edTemplate").value;
-  const oldBase=DATA.hashtags[lang];
-  DATA.hashtags[lang]=document.getElementById("edHashtags").value; // temporal para preview
-  document.getElementById("edLive").textContent=render(tplText,row);
-  DATA.hashtags[lang]=oldBase;
+function edLoadPost(){
+  const it=edItems()[+$("edPostSel").value], ta=$("edCaption");
+  if(!it){ta.value="";return;}
+  ta.value=it[edField()]||"";
+  $("edImg").src=it.image_url;
+  $("edChars").textContent=ta.value.length;
+  $("edLive").textContent=ta.value;
+}
+function edEdited(){
+  const it=edItems()[+$("edPostSel").value]; if(!it)return;
+  const ta=$("edCaption");
+  it[edField()]=ta.value;
+  dirty[$("edTypeSel").value].add(it.image_url);
+  $("edChars").textContent=ta.value.length;
+  $("edLive").textContent=ta.value;
+  $("dirtyN").textContent=dirty.exercises.size+dirty.articles.size;
 }
 
 // ---------- guardar (GitHub API) ----------
@@ -312,25 +322,29 @@ async function ghPut(path,contentStr,sha,msg){
     body:JSON.stringify({message:msg,content:b64(contentStr),sha})});
   if(!r.ok){const e=await r.text();throw new Error("PUT "+path+" → "+r.status+" "+e);} return r.json();
 }
+function toCSV(rows){
+  if(!rows.length) return "";
+  const header=Object.keys(rows[0]);
+  const q=s=>'"'+String(s==null?"":s).replace(/"/g,'""')+'"';
+  const lines=[header.map(q).join(",")];
+  for(const r of rows) lines.push(header.map(h=>q(r[h])).join(","));
+  return "﻿"+lines.join("\r\n")+"\r\n";
+}
 async function saveChanges(){
   const st=document.getElementById("saveStatus");
-  const lang=document.getElementById("edLangSel").value;
-  const type=document.getElementById("edTypeSel").value;
   if(!token()){st.innerHTML='<span class="err">Falta el token. Pulsa 🔑 Token arriba.</span>';return;}
+  const jobs=[["exercises","content/exercises.csv",DATA.exercises],["articles","content/articles.csv",DATA.articles]];
+  const pending=jobs.filter(j=>dirty[j[0]].size);
+  if(!pending.length){st.textContent="No hay cambios que guardar.";return;}
   st.textContent="Guardando…";
   try{
-    // aplica cambios en memoria
-    DATA.templates[type][lang]=document.getElementById("edTemplate").value;
-    DATA.hashtags[lang]=document.getElementById("edHashtags").value;
-    // commit templates.json
-    const tf=await ghGet("config/templates.json");
-    await ghPut("config/templates.json", JSON.stringify(DATA.templates,null,2)+"\n", tf.sha,
-      `panel: edita plantilla ${type}/${lang}`);
-    // commit hashtags.json
-    const hf=await ghGet("config/hashtags.json");
-    await ghPut("config/hashtags.json", JSON.stringify(DATA.hashtags,null,2)+"\n", hf.sha,
-      `panel: edita hashtags base ${lang}`);
-    st.innerHTML='<span class="ok">✓ Guardado. Si editaste el idioma base, el robot traducirá los demás en unos minutos.</span>';
+    for(const [type,path,rows] of pending){
+      const f=await ghGet(path);
+      await ghPut(path, toCSV(rows), f.sha, `panel: edita ${dirty[type].size} caption(s) de ${type}`);
+      dirty[type].clear();
+    }
+    document.getElementById("dirtyN").textContent="0";
+    st.innerHTML='<span class="ok">✓ Guardado. Tardará ~1-2 min en reflejarse (caché de GitHub).</span>';
   }catch(e){ st.innerHTML='<span class="err">Error: '+esc(e.message)+'</span>'; }
 }
 
@@ -356,19 +370,20 @@ function wire(){
   });
   document.getElementById("langSel").onchange=renderPreview;
   document.getElementById("daysSel").onchange=renderPreview;
-  document.getElementById("edLangSel").onchange=edFill;
-  document.getElementById("edTypeSel").onchange=edFill;
-  document.getElementById("edTemplate").oninput=edLive;
-  document.getElementById("edHashtags").oninput=edLive;
+  document.getElementById("edLangSel").onchange=edFillPosts;
+  document.getElementById("edTypeSel").onchange=edFillPosts;
+  document.getElementById("edPlatSel").onchange=edLoadPost;
+  document.getElementById("edPostSel").onchange=edLoadPost;
+  document.getElementById("edCaption").oninput=edEdited;
   document.getElementById("btnSave").onclick=saveChanges;
-  document.getElementById("btnReload").onclick=async()=>{await loadAll();renderPreview();edFill();};
+  document.getElementById("btnReload").onclick=async()=>{await loadAll();renderPreview();edFillPosts();};
   const dlg=document.getElementById("tokenDlg");
   document.getElementById("btnToken").onclick=()=>{document.getElementById("tokenInput").value=token();dlg.showModal();};
   document.getElementById("tokenSave").onclick=()=>{localStorage.setItem("ppf_gh_token",document.getElementById("tokenInput").value.trim());};
 }
 (async function(){
   fillLangSelects(); wire();
-  try{ await loadAll(); renderPreview(); edFill(); }
+  try{ await loadAll(); renderPreview(); edFillPosts(); }
   catch(e){ document.getElementById("previewOut").innerHTML='<div class="loading err">Error cargando datos: '+esc(e.message)+'</div>'; }
 })();
 </script>

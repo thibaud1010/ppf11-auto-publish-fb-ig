@@ -29,6 +29,41 @@ def log_history(record):
         f.write(line + "\n")
 
 
+# ---- idempotencia: publicar una sola vez por franja y dia (hora de Paris) ----
+def paris_now():
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.datetime.now(ZoneInfo("Europe/Paris"))
+    except Exception:  # noqa: BLE001 (fallback: UTC+2 aprox)
+        return datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=2)
+
+
+def _published_path():
+    STATE_DIR.mkdir(exist_ok=True)
+    return STATE_DIR / "published.json"
+
+
+def _published_load():
+    p = _published_path()
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
+def already_published(slot):
+    """slot p.ej. 'fb:article' o 'ig:morning'. True si ya se publico HOY (Paris)."""
+    key = f"{paris_now().strftime('%Y-%m-%d')}:{slot}"
+    return _published_load().get(key) is True
+
+
+def mark_published(slot):
+    data = _published_load()
+    data[f"{paris_now().strftime('%Y-%m-%d')}:{slot}"] = True
+    # conserva solo las ultimas ~40 marcas
+    if len(data) > 40:
+        for k in sorted(data)[:-40]:
+            del data[k]
+    _published_path().write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
 def _path():
     STATE_DIR.mkdir(exist_ok=True)
     return STATE_DIR / "posted_log.json"

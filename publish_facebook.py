@@ -23,7 +23,13 @@ def main():
     parser.add_argument("--type", choices=list(KIND_BY_TYPE), required=True)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--only", help="publicar solo este idioma (p.ej. es)")
+    parser.add_argument("--force", action="store_true", help="publicar aunque ya se hiciera hoy")
     args = parser.parse_args()
+
+    slot = f"fb:{args.type}"
+    if not args.dry_run and not args.force and st.already_published(slot):
+        print(f"[FB] {slot} ya publicado hoy (Paris); se omite (idempotencia).")
+        return
 
     kind = KIND_BY_TYPE[args.type]
     accounts = load_accounts()
@@ -75,6 +81,8 @@ def main():
             fail += 1
 
     st.save_state(state)
+    if ok and not args.dry_run:
+        st.mark_published(slot)
     print(f"[FB] terminado type={args.type} ok={ok} fail={fail}")
     sys.exit(1 if fail else 0)
 

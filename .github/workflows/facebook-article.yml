@@ -1,56 +1,48 @@
 name: FB - Articulo del blog (07:00 Paris)
 
 # Publica UN articulo del blog en las 7 Paginas, a las 07:00 hora de Paris.
-# El cron de GitHub es SIEMPRE en UTC y NO cambia con el horario de verano,
-# asi que disparamos en las dos horas UTC posibles (05 y 06) y un "guardian"
-# deja pasar solo la que coincide con las 07:00 reales de Paris.
+# El disparo EXACTO lo da un reloj externo (cron-job.org) via workflow_dispatch.
+# Estos cron de GitHub son SOLO RED DE SEGURIDAD (por si el reloj externo fallara);
+# como el script es IDEMPOTENTE (publica una sola vez por franja y dia), disparar
+# varias veces NO duplica. Se cubre una ventana amplia por si GitHub retrasa el cron.
 on:
   schedule:
-    - cron: "0 5 * * *"   # 07:00 Paris en verano (CEST, UTC+2)
-    - cron: "0 6 * * *"   # 07:00 Paris en invierno (CET, UTC+1)
-  workflow_dispatch: {}    # lanzar a mano (siempre publica, ignora el guardian)
+    - cron: "0 5 * * *"   # 07:00 Paris (verano)
+    - cron: "0 6 * * *"   # 07:00 Paris (invierno) / red de seguridad
+    - cron: "0 7 * * *"   # red de seguridad si GitHub retrasa
+    - cron: "0 8 * * *"   # red de seguridad
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Forzar aunque ya se publicara hoy"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write          # para guardar el registro de rotacion
+  contents: write
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    concurrency: fb-state   # evita colisiones con el otro pipeline de FB
+    concurrency: fb-state
     steps:
       - uses: actions/checkout@v4
-      - name: Guardian horario (07:00 Paris)
-        id: guard
-        run: |
-          H=$(TZ=Europe/Paris date +%H)
-          echo "Hora actual en Paris: ${H}:00"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$H" = "07" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "No son las 07:00 en Paris -> se omite esta ejecucion."
-          fi
       - uses: actions/setup-python@v5
-        if: steps.guard.outputs.run == 'true'
         with:
           python-version: "3.11"
-      - name: Instalar dependencias
-        if: steps.guard.outputs.run == 'true'
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
       - name: Publicar articulo en todas las Paginas
-        if: steps.guard.outputs.run == 'true'
         env:
           TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
-        run: python publish_facebook.py --type article
-      - name: Guardar registro de rotacion
-        if: steps.guard.outputs.run == 'true'
+        run: python publish_facebook.py --type article ${{ inputs.force && '--force' || '' }}
+      - name: Guardar registro
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add state/
-          git commit -m "state: fb article $(TZ=Europe/Paris date +%FT%T%z)" || { echo "sin cambios"; exit 0; }
+          git commit -m "state: fb article $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash && git push && exit 0
             echo "reintento push $i"; sleep 5
           done
-          echo "push fallo tras reintentos" >&2; exit 1
+          echo "push fallo" >&2; exit 1

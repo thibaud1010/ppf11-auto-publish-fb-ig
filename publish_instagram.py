@@ -22,7 +22,14 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--only", help="publicar solo este idioma (p.ej. es)")
+    parser.add_argument("--force", action="store_true", help="publicar aunque ya se hiciera esta franja hoy")
     args = parser.parse_args()
+
+    # franja segun la hora de Paris: mañana (<13h) o tarde
+    slot = "ig:morning" if st.paris_now().hour < 13 else "ig:evening"
+    if not args.dry_run and not args.force and st.already_published(slot):
+        print(f"[IG] {slot} ya publicado hoy (Paris); se omite (idempotencia).")
+        return
 
     accounts = load_accounts()
     templates = load_templates()
@@ -81,6 +88,8 @@ def main():
             fail += 1
 
     st.save_state(state)
+    if ok and not args.dry_run:
+        st.mark_published(slot)
     print(f"[IG] terminado ok={ok} fail={fail}")
     sys.exit(1 if fail else 0)
 

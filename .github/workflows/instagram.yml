@@ -1,15 +1,25 @@
 name: IG - Ejercicios (07:00 y 18:00 Paris)
 
 # Publica UN ejercicio en las 7 cuentas de Instagram, a las 07:00 y 18:00 de Paris.
-# Disparamos en las 4 horas UTC posibles (05,06,16,17) y un "guardian" deja pasar
-# solo las que coinciden con 07:00 o 18:00 reales de Paris (verano/invierno).
+# El script elige la franja (mañana/tarde) segun la hora de Paris y es IDEMPOTENTE
+# (una vez por franja y dia). Disparo exacto por reloj externo (cron-job.org);
+# estos cron de GitHub son red de seguridad y no duplican.
 on:
   schedule:
     - cron: "0 5 * * *"   # 07:00 Paris verano
-    - cron: "0 6 * * *"   # 07:00 Paris invierno
+    - cron: "0 6 * * *"   # 07:00 Paris invierno / seguridad
+    - cron: "0 7 * * *"   # seguridad
+    - cron: "0 8 * * *"   # seguridad
     - cron: "0 16 * * *"  # 18:00 Paris verano
-    - cron: "0 17 * * *"  # 18:00 Paris invierno
-  workflow_dispatch: {}
+    - cron: "0 17 * * *"  # 18:00 Paris invierno / seguridad
+    - cron: "0 18 * * *"  # seguridad
+    - cron: "0 19 * * *"  # seguridad
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Forzar aunque ya se publicara esta franja hoy"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -20,38 +30,22 @@ jobs:
     concurrency: ig-state
     steps:
       - uses: actions/checkout@v4
-      - name: Guardian horario (07:00 o 18:00 Paris)
-        id: guard
-        run: |
-          H=$(TZ=Europe/Paris date +%H)
-          echo "Hora actual en Paris: ${H}:00"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$H" = "07" ] || [ "$H" = "18" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "No son las 07:00 ni 18:00 en Paris -> se omite esta ejecucion."
-          fi
       - uses: actions/setup-python@v5
-        if: steps.guard.outputs.run == 'true'
         with:
           python-version: "3.11"
-      - name: Instalar dependencias
-        if: steps.guard.outputs.run == 'true'
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
       - name: Publicar ejercicio en todas las cuentas IG
-        if: steps.guard.outputs.run == 'true'
         env:
           TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
-        run: python publish_instagram.py
-      - name: Guardar registro de rotacion
-        if: steps.guard.outputs.run == 'true'
+        run: python publish_instagram.py ${{ inputs.force && '--force' || '' }}
+      - name: Guardar registro
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add state/
-          git commit -m "state: ig $(TZ=Europe/Paris date +%FT%T%z)" || { echo "sin cambios"; exit 0; }
+          git commit -m "state: ig $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash && git push && exit 0
             echo "reintento push $i"; sleep 5
           done
-          echo "push fallo tras reintentos" >&2; exit 1
+          echo "push fallo" >&2; exit 1

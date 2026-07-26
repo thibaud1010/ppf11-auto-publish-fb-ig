@@ -2,22 +2,22 @@
   "_comment": "Líneas de CTA que se AÑADEN al cuerpo generado (con enlaces de links.json). Placeholders: {free_ex}=página ejercicios gratis del idioma, {article_url}=url del artículo, {exercise_url}=url del ejercicio (fr tiene página propia). IG no admite enlaces clicables → 'enlace en la bio'. FB sí → URL completa.",
   "exercise": {
     "ig": {
-      "es": "👉 Este ejercicio y +100 más, gratis en ppf11.com — enlace en la bio.",
-      "en": "👉 This drill and 100+ more, free on ppf11.com — link in bio.",
-      "fr": "👉 Cet exercice et +100 autres, gratuits sur preparationphysiquefootball.com — lien en bio.",
-      "de": "👉 Diese Übung und +100 weitere, gratis auf ppf11.com — Link in der Bio.",
-      "it": "👉 Questo esercizio e +100 altri, gratis su ppf11.com — link in bio.",
-      "pt": "👉 Este exercício e +100 mais, grátis em ppf11.com — link na bio.",
-      "nl": "👉 Deze oefening en +100 andere, gratis op ppf11.com — link in bio."
+      "es": "👉 ¿Buscas más ideas de ejercicios? Te regalamos 100 gratis — enlace en la bio.",
+      "en": "👉 Want more drill ideas? Here are 100 free — link in bio.",
+      "fr": "👉 Tu veux plus d'idées d'exercices ? On t'en offre 100 gratuits — lien en bio.",
+      "de": "👉 Du willst mehr Übungsideen? Wir schenken dir 100 gratis — Link in der Bio.",
+      "it": "👉 Vuoi altre idee di esercizi? Te ne regaliamo 100 gratis — link in bio.",
+      "pt": "👉 Quer mais ideias de exercícios? Oferecemos 100 grátis — link na bio.",
+      "nl": "👉 Wil je meer oefeningen? Wij geven je er 100 gratis — link in bio."
     },
     "fb": {
-      "es": "👉 Este ejercicio y +100 más, gratis: {free_ex}",
-      "en": "👉 This drill and 100+ more, free: {free_ex}",
-      "fr": "👉 Cet exercice en détail : {exercise_url}\n🎁 +100 exercices gratuits : {free_ex}",
-      "de": "👉 Diese Übung und +100 weitere, gratis: {free_ex}",
-      "it": "👉 Questo esercizio e +100 altri, gratis: {free_ex}",
-      "pt": "👉 Este exercício e +100 mais, grátis: {free_ex}",
-      "nl": "👉 Deze oefening en +100 andere, gratis: {free_ex}"
+      "es": "👉 ¿Buscas más ideas de ejercicios? 100 ejercicios gratis aquí: {free_ex}",
+      "en": "👉 Want more drill ideas? 100 free exercises here: {free_ex}",
+      "fr": "👉 Tu veux plus d'idées d'exercices ? 100 exercices gratuits ici : {free_ex}",
+      "de": "👉 Du willst mehr Übungsideen? 100 kostenlose Übungen hier: {free_ex}",
+      "it": "👉 Vuoi altre idee di esercizi? 100 esercizi gratis qui: {free_ex}",
+      "pt": "👉 Quer mais ideias de exercícios? 100 exercícios grátis aqui: {free_ex}",
+      "nl": "👉 Wil je meer oefeningen? 100 gratis oefeningen hier: {free_ex}"
     }
   },
   "article": {

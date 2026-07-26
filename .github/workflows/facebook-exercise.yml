@@ -4,11 +4,8 @@ name: FB - Ejercicio gratis (18:00 Paris)
 # Disparo exacto por reloj externo (cron-job.org); estos cron de GitHub son red de
 # seguridad. Script idempotente (una vez por franja/dia) -> disparar varias veces no duplica.
 on:
-  schedule:
-    - cron: "0 16 * * *"  # 18:00 Paris (verano)
-    - cron: "0 17 * * *"  # 18:00 Paris (invierno) / red de seguridad
-    - cron: "0 18 * * *"  # red de seguridad
-    - cron: "0 19 * * *"  # red de seguridad
+  # DISPARO UNICO por reloj externo exacto (cron-job.org) via workflow_dispatch.
+  # Se QUITARON los cron de GitHub para evitar doble disparo (que causaba duplicados).
   workflow_dispatch:
     inputs:
       force:

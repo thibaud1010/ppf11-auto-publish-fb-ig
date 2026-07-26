@@ -5,15 +5,10 @@ name: IG - Ejercicios (07:00 y 18:00 Paris)
 # (una vez por franja y dia). Disparo exacto por reloj externo (cron-job.org);
 # estos cron de GitHub son red de seguridad y no duplican.
 on:
-  schedule:
-    - cron: "0 5 * * *"   # 07:00 Paris verano
-    - cron: "0 6 * * *"   # 07:00 Paris invierno / seguridad
-    - cron: "0 7 * * *"   # seguridad
-    - cron: "0 8 * * *"   # seguridad
-    - cron: "0 16 * * *"  # 18:00 Paris verano
-    - cron: "0 17 * * *"  # 18:00 Paris invierno / seguridad
-    - cron: "0 18 * * *"  # seguridad
-    - cron: "0 19 * * *"  # seguridad
+  # DISPARO UNICO por reloj externo exacto (cron-job.org) via workflow_dispatch.
+  # Se QUITARON los cron de GitHub: tener dos disparadores (cron-job.org + GitHub)
+  # causaba publicaciones DUPLICADAS cuando una publicacion se creaba en IG pero
+  # su respuesta fallaba. Un solo disparador por franja = imposible duplicar.
   workflow_dispatch:
     inputs:
       force:

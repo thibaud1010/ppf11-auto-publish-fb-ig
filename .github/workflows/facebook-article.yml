@@ -6,11 +6,8 @@ name: FB - Articulo del blog (07:00 Paris)
 # como el script es IDEMPOTENTE (publica una sola vez por franja y dia), disparar
 # varias veces NO duplica. Se cubre una ventana amplia por si GitHub retrasa el cron.
 on:
-  schedule:
-    - cron: "0 5 * * *"   # 07:00 Paris (verano)
-    - cron: "0 6 * * *"   # 07:00 Paris (invierno) / red de seguridad
-    - cron: "0 7 * * *"   # red de seguridad si GitHub retrasa
-    - cron: "0 8 * * *"   # red de seguridad
+  # DISPARO UNICO por reloj externo exacto (cron-job.org) via workflow_dispatch.
+  # Se QUITARON los cron de GitHub para evitar doble disparo (que causaba duplicados).
   workflow_dispatch:
     inputs:
       force:

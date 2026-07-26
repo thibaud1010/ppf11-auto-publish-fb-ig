@@ -40,6 +40,9 @@ def main():
     for lang, cfg in accounts["languages"].items():
         if args.only and lang != args.only:
             continue
+        if not cfg.get("enabled", True):
+            print(f"[FB][{lang}] pausado (enabled=false); se omite.")
+            continue
         fb = cfg.get("facebook")
         if not fb:
             continue

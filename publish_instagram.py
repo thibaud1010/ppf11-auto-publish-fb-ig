@@ -39,6 +39,9 @@ def main():
     for lang, cfg in accounts["languages"].items():
         if args.only and lang != args.only:
             continue
+        if not cfg.get("enabled", True):
+            print(f"[IG][{lang}] pausado (enabled=false); se omite.")
+            continue
         ig = cfg.get("instagram")
         if not ig:
             continue

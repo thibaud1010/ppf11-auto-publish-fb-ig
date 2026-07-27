@@ -1,0 +1,51 @@
+name: Reels - PPF11 (video FR -> IG+FB 6 idiomas) [WIP]
+
+# BORRADOR / WIP. Solo disparo MANUAL (workflow_dispatch) y DRY-RUN por defecto.
+# NO hay disparo automatico (ni cron de GitHub ni cron-job.org) hasta validar.
+# Para activarlo de verdad:
+#   1) crear un bucket PUBLICO en Supabase y los secretos SUPABASE_URL / SUPABASE_KEY (service_role) / SUPABASE_BUCKET
+#   2) probar: Run workflow con dry_run=false y only=es (valida descarga FB + IG Reel)
+#   3) (opcional) crear el disparo diario a mediodia en cron-job.org, como los otros.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Solo simular (recomendado)"
+        type: boolean
+        default: true
+      only:
+        description: "Solo un idioma (es/en/de/it/pt/nl), opcional"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    concurrency: reels-state
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Publicar reel (rotacion)
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
+        run: python publish_reels.py ${{ inputs.dry_run && '' || '--publish' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+      - name: Guardar estado
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add state/
+          git commit -m "state: reels $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "reintento push $i"; sleep 5
+          done
+          echo "push fallo" >&2; exit 1

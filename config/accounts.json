@@ -10,8 +10,8 @@
       "instagram": { "mode": "login", "ig_user_id": "17841442089186417" }
     },
     "fr": {
-      "enabled": false,
-      "_comment_enabled": "PAUSADO por la usuaria (2026-07-26): no publicar en frances (FB ni IG) por ahora. Poner true para reactivar.",
+      "enabled": true,
+      "_comment_enabled": "REACTIVADO por la usuaria (2026-07-26): vuelve a publicar en frances (FB e IG) como los demas.",
       "facebook": { "page_id": "530259557167030" },
       "instagram": { "mode": "page", "ig_user_id": "17841404957099202" }
     },

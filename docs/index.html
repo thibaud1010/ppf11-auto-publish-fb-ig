@@ -140,6 +140,7 @@
     <div class="tab active" data-tab="preview">📅 Próximos posts</div>
     <div class="tab" data-tab="editor">✏️ Editor de captions</div>
     <div class="tab" data-tab="history">📜 Histórico</div>
+    <div class="tab" data-tab="reels">🎬 Reels</div>
   </div>
 
   <!-- ===== PREVIEW ===== -->
@@ -225,6 +226,17 @@
       <button class="btn small" id="btnReload2">↻ Recargar</button>
     </div>
     <div id="historyOut"><div class="loading">…</div></div>
+  </section>
+
+  <!-- ===== REELS ===== -->
+  <section id="tab-reels" style="display:none">
+    <div class="controls" style="justify-content:center">
+      <label class="fld">Idioma
+        <select id="reLangSel"></select>
+      </label>
+      <span class="fld" style="align-self:center;color:var(--muted)">Vídeos franceses → IG + FB · <b id="reCount">…</b> reels · el francés no se toca</span>
+    </div>
+    <div id="reelsOut" class="grid"><div class="loading">Cargando reels…</div></div>
   </section>
 </div>
 
@@ -544,6 +556,34 @@ function fillLangSelects(){
   const es=document.getElementById("edLangSel"); es.innerHTML="";
   LANG_ORDER.forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=LANGS[l];es.appendChild(o);});
 }
+// ---------- REELS ----------
+let REELS=null, reLang="es";
+async function loadReels(){
+  const out=document.getElementById("reelsOut");
+  if(!REELS){
+    try{
+      REELS=await fetch(RAW+"/config/reels.json?t="+Date.now()).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();});
+      const sel=document.getElementById("reLangSel"); sel.innerHTML="";
+      (REELS.langs||["es","en","de","it","pt","nl"]).forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=LANGS[l]||l;sel.appendChild(o);});
+      document.getElementById("reCount").textContent=REELS.count;
+    }catch(e){ out.innerHTML='<div class="loading err">Error cargando reels: '+esc(String(e.message||e))+'</div>'; return; }
+  }
+  renderReels();
+}
+function renderReels(){
+  if(!REELS) return;
+  reLang=document.getElementById("reLangSel").value||reLang;
+  document.getElementById("reelsOut").innerHTML=REELS.reels.map(r=>{
+    const dup=r.duplicate_of?` · <span style="color:var(--accent-ink)">dup #${r.duplicate_of}</span>`:"";
+    return `<div class="card">
+      <div style="padding:12px 13px 2px;display:flex;justify-content:space-between;align-items:center;gap:8px">
+        <span class="pill slot">🎬 Reel ${r.n} · ${esc(r.theme_fr)}${dup}</span>
+        <a href="${r.fb_url}" target="_blank" rel="noopener" class="pill" style="text-decoration:none">ver vídeo ↗</a>
+      </div>
+      <div class="cap">${esc(r.captions[reLang]||"")}</div>
+    </div>`;
+  }).join("");
+}
 function wire(){
   document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
     document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
@@ -552,8 +592,11 @@ function wire(){
     document.getElementById("tab-preview").style.display=n==="preview"?"":"none";
     document.getElementById("tab-editor").style.display=n==="editor"?"":"none";
     document.getElementById("tab-history").style.display=n==="history"?"":"none";
+    document.getElementById("tab-reels").style.display=n==="reels"?"":"none";
     if(n==="history") renderHistory();
+    if(n==="reels") loadReels();
   });
+  document.getElementById("reLangSel").onchange=renderReels;
   document.getElementById("hFilter").onchange=renderHistory;
   document.getElementById("btnReload2").onclick=async()=>{await loadAll();renderHistory();};
   document.querySelectorAll("#platSeg button").forEach(b=>b.onclick=()=>{

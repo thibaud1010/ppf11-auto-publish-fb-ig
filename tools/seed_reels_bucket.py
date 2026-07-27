@@ -53,12 +53,13 @@ def main():
 
     done, skip, fail = 0, 0, 0
     for r in reels:
-        fn = (folder + "/" if folder else "") + f"reel_{r['reel_id']}.mp4"
+        base = f"reel_{r['reel_id']}.mp4"
+        fn = (folder + "/" if folder else "") + base   # ruta DENTRO del bucket (videos/reels/…)
         if not args.force and exists_in_bucket(sb_url, bucket, fn):
             print(f"[seed] #{r['n']} ya está -> se omite")
             skip += 1
             continue
-        tmp = os.path.join(tempfile.gettempdir(), fn)
+        tmp = os.path.join(tempfile.gettempdir(), base)  # nombre local PLANO (sin subcarpeta)
         try:
             rp.download_fb_reel(r["reel_id"], fr_token, tmp)
             url = rp.supabase_upload(tmp, bucket, fn, sb_url, sb_key)

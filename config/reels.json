@@ -1,5 +1,9 @@
 {
   "_comment": "Reels FR de PPF11 a re-publicar en IG+FB de los 6 idiomas (es/en/de/it/pt/nl). NO francés. Caption corto (el video muestra el ejercicio). Link CTA = home por idioma (revisar). CTA = 50 ejercicios + guía jóvenes.",
+  "supabase": {
+    "bucket": "videos",
+    "folder": "reels"
+  },
   "langs": [
     "es",
     "en",

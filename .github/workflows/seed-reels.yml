@@ -1,0 +1,35 @@
+name: Seed reels bucket (descargar reels FR -> Supabase)
+
+# Manual. Descarga los reels FR y los sube al bucket de Supabase (una vez).
+# Necesita secretos: TOKENS_JSON (con FB_TOKEN_FR), SUPABASE_URL, SUPABASE_KEY (service_role).
+# Empieza con only=1 para validar antes de subir los 30.
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Solo el reel Nº (ej. 1 para probar). Vacío = todos."
+        type: string
+        default: "1"
+      force:
+        description: "Re-subir aunque ya existan"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Sembrar bucket
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python tools/seed_reels_bucket.py ${{ inputs.only && format('--only {0}', inputs.only) || '' }} ${{ inputs.force && '--force' || '' }}

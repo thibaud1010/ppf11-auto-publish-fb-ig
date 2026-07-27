@@ -39,19 +39,21 @@ def main():
     args = ap.parse_args()
 
     with open(CONFIG, encoding="utf-8") as f:
-        reels = json.load(f)["reels"]
-    reels = [r for r in reels if not r.get("duplicate_of")]
+        cfg = json.load(f)
+    reels = [r for r in cfg["reels"] if not r.get("duplicate_of")]
     if args.only:
         reels = [r for r in reels if r["n"] == args.only]
 
+    sup = cfg.get("supabase", {})
     sb_url = os.environ["SUPABASE_URL"].rstrip("/")
     sb_key = os.environ["SUPABASE_KEY"]
-    bucket = os.environ.get("SUPABASE_BUCKET", "reels")
+    bucket = os.environ.get("SUPABASE_BUCKET") or sup.get("bucket", "videos")
+    folder = os.environ.get("SUPABASE_FOLDER") or sup.get("folder", "")
     fr_token = get_token("FB_TOKEN_FR")
 
     done, skip, fail = 0, 0, 0
     for r in reels:
-        fn = f"reel_{r['reel_id']}.mp4"
+        fn = (folder + "/" if folder else "") + f"reel_{r['reel_id']}.mp4"
         if not args.force and exists_in_bucket(sb_url, bucket, fn):
             print(f"[seed] #{r['n']} ya está -> se omite")
             skip += 1

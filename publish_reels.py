@@ -18,6 +18,8 @@ import os
 import sys
 import tempfile
 
+import requests
+
 from src.config import FB_HOST, IG_LOGIN_HOST, get_token, load_accounts
 from src import state as st
 from src import reels_publish as rp
@@ -70,15 +72,20 @@ def main():
     # ---- publicación real (WIP: validar) ----
     sb_url = os.environ["SUPABASE_URL"].rstrip("/")
     sb_key = os.environ["SUPABASE_KEY"]
-    sb_bucket = os.environ.get("SUPABASE_BUCKET", "reels")
+    with open(CONFIG, encoding="utf-8") as f:
+        sup = json.load(f).get("supabase", {})
+    bucket = os.environ.get("SUPABASE_BUCKET") or sup.get("bucket", "videos")
+    folder = os.environ.get("SUPABASE_FOLDER") or sup.get("folder", "")
+    filename = (folder + "/" if folder else "") + f"reel_{reel['reel_id']}.mp4"
+    public_url = f"{sb_url}/storage/v1/object/public/{bucket}/{filename}"
 
-    tmp = os.path.join(tempfile.gettempdir(), f"reel_{reel['reel_id']}.mp4")
-    fr_token = get_token("FB_TOKEN_FR")  # la Página FR posee los reels
-    print("[REELS] descargando vídeo del reel FR…")
-    rp.download_fb_reel(reel["reel_id"], fr_token, tmp)
-    filename = f"reel_{reel['reel_id']}.mp4"
-    print("[REELS] subiendo a Supabase…")
-    public_url = rp.supabase_upload(tmp, sb_bucket, filename, sb_url, sb_key)
+    # el vídeo debería estar YA en el bucket (sembrado con tools/seed_reels_bucket.py);
+    # si no está, se descarga de FB y se sube en el momento.
+    if requests.get(public_url, stream=True, timeout=30).status_code != 200:
+        tmp = os.path.join(tempfile.gettempdir(), f"reel_{reel['reel_id']}.mp4")
+        print("[REELS] no está en el bucket; descargando de FB y subiendo…")
+        rp.download_fb_reel(reel["reel_id"], get_token("FB_TOKEN_FR"), tmp)
+        public_url = rp.supabase_upload(tmp, bucket, filename, sb_url, sb_key)
     print(f"[REELS] URL pública: {public_url}")
 
     ok, fail = 0, 0
@@ -120,10 +127,7 @@ def main():
         posted.append(reel["reel_id"])
         state[STATE_KEY] = posted[-200:]
         st.save_state(state)
-    try:
-        rp.supabase_delete(sb_bucket, filename, sb_url, sb_key)  # limpieza (no se acumula)
-    except Exception:  # noqa: BLE001
-        pass
+    # el vídeo se queda en el bucket (sembrado, se reutiliza en la rotación).
     print(f"[REELS] terminado ok={ok} fail={fail}")
     sys.exit(1 if fail and not ok else 0)
 

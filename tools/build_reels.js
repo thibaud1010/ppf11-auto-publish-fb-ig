@@ -106,6 +106,7 @@ fs.mkdirSync(path.join(ROOT, 'content', 'reels'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'config', 'reels.json'),
   JSON.stringify({
     _comment: 'Reels FR de PPF11 a re-publicar en IG+FB de los 6 idiomas (es/en/de/it/pt/nl). NO francés. Caption corto (el video muestra el ejercicio). Link CTA = home por idioma (revisar). CTA = 50 ejercicios + guía jóvenes.',
+    supabase: { bucket: 'videos', folder: 'reels' },
     langs: LANGS,
     count: out.length,
     unique: out.filter(r => !r.duplicate_of).length,

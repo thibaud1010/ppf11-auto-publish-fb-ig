@@ -34,6 +34,7 @@ jobs:
           TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
         run: python publish_instagram.py ${{ inputs.force && '--force' || '' }}
       - name: Guardar registro
+        if: always()   # guardar el estado AUNQUE falle un idioma (evita rotacion congelada -> duplicados)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"

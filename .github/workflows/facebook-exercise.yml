@@ -19,7 +19,9 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    concurrency: fb-state
+    # MISMO grupo que IG y FB-articulo: escriben en state/ y no deben pushear a la vez
+    # (la carrera de push congelaba la rotacion de IG -> duplicados). Mismo grupo = en serie.
+    concurrency: publish-state
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

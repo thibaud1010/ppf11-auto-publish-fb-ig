@@ -22,7 +22,10 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    concurrency: ig-state
+    # MISMO grupo que FB: las 3 publicaciones escriben en state/ y antes corrian en
+    # paralelo (FB :00 + IG :01) -> el push de IG perdia la carrera con FB y su estado
+    # nunca se guardaba (rotacion IG congelada = duplicados). Mismo grupo = en serie.
+    concurrency: publish-state
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

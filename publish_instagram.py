@@ -45,29 +45,34 @@ def main():
         ig = cfg.get("instagram")
         if not ig:
             continue
-        items = load_items(KIND, lang)
-        if not items:
-            print(f"[IG][{lang}] sin ejercicios")
-            continue
-        key = f"ig:{lang}:{KIND}"
-        item = st.pick_next(items, key, state)
-        # Preferimos el caption ya redactado (columna caption_ig); si no, plantilla.
-        caption = (item.get("caption_ig") or "").strip()
-        if not caption:
-            try:
-                template = templates[TYPE][lang]
-            except KeyError:
-                print(f"[IG][{lang}] falta caption_ig y plantilla '{TYPE}'")
-                fail += 1
-                continue
-            caption = render_caption(template, item)
-
-        if args.dry_run:
-            print(f"[IG][{lang}] DRY-RUN -> {item['url']}\n{caption}\n---")
-            st.mark_posted(state, key, item["image_url"])
-            ok += 1
-            continue
+        # TODO el trabajo del idioma va dentro de UN solo try. Antes, cargar el CSV
+        # (load_items), pick_next o preparar el caption quedaban FUERA del try: si
+        # cualquiera de esos petaba, el script se cortaba ANTES de save_state() y el
+        # estado NO se guardaba -> rotacion congelada -> el mismo ejercicio se repetia
+        # en cada disparo (duplicados). Ahora cualquier fallo del idioma se captura,
+        # el bucle termina y save_state() SIEMPRE persiste lo ya publicado.
         try:
+            items = load_items(KIND, lang)
+            if not items:
+                print(f"[IG][{lang}] sin ejercicios")
+                continue
+            key = f"ig:{lang}:{KIND}"
+            item = st.pick_next(items, key, state)
+            # Preferimos el caption ya redactado (columna caption_ig); si no, plantilla.
+            caption = (item.get("caption_ig") or "").strip()
+            if not caption:
+                template = templates.get(TYPE, {}).get(lang)
+                if not template:
+                    print(f"[IG][{lang}] falta caption_ig y plantilla '{TYPE}'")
+                    fail += 1
+                    continue
+                caption = render_caption(template, item)
+
+            if args.dry_run:
+                print(f"[IG][{lang}] DRY-RUN -> {item['url']}\n{caption}\n---")
+                st.mark_posted(state, key, item["image_url"])
+                ok += 1
+                continue
             # SISTEMA MIXTO: host + token segun instagram.mode de accounts.json
             mode = ig.get("mode", "page")
             if mode == "login":  # en/it/de/pt: Instagram Login
@@ -86,8 +91,7 @@ def main():
         except Exception as e:  # noqa: BLE001
             print(f"[IG][{lang}] ERROR: {e}")
             st.log_history({"platform": "ig", "lang": lang, "type": "exercise",
-                            "title": item.get("title", ""), "url": item.get("url", ""),
-                            "image_url": item.get("image_url", ""), "status": "error", "error": str(e)[:200]})
+                            "status": "error", "error": str(e)[:300]})
             fail += 1
 
     st.save_state(state)

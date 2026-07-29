@@ -97,6 +97,19 @@
   dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:14px;max-width:460px;width:92%}
   dialog::backdrop{background:rgba(0,0,0,.6)}
   code{font-family:ui-monospace,Consolas,monospace;font-size:.92em;background:var(--panel2);padding:1px 5px;border-radius:5px}
+  /* Nota visual: horarios de publicación */
+  .sched{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;margin:16px 0 2px}
+  .sched h2{margin:0 0 12px;font-size:15px;font-weight:800;display:flex;align-items:center;gap:8px}
+  .sched h2 small{font-weight:600;color:var(--muted);font-size:12px}
+  .sched-wrap{overflow-x:auto}
+  .sched table{border-collapse:collapse;width:100%;min-width:440px;font-size:13.5px}
+  .sched th,.sched td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);white-space:nowrap;vertical-align:middle}
+  .sched th{color:var(--muted);font-weight:650;font-size:11.5px;text-transform:uppercase;letter-spacing:.04em}
+  .sched tbody tr:last-child td{border-bottom:0}
+  .sched .h{font-weight:800;font-variant-numeric:tabular-nums;font-size:15px}
+  .sched .pend .h,.sched td.pend{color:var(--warn)}
+  .sched-foot{margin-top:12px;padding-top:11px;border-top:1px dashed var(--line);font-size:12.5px;color:var(--muted);display:flex;gap:8px 18px;flex-wrap:wrap}
+  .sched-foot b{color:var(--ink)}
 </style>
 </head>
 <body>
@@ -135,6 +148,27 @@
     <button class="btn small" id="btnLock">🔒 Cambiar contraseña</button>
     <button class="btn small" id="btnReload">↻ Recargar</button>
   </header>
+
+  <section class="sched">
+    <h2>🕑 Horarios de publicación <small>· hora de París · disparo exacto por cron-job.org</small></h2>
+    <div class="sched-wrap">
+    <table>
+      <thead><tr><th>Hora</th><th>Plataforma</th><th>Contenido</th></tr></thead>
+      <tbody>
+        <tr><td class="h">07:00</td><td><span class="pill pl-fb">Facebook</span></td><td>Artículo del blog</td></tr>
+        <tr><td class="h">07:01</td><td><span class="pill pl-ig">Instagram</span></td><td>Ejercicio · mañana</td></tr>
+        <tr><td class="h">18:00</td><td><span class="pill pl-fb">Facebook</span></td><td>Ejercicio</td></tr>
+        <tr><td class="h">18:01</td><td><span class="pill pl-ig">Instagram</span></td><td>Ejercicio · tarde <span style="color:var(--muted)">(distinto al de la mañana)</span></td></tr>
+        <tr class="pend"><td class="h">~12:00</td><td><span class="pill pl-ig">IG</span> <span class="pill pl-fb">FB</span></td><td class="pend">Reel del día · pendiente de activar</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <div class="sched-foot">
+      <span>✅ <b>6 idiomas</b>: 🇪🇸 🇬🇧 🇩🇪 🇮🇹 🇧🇷 🇳🇱</span>
+      <span>⏸️ <b>🇫🇷 Francés en pausa</b> — no publica nada</span>
+      <span>⏱️ Estado guardado en serie · sin duplicados</span>
+    </div>
+  </section>
 
   <div class="tabs">
     <div class="tab active" data-tab="preview">📅 Próximos posts</div>

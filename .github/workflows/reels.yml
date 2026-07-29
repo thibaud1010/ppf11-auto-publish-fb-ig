@@ -39,6 +39,7 @@ jobs:
           SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
         run: python publish_reels.py ${{ inputs.dry_run && '' || '--publish' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
       - name: Guardar estado
+        if: always()   # guardar el estado AUNQUE falle un idioma (evita rotacion congelada -> reels duplicados)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"

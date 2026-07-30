@@ -4,15 +4,19 @@ name: Reels - PPF11 (video FR -> IG+FB 6 idiomas) [WIP]
 # NO hay disparo automatico (ni cron de GitHub ni cron-job.org) hasta validar.
 # Para activarlo de verdad:
 #   1) crear un bucket PUBLICO en Supabase y los secretos SUPABASE_URL / SUPABASE_KEY (service_role) / SUPABASE_BUCKET
-#   2) probar: Run workflow con dry_run=false y only=es (valida descarga FB + IG Reel)
+#   2) probar: Run workflow con publish=si y only=es (valida descarga FB + IG Reel)
 #   3) (opcional) crear el disparo diario a mediodia en cron-job.org, como los otros.
 on:
   workflow_dispatch:
     inputs:
-      dry_run:
-        description: "Solo simular (recomendado)"
-        type: boolean
-        default: true
+      publish:
+        # Comparacion de STRINGS (a prueba de balas via API): 'si' publica, vacio = solo simula.
+        # Antes era un boolean 'dry_run' con el truco ternario ${{ x && '' || '--publish' }},
+        # que en GitHub da '--publish' SIEMPRE (la rama vacia rompe el ternario) -> publicaba
+        # aunque quisieras simular. Con string == 'si' el comportamiento es inequivoco.
+        description: "Escribe 'si' para PUBLICAR de verdad (vacio = solo simular)"
+        type: string
+        default: ""
       only:
         description: "Solo un idioma (es/en/de/it/pt/nl), opcional"
         type: string
@@ -37,7 +41,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
           SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
-        run: python publish_reels.py ${{ inputs.dry_run && '' || '--publish' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+        run: python publish_reels.py ${{ inputs.publish == 'si' && '--publish' || '' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
       - name: Guardar estado
         if: always()   # guardar el estado AUNQUE falle un idioma (evita rotacion congelada -> reels duplicados)
         run: |

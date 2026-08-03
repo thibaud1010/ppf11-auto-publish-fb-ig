@@ -233,3 +233,15 @@
 {"ts": "2026-08-03T05:01:26Z", "platform": "ig", "lang": "it", "type": "exercise", "status": "error", "error": "IG publish 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AECpDqBTDy6Un37vRG2CRr"}
 {"ts": "2026-08-03T05:01:38Z", "platform": "ig", "lang": "pt", "type": "exercise", "title": "1 contra 1 «intermitente» — mini-torneio subida/descida", "url": "https://www.ppf11.com/pt/treinos/exercicios-gratis", "image_url": "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/jeux-reduits/EXERCICE-1.jpg", "status": "ok", "post_id": "18411858307154483"}
 {"ts": "2026-08-03T05:01:45Z", "platform": "ig", "lang": "nl", "type": "exercise", "title": "1 tegen 1 \"interval\" — minitoernooi promotie/degradatie", "url": "https://www.ppf11.com/nl/trainingen/gratis-oefeningen", "image_url": "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/jeux-reduits/EXERCICE-1.jpg", "status": "ok", "post_id": "18157898218473312"}
+{"ts": "2026-08-03T10:01:41Z", "platform": "ig", "lang": "es", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "18599320492031202"}
+{"ts": "2026-08-03T10:01:47Z", "platform": "fb", "lang": "es", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "1981606746132155"}
+{"ts": "2026-08-03T10:03:22Z", "platform": "ig", "lang": "en", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "18101787322916042"}
+{"ts": "2026-08-03T10:03:27Z", "platform": "fb", "lang": "en", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "1586395549746247"}
+{"ts": "2026-08-03T10:04:05Z", "platform": "ig", "lang": "de", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "17919931005409357"}
+{"ts": "2026-08-03T10:04:10Z", "platform": "fb", "lang": "de", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "930191613451155"}
+{"ts": "2026-08-03T10:05:19Z", "platform": "ig", "lang": "it", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "17941057476291664"}
+{"ts": "2026-08-03T10:05:24Z", "platform": "fb", "lang": "it", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "1647475813644185"}
+{"ts": "2026-08-03T10:05:56Z", "platform": "ig", "lang": "pt", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "18116616874930841"}
+{"ts": "2026-08-03T10:06:00Z", "platform": "fb", "lang": "pt", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "2082462259127492"}
+{"ts": "2026-08-03T10:06:34Z", "platform": "ig", "lang": "nl", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "18128745460644733"}
+{"ts": "2026-08-03T10:06:40Z", "platform": "fb", "lang": "nl", "type": "reel", "reel_id": "808016639060483", "status": "ok", "post_id": "1026117690345760"}

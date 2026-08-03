@@ -17,3 +17,15 @@ def publish_photo(page_id, page_token, image_url, caption, timeout=60):
     if resp.status_code != 200:
         raise RuntimeError(f"FB {resp.status_code}: {resp.text}")
     return resp.json()
+
+
+def publish_comment(post_id, page_token, message, timeout=60):
+    """Comenta el post (para poner ahi los enlaces: FB entierra fotos con enlace en el caption)."""
+    resp = requests.post(
+        f"{FB_HOST}/{post_id}/comments",
+        data={"message": message, "access_token": page_token},
+        timeout=timeout,
+    )
+    if resp.status_code != 200:
+        raise RuntimeError(f"FB comment {resp.status_code}: {resp.text}")
+    return resp.json()

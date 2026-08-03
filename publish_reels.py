@@ -109,19 +109,12 @@ def main():
             st.log_history({"platform": "ig", "lang": l, "type": "reel",
                             "reel_id": reel["reel_id"], "status": "error", "error": str(e)[:200]})
             fail += 1
-        # Facebook vídeo
-        try:
-            res = rp.fb_publish_video(cfg["facebook"]["page_id"], get_token(f"FB_TOKEN_{l.upper()}"),
-                                      public_url, caption)
-            print(f"[REELS][FB][{l}] OK {res.get('id')}")
-            st.log_history({"platform": "fb", "lang": l, "type": "reel",
-                            "reel_id": reel["reel_id"], "status": "ok", "post_id": res.get("id", "")})
-            ok += 1
-        except Exception as e:  # noqa: BLE001
-            print(f"[REELS][FB][{l}] ERROR: {e}")
-            st.log_history({"platform": "fb", "lang": l, "type": "reel",
-                            "reel_id": reel["reel_id"], "status": "error", "error": str(e)[:200]})
-            fail += 1
+        # Facebook: YA NO se sube el video por API. Auditoria 03-08-2026: la subida
+        # directa via /videos quedaba enterrada por FB (2 vistas), mientras que los
+        # reels CROSSPOSTEADOS de IG->FB alcanzaban 3K-130K. El reel llega a la
+        # Pagina FB via el crosspost automatico configurado en cada cuenta de IG
+        # ("Compartir en Facebook"), no desde aqui.
+        print(f"[REELS][FB][{l}] omitido (llega via crosspost automatico IG→FB)")
 
     if ok:
         posted.append(reel["reel_id"])

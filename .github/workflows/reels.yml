@@ -28,9 +28,12 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    concurrency: reels-state
+    # Mismo grupo que FB/IG: todos escriben en state/ (guardado en serie + fusion).
+    concurrency: publish-state
     steps:
       - uses: actions/checkout@v4
+      - name: Partir del estado mas reciente
+        run: git fetch origin main && git reset --hard origin/main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -44,13 +47,19 @@ jobs:
         run: python publish_reels.py ${{ inputs.publish == 'si' && '--publish' || '' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
       - name: Guardar estado
         if: always()   # guardar el estado AUNQUE falle un idioma (evita rotacion congelada -> reels duplicados)
+        # Guardado por FUSION (tools/merge_state.js) — ver instagram.yml.
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add state/
-          git commit -m "state: reels $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+          cp -r state /tmp/state_ours
           for i in 1 2 3 4 5; do
-            git pull --rebase --autostash && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            git fetch origin main
+            git reset --hard origin/main
+            node tools/merge_state.js /tmp/state_ours state
+            git add state/
+            git commit -m "state: reels $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+            git push origin main && exit 0
             echo "reintento push $i"; sleep 5
           done
           echo "push fallo" >&2; exit 1

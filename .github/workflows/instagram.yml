@@ -28,6 +28,10 @@ jobs:
     concurrency: publish-state
     steps:
       - uses: actions/checkout@v4
+      # El checkout ancla al SHA del DISPARO (:01): si el otro job guarda mientras
+      # esperamos/corremos, ese ancla queda vieja. Partimos SIEMPRE del main real.
+      - name: Partir del estado mas reciente
+        run: git fetch origin main && git reset --hard origin/main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -38,13 +42,22 @@ jobs:
         run: python publish_instagram.py ${{ inputs.force && '--force' || '' }}
       - name: Guardar registro
         if: always()   # guardar el estado AUNQUE falle un idioma (evita rotacion congelada -> duplicados)
+        # Guardado por FUSION (tools/merge_state.js): antes, el "pull --rebase" del
+        # que guardaba SEGUNDO chocaba en history.jsonl (ambos anaden al final),
+        # los reintentos corrian sobre un rebase roto y el estado se PERDIA ->
+        # rotacion congelada -> duplicados (04-08-2026). Fusionar no conflictua.
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add state/
-          git commit -m "state: ig $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+          cp -r state /tmp/state_ours
           for i in 1 2 3 4 5; do
-            git pull --rebase --autostash && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            git fetch origin main
+            git reset --hard origin/main
+            node tools/merge_state.js /tmp/state_ours state
+            git add state/
+            git commit -m "state: ig $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+            git push origin main && exit 0
             echo "reintento push $i"; sleep 5
           done
           echo "push fallo" >&2; exit 1

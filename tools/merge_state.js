@@ -24,15 +24,29 @@ if (!ours || !base) { console.error("uso: merge_state.js <dir_nuestro> <dir_base
 const readJSON = p => { try { return JSON.parse(fs.readFileSync(p, "utf8")); } catch (e) { return null; } };
 const readText = p => { try { return fs.readFileSync(p, "utf8"); } catch (e) { return null; } };
 
-// posted_log.json — por clave: base + nuestros items que falten (al final = más recientes)
+// posted_log.json — dos formas de valor:
+//   LISTA (rotaciones, p.ej. "ig:es:exercises", "reels:posted"): base + nuestros
+//     items que falten, y los nuestros al final (= más recientes, que es el orden
+//     que usan pick_next / pick_next_reel).
+//   OBJETO (contadores, p.ej. "reels:count"): por clave se queda el valor mayor.
 {
   const A = readJSON(path.join(ours, "posted_log.json"));
   const B = readJSON(path.join(base, "posted_log.json")) || {};
   if (A) {
     for (const k of Object.keys(A)) {
-      const b = B[k] || [];
-      for (const it of A[k]) if (!b.includes(it)) b.push(it);
-      B[k] = b.slice(-500);
+      const a = A[k];
+      if (Array.isArray(a)) {
+        let b = (Array.isArray(B[k]) ? B[k] : []).filter(x => !a.includes(x));
+        B[k] = b.concat(a).slice(-500);
+      } else if (a && typeof a === "object") {
+        const b = (B[k] && typeof B[k] === "object" && !Array.isArray(B[k])) ? B[k] : {};
+        for (const [id, n] of Object.entries(a)) {
+          b[id] = Math.max(Number(b[id]) || 0, Number(n) || 0);
+        }
+        B[k] = b;
+      } else {
+        B[k] = a;
+      }
     }
     fs.writeFileSync(path.join(base, "posted_log.json"), JSON.stringify(B, null, 2) + "\n");
     console.log("[merge] posted_log.json fusionado");

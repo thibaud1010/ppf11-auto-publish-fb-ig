@@ -268,7 +268,7 @@
       <label class="fld">Idioma
         <select id="reLangSel"></select>
       </label>
-      <span class="fld" style="align-self:center;color:var(--muted)">Vídeos franceses → IG + FB · <b id="reCount">…</b> reels · el francés no se toca</span>
+      <span class="fld" style="align-self:center;color:var(--muted)">Vídeos franceses → IG + FB · <b id="reCount">…</b> reels · el francés no se toca · 2 versiones de caption (se alternan al republicar)</span>
     </div>
     <div id="reelsOut" class="grid"><div class="loading">Cargando reels…</div></div>
   </section>
@@ -614,7 +614,10 @@ function renderReels(){
         <span class="pill slot">🎬 Reel ${r.n} · ${esc(r.theme_fr)}${dup}</span>
         <a href="${r.fb_url}" target="_blank" rel="noopener" class="pill" style="text-decoration:none">ver vídeo ↗</a>
       </div>
-      <div class="cap">${esc(r.captions[reLang]||"")}</div>
+      <div class="cap"><b style="color:var(--accent-ink)">A · regalo 50 ejercicios</b>
+${esc(r.captions[reLang]||"")}</div>
+      <div class="cap" style="border-top:1px dashed var(--line)"><b style="color:var(--accent-ink)">B · regalo guía jóvenes</b> <span style="color:var(--muted)">(al republicarse)</span>
+${esc((r.captions_b||{})[reLang]||"")}</div>
     </div>`;
   }).join("");
 }

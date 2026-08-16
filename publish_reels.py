@@ -25,7 +25,19 @@ from src import state as st
 from src import reels_publish as rp
 
 CONFIG = os.path.join(os.path.dirname(__file__), "config", "reels.json")
-STATE_KEY = "reels:posted"  # lista de reel_id ya publicados (rotación sin repetir)
+STATE_KEY = "reels:posted"    # lista de reel_id por RECENCIA (rotación sin repetir)
+STATE_COUNT = "reels:count"   # {reel_id: veces publicado} -> alterna caption A/B
+
+
+def pick_caption(reel, lang, veces):
+    """Caption del reel: alterna version A y B para que el repost NO sea identico.
+
+    veces par (0, 2, 4...) -> A (regalo: 50 ejercicios en PDF)
+    veces impar (1, 3...)  -> B (regalo: guia de los jovenes futbolistas)
+    """
+    if veces % 2 == 1:
+        return (reel.get("captions_b") or reel["captions"])[lang]
+    return reel["captions"][lang]
 
 
 def load_reels():
@@ -81,12 +93,16 @@ def main():
     langs = [l for l in ["es", "en", "de", "it", "pt", "nl"]
              if accounts.get(l, {}).get("enabled", True) and (not args.only or l == args.only)]
 
+    veces = state.get(STATE_COUNT, {}).get(reel["reel_id"], 0)
+    version = "B (guia jovenes)" if veces % 2 else "A (50 ejercicios)"
+
     print(f"[REELS] siguiente: #{reel['n']} {reel['fb_url']} (tema {reel['theme_fr']})")
+    print(f"[REELS] publicado {veces} vez/veces antes -> caption version {version}")
     print(f"[REELS] idiomas: {', '.join(langs)}  | modo: {'DRY-RUN' if dry else 'PUBLICAR'}")
 
     if dry:
         for l in langs:
-            print(f"\n----- {l} -----\n{reel['captions'][l]}")
+            print(f"\n----- {l} -----\n{pick_caption(reel, l, veces)}")
         print("\n[REELS] DRY-RUN: no se publica nada. Usa --publish (con secretos) para lanzar.")
         return
 
@@ -112,7 +128,7 @@ def main():
     ok, fail = 0, 0
     for l in langs:
         cfg = accounts[l]
-        caption = reel["captions"][l]
+        caption = pick_caption(reel, l, veces)
         # Instagram Reel
         try:
             ig = cfg["instagram"]
@@ -143,6 +159,10 @@ def main():
         posted = [x for x in posted if x != reel["reel_id"]]
         posted.append(reel["reel_id"])
         state[STATE_KEY] = posted[-200:]
+        # veces publicado -> la proxima vez sale la OTRA version del caption
+        cuenta = state.get(STATE_COUNT, {})
+        cuenta[reel["reel_id"]] = veces + 1
+        state[STATE_COUNT] = cuenta
         st.save_state(state)
     # el vídeo se queda en el bucket (sembrado, se reutiliza en la rotación).
     print(f"[REELS] terminado ok={ok} fail={fail}")

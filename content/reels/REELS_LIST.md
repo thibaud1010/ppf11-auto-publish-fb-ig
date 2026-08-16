@@ -1,2022 +1,5188 @@
 # Reels PPF11 — lista traducida (6 idiomas)
 
 Reels franceses a re-publicar en **Instagram + Facebook** de los 6 idiomas (es/en/de/it/pt/nl). **Francés no se toca.**
-Caption corto (el vídeo muestra el ejercicio) = gancho + CTA (50 ejercicios + guía jóvenes) + hashtags.
-Total: 31 reels (1 duplicado marcado). Link del CTA = home por idioma (dime si lo quieres genérico www.ppf11.com).
+
+Cada reel tiene **dos versiones de caption** (gancho + línea de valor + CTA + hashtags):
+- **A** — regalo: 50 ejercicios en PDF (esquemas 3D). Es la que sale la primera vez.
+- **B** — regalo: guía de los jóvenes futbolistas. Sale cuando el reel se republica.
+
+Total: 31 reels (1 duplicado marcado).
 
 ---
 
-## Reel 1
+## Reel 1 — echauffement
 **URL:** https://www.facebook.com/reel/1951129368927387
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Ideas de ejercicios: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise ideas: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsideen: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idee di esercizi: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideias de exercícios: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenideeën: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 2
+## Reel 2 — agilite
 **URL:** https://www.facebook.com/reel/1163415026862701
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: agilidad 🎁⬇️
+⚽ Agilidad: cambiar de dirección sin perder velocidad
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: agility 🎁⬇️
+⚽ Agilidad: cambiar de dirección sin perder velocidad
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Agilität 🎁⬇️
+⚽ Agility: change direction without losing speed
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Footwork, braking and re-acceleration — the base for winning the first metre.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: agilità 🎁⬇️
+⚽ Agility: change direction without losing speed
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Footwork, braking and re-acceleration — the base for winning the first metre.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: agilidade 🎁⬇️
+⚽ Agilität: Richtungswechsel ohne Tempoverlust
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: wendbaarheid 🎁⬇️
+⚽ Agilität: Richtungswechsel ohne Tempoverlust
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Agilità: cambiare direzione senza perdere velocità
+
+Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Agilità: cambiare direzione senza perdere velocità
+
+Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Agilidade: mudar de direção sem perder velocidade
+
+Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Agilidade: mudar de direção sem perder velocidade
+
+Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Wendbaarheid: van richting veranderen zonder snelheid te verliezen
+
+Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Wendbaarheid: van richting veranderen zonder snelheid te verliezen
+
+Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #wendbaarheid
 ```
 
 ---
 
-## Reel 3
+## Reel 3 — jeu-reduit-duels
 **URL:** https://www.facebook.com/reel/4352454308336733
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: juego reducido — duelos 🎁⬇️
+⚽ Juego reducido: duelos que se parecen al partido
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: small-sided game — duels 🎁⬇️
+⚽ Juego reducido: duelos que se parecen al partido
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Kleinfeldspiel — Duelle 🎁⬇️
+⚽ Small-sided game: duels that look like the match
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Tight space and real opposition — intensity, decision-making and competition in every action.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #smallsidedgames
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: partita a tema — duelli 🎁⬇️
+⚽ Small-sided game: duels that look like the match
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Tight space and real opposition — intensity, decision-making and competition in every action.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #smallsidedgames
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: jogo reduzido — duelos 🎁⬇️
+⚽ Kleinfeldspiel: Duelle wie im Spiel
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #kleinfeldspiel
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: partijspel — duels 🎁⬇️
+⚽ Kleinfeldspiel: Duelle wie im Spiel
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #kleinfeldspiel
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Partita a tema: duelli che somigliano alla gara
+
+Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #partiteatema
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Partita a tema: duelli che somigliano alla gara
+
+Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #partiteatema
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Jogo reduzido: duelos parecidos com o jogo
+
+Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #jogoreduzido
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Jogo reduzido: duelos parecidos com o jogo
+
+Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #jogoreduzido
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Partijspel: duels zoals in de wedstrijd
+
+Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #partijspel
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Partijspel: duels zoals in de wedstrijd
+
+Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #partijspel
 ```
 
 ---
 
-## Reel 4
+## Reel 4 — echauffement
 **URL:** https://www.facebook.com/reel/2013595585917541
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 5
+## Reel 5 — echauffement
 **URL:** https://www.facebook.com/reel/1751582305999402
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 6
+## Reel 6 — vitesse
 **URL:** https://www.facebook.com/reel/2154251835355676
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad 🎁⬇️
+⚽ Velocidad: ganar el metro que decide la jugada
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed 🎁⬇️
+⚽ Velocidad: ganar el metro que decide la jugada
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit 🎁⬇️
+⚽ Speed: win the metre that decides the play
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Starts, stride and maximum intensity over short distances — just like in the match.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità 🎁⬇️
+⚽ Speed: win the metre that decides the play
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Starts, stride and maximum intensity over short distances — just like in the match.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade 🎁⬇️
+⚽ Schnelligkeit: den entscheidenden Meter gewinnen
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid 🎁⬇️
+⚽ Schnelligkeit: den entscheidenden Meter gewinnen
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità: vincere il metro che decide l’azione
+
+Partenze, falcata e massima intensità su distanze brevi, come in partita.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità: vincere il metro che decide l’azione
+
+Partenze, falcata e massima intensità su distanze brevi, come in partita.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade: ganhar o metro que decide o lance
+
+Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade: ganhar o metro que decide o lance
+
+Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid: de meter winnen die de actie beslist
+
+Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid: de meter winnen die de actie beslist
+
+Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid
 ```
 
 ---
 
-## Reel 7
+## Reel 7 — echauffement
 **URL:** https://www.facebook.com/reel/808016639060483
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 8
+## Reel 8 — vitesse-reaction-gainage
 **URL:** https://www.facebook.com/reel/5495512367341414
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad de reacción (y core) 🎁⬇️
+⚽ Reacción y core: salir fuerte desde cualquier posición
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: reaction speed (and core) 🎁⬇️
+⚽ Reacción y core: salir fuerte desde cualquier posición
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Reaktionsschnelligkeit (und Rumpfstabilität) 🎁⬇️
+⚽ Reaction & core: explode from any position
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #core
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità di reazione (e core) 🎁⬇️
+⚽ Reaction & core: explode from any position
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #core
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade de reação (e core) 🎁⬇️
+⚽ Reaktion & Rumpf: aus jeder Position explosiv starten
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: reactiesnelheid (en corestabiliteit) 🎁⬇️
+⚽ Reaktion & Rumpf: aus jeder Position explosiv starten
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Reazione e core: partire forte da qualsiasi posizione
+
+Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #core
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Reazione e core: partire forte da qualsiasi posizione
+
+Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #core
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Reação e core: sair forte de qualquer posição
+
+Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #core
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Reação e core: sair forte de qualquer posição
+
+Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #core
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Reactie & core: explosief starten vanuit elke houding
+
+Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #core
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Reactie & core: explosief starten vanuit elke houding
+
+Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #core
 ```
 
 ---
 
-## Reel 9
+## Reel 9 — echauffement
 **URL:** https://www.facebook.com/reel/1305650665083512
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 10
+## Reel 10 — echauffement
 **URL:** https://www.facebook.com/reel/1716199756236138
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 11
+## Reel 11 — agilite
 **URL:** https://www.facebook.com/reel/2998496860338769
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: agilidad 🎁⬇️
+⚽ Agilidad: cambiar de dirección sin perder velocidad
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: agility 🎁⬇️
+⚽ Agilidad: cambiar de dirección sin perder velocidad
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Agilität 🎁⬇️
+⚽ Agility: change direction without losing speed
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Footwork, braking and re-acceleration — the base for winning the first metre.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: agilità 🎁⬇️
+⚽ Agility: change direction without losing speed
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Footwork, braking and re-acceleration — the base for winning the first metre.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: agilidade 🎁⬇️
+⚽ Agilität: Richtungswechsel ohne Tempoverlust
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: wendbaarheid 🎁⬇️
+⚽ Agilität: Richtungswechsel ohne Tempoverlust
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Agilità: cambiare direzione senza perdere velocità
+
+Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Agilità: cambiare direzione senza perdere velocità
+
+Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Agilidade: mudar de direção sem perder velocidade
+
+Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Agilidade: mudar de direção sem perder velocidade
+
+Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Wendbaarheid: van richting veranderen zonder snelheid te verliezen
+
+Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Wendbaarheid: van richting veranderen zonder snelheid te verliezen
+
+Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #wendbaarheid
 ```
 
 ---
 
-## Reel 12
+## Reel 12 — echauffement
 **URL:** https://www.facebook.com/reel/26479037135113424
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 13
+## Reel 13 — vitesse-reaction
 **URL:** https://www.facebook.com/reel/1410319904111204
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad de reacción 🎁⬇️
+⚽ Velocidad de reacción: el primer paso lo decide todo
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: reaction speed 🎁⬇️
+⚽ Velocidad de reacción: el primer paso lo decide todo
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Reaktionsschnelligkeit 🎁⬇️
+⚽ Reaction speed: the first step decides it
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Visual cue, immediate start — train what happens in the first tenth of a second.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #reaction #speed
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità di reazione 🎁⬇️
+⚽ Reaction speed: the first step decides it
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Visual cue, immediate start — train what happens in the first tenth of a second.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #reaction #speed
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade de reação 🎁⬇️
+⚽ Reaktionsschnelligkeit: der erste Schritt entscheidet
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: reactiesnelheid 🎁⬇️
+⚽ Reaktionsschnelligkeit: der erste Schritt entscheidet
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #reaktion #schnelligkeit
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità di reazione: il primo passo decide tutto
+
+Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #reazione #velocità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità di reazione: il primo passo decide tutto
+
+Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #reazione #velocità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade de reação: o primeiro passo decide tudo
+
+Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #reação #velocidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade de reação: o primeiro passo decide tudo
+
+Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #reação #velocidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Reactiesnelheid: de eerste stap beslist
+
+Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #reactie #snelheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Reactiesnelheid: de eerste stap beslist
+
+Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #reactie #snelheid
 ```
 
 ---
 
-## Reel 14
+## Reel 14 — coordination
 **URL:** https://www.facebook.com/reel/1625589885398990
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: coordinación 🎁⬇️
+⚽ Coordinación: pies rápidos, cuerpo bajo control
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Frecuencia, ritmo y control del apoyo para moverte mejor con y sin balón.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #coordinación
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: coordination 🎁⬇️
+⚽ Coordinación: pies rápidos, cuerpo bajo control
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Frecuencia, ritmo y control del apoyo para moverte mejor con y sin balón.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #coordinación
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Koordination 🎁⬇️
+⚽ Coordination: fast feet, body under control
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Frequency, rhythm and foot control — to move better with and without the ball.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #coordination
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: coordinazione 🎁⬇️
+⚽ Coordination: fast feet, body under control
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Frequency, rhythm and foot control — to move better with and without the ball.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #coordination
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: coordenação 🎁⬇️
+⚽ Koordination: schnelle Füße, Körper unter Kontrolle
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Frequenz, Rhythmus und Fußkontrolle — um dich mit und ohne Ball besser zu bewegen.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #koordination
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: coördinatie 🎁⬇️
+⚽ Koordination: schnelle Füße, Körper unter Kontrolle
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Frequenz, Rhythmus und Fußkontrolle — um dich mit und ohne Ball besser zu bewegen.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #koordination
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Coordinazione: piedi rapidi, corpo sotto controllo
+
+Frequenza, ritmo e controllo dell’appoggio per muoverti meglio con e senza palla.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #coordinazione
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Coordinazione: piedi rapidi, corpo sotto controllo
+
+Frequenza, ritmo e controllo dell’appoggio per muoverti meglio con e senza palla.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #coordinazione
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Coordenação: pés rápidos, corpo sob controle
+
+Frequência, ritmo e controle do apoio para se mover melhor com e sem bola.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #coordenação
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Coordenação: pés rápidos, corpo sob controle
+
+Frequência, ritmo e controle do apoio para se mover melhor com e sem bola.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #coordenação
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Coördinatie: snelle voeten, lichaam onder controle
+
+Frequentie, ritme en voetcontrole — om beter te bewegen met en zonder bal.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #coördinatie
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Coördinatie: snelle voeten, lichaam onder controle
+
+Frequentie, ritme en voetcontrole — om beter te bewegen met en zonder bal.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #coördinatie
 ```
 
 ---
 
-## Reel 15
+## Reel 15 — vitesse
 **URL:** https://www.facebook.com/reel/2334653287018363
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad 🎁⬇️
+⚽ Velocidad: ganar el metro que decide la jugada
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed 🎁⬇️
+⚽ Velocidad: ganar el metro que decide la jugada
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit 🎁⬇️
+⚽ Speed: win the metre that decides the play
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Starts, stride and maximum intensity over short distances — just like in the match.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità 🎁⬇️
+⚽ Speed: win the metre that decides the play
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Starts, stride and maximum intensity over short distances — just like in the match.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade 🎁⬇️
+⚽ Schnelligkeit: den entscheidenden Meter gewinnen
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid 🎁⬇️
+⚽ Schnelligkeit: den entscheidenden Meter gewinnen
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità: vincere il metro che decide l’azione
+
+Partenze, falcata e massima intensità su distanze brevi, come in partita.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità: vincere il metro che decide l’azione
+
+Partenze, falcata e massima intensità su distanze brevi, come in partita.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade: ganhar o metro que decide o lance
+
+Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade: ganhar o metro que decide o lance
+
+Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid: de meter winnen die de actie beslist
+
+Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid: de meter winnen die de actie beslist
+
+Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid
 ```
 
 ---
 
-## Reel 16
+## Reel 16 — vitesse-agilite
 **URL:** https://www.facebook.com/reel/1662346061566915
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad y agilidad 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed & agility 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit & Agilität 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità e agilità 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade e agilidade 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid & wendbaarheid 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
 
 ---
 
-## Reel 17
+## Reel 17 — vitesse-agilite
 **URL:** https://www.facebook.com/reel/1866420667358692
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad y agilidad 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed & agility 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit & Agilität 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità e agilità 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade e agilidade 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid & wendbaarheid 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
 
 ---
 
-## Reel 18
+## Reel 18 — echauffement
 **URL:** https://www.facebook.com/reel/1586270882661847
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 19
+## Reel 19 — echauffement
 **URL:** https://www.facebook.com/reel/1626771625427924
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 20
+## Reel 20 — vitesse-agilite
 **URL:** https://www.facebook.com/reel/1219268500339449
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad y agilidad 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed & agility 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit & Agilität 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità e agilità 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade e agilidade 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid & wendbaarheid 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
 
 ---
 
-## Reel 21
+## Reel 21 — echauffement
 **URL:** https://www.facebook.com/reel/906922768867523
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 22 — ⚠️ DUPLICADO del #8
+## Reel 22 — vitesse-reaction-gainage — ⚠️ DUPLICADO del #8
 **URL:** https://www.facebook.com/reel/5495512367341414
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad de reacción (y core) 🎁⬇️
+⚽ Reacción y core: salir fuerte desde cualquier posición
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: reaction speed (and core) 🎁⬇️
+⚽ Reacción y core: salir fuerte desde cualquier posición
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Reaktionsschnelligkeit (und Rumpfstabilität) 🎁⬇️
+⚽ Reaction & core: explode from any position
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #core
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità di reazione (e core) 🎁⬇️
+⚽ Reaction & core: explode from any position
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #core
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade de reação (e core) 🎁⬇️
+⚽ Reaktion & Rumpf: aus jeder Position explosiv starten
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: reactiesnelheid (en corestabiliteit) 🎁⬇️
+⚽ Reaktion & Rumpf: aus jeder Position explosiv starten
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Reazione e core: partire forte da qualsiasi posizione
+
+Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #core
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Reazione e core: partire forte da qualsiasi posizione
+
+Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #core
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Reação e core: sair forte de qualquer posição
+
+Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #core
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Reação e core: sair forte de qualquer posição
+
+Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #core
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Reactie & core: explosief starten vanuit elke houding
+
+Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #core
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Reactie & core: explosief starten vanuit elke houding
+
+Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #core
 ```
 
 ---
 
-## Reel 23
+## Reel 23 — echauffement
 **URL:** https://www.facebook.com/reel/26101317516170155
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 24
+## Reel 24 — echauffement
 **URL:** https://www.facebook.com/reel/1223253979765464
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 25
+## Reel 25 — vitesse
 **URL:** https://www.facebook.com/reel/982821941575485
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad 🎁⬇️
+⚽ Velocidad: ganar el metro que decide la jugada
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed 🎁⬇️
+⚽ Velocidad: ganar el metro que decide la jugada
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit 🎁⬇️
+⚽ Speed: win the metre that decides the play
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Starts, stride and maximum intensity over short distances — just like in the match.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità 🎁⬇️
+⚽ Speed: win the metre that decides the play
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Starts, stride and maximum intensity over short distances — just like in the match.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade 🎁⬇️
+⚽ Schnelligkeit: den entscheidenden Meter gewinnen
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid 🎁⬇️
+⚽ Schnelligkeit: den entscheidenden Meter gewinnen
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità: vincere il metro che decide l’azione
+
+Partenze, falcata e massima intensità su distanze brevi, come in partita.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità: vincere il metro che decide l’azione
+
+Partenze, falcata e massima intensità su distanze brevi, come in partita.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade: ganhar o metro que decide o lance
+
+Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade: ganhar o metro que decide o lance
+
+Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid: de meter winnen die de actie beslist
+
+Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid: de meter winnen die de actie beslist
+
+Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid
 ```
 
 ---
 
-## Reel 26
+## Reel 26 — echauffement
 **URL:** https://www.facebook.com/reel/3727693974191112
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 27
+## Reel 27 — vitesse-agilite
 **URL:** https://www.facebook.com/reel/901247298925250
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: velocidad y agilidad 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: speed & agility 🎁⬇️
+⚽ Velocidad y agilidad: acelerar, frenar y volver a salir
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Cambios de dirección a máxima intensidad, como en una transición real.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Schnelligkeit & Agilität 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: velocità e agilità 🎁⬇️
+⚽ Speed & agility: accelerate, brake, go again
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Changes of direction at maximum intensity — like a real transition.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #speed #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: velocidade e agilidade 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: snelheid & wendbaarheid 🎁⬇️
+⚽ Schnelligkeit & Agilität: beschleunigen, abbremsen, wieder los
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #schnelligkeit #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità e agilità: accelerare, frenare e ripartire
+
+Cambi di direzione a massima intensità, come in una transizione vera.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #velocità #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade e agilidade: acelerar, frear e sair de novo
+
+Mudanças de direção em máxima intensidade, como numa transição real.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #velocidade #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Snelheid & wendbaarheid: versnellen, afremmen, weer gaan
+
+Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
 
 ---
 
-## Reel 28
+## Reel 28 — agilite-vitesse-reaction
 **URL:** https://www.facebook.com/reel/2319098585191579
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: agilidad y velocidad de reacción 🎁⬇️
+⚽ Agilidad y reacción: leer el estímulo y salir ya
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: agility & reaction speed 🎁⬇️
+⚽ Agilidad y reacción: leer el estímulo y salir ya
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Agilität & Reaktionsschnelligkeit 🎁⬇️
+⚽ Agility & reaction: read the cue and go
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Quick footwork and immediate response — agility applied to a game situation.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #agility #reaction
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: agilità e velocità di reazione 🎁⬇️
+⚽ Agility & reaction: read the cue and go
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Quick footwork and immediate response — agility applied to a game situation.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #agility #reaction
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: agilidade e velocidade de reação 🎁⬇️
+⚽ Agilität & Reaktion: Reiz lesen und sofort los
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #agilität #reaktion
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: wendbaarheid & reactiesnelheid 🎁⬇️
+⚽ Agilität & Reaktion: Reiz lesen und sofort los
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #agilität #reaktion
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Agilità e reazione: leggere lo stimolo e partire subito
+
+Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #agilità #reazione
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Agilità e reazione: leggere lo stimolo e partire subito
+
+Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #agilità #reazione
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Agilidade e reação: ler o estímulo e sair já
+
+Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #agilidade #reação
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Agilidade e reação: ler o estímulo e sair já
+
+Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #agilidade #reação
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Wendbaarheid & reactie: prikkel lezen en meteen gaan
+
+Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #wendbaarheid #reactie
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Wendbaarheid & reactie: prikkel lezen en meteen gaan
+
+Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
 
 ---
 
-## Reel 29
+## Reel 29 — vitesse-reaction
 **URL:** https://www.facebook.com/reel/24973896835545702
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Ideas de ejercicios: velocidad de reacción 🎁⬇️
+⚽ Velocidad de reacción: el primer paso lo decide todo
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise ideas: reaction speed 🎁⬇️
+⚽ Velocidad de reacción: el primer paso lo decide todo
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsideen: Reaktionsschnelligkeit 🎁⬇️
+⚽ Reaction speed: the first step decides it
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Visual cue, immediate start — train what happens in the first tenth of a second.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #reaction #speed
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idee di esercizi: velocità di reazione 🎁⬇️
+⚽ Reaction speed: the first step decides it
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Visual cue, immediate start — train what happens in the first tenth of a second.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #reaction #speed
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideias de exercícios: velocidade de reação 🎁⬇️
+⚽ Reaktionsschnelligkeit: der erste Schritt entscheidet
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenideeën: reactiesnelheid 🎁⬇️
+⚽ Reaktionsschnelligkeit: der erste Schritt entscheidet
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #reaktion #schnelligkeit
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Velocità di reazione: il primo passo decide tutto
+
+Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #reazione #velocità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Velocità di reazione: il primo passo decide tutto
+
+Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #reazione #velocità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Velocidade de reação: o primeiro passo decide tudo
+
+Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #reação #velocidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Velocidade de reação: o primeiro passo decide tudo
+
+Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #reação #velocidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Reactiesnelheid: de eerste stap beslist
+
+Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #reactie #snelheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Reactiesnelheid: de eerste stap beslist
+
+Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #reactie #snelheid
 ```
 
 ---
 
-## Reel 30
+## Reel 30 — echauffement
 **URL:** https://www.facebook.com/reel/2118081678710096
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Idea de ejercicio: calentamiento 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise idea: warm-up 🎁⬇️
+⚽ Calentamiento: llegar al primer duelo a tope
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsidee: Aufwärmen 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idea di esercizio: riscaldamento 🎁⬇️
+⚽ Warm-up: ready for the first duel
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideia de exercício: aquecimento 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenidee: opwarming 🎁⬇️
+⚽ Aufwärmen: bereit für den ersten Zweikampf
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento: pronti al primo duello
+
+Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento: chegar no primeiro duelo no máximo
+
+Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming: klaar voor het eerste duel
+
+Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming
 ```
 
 ---
 
-## Reel 31
+## Reel 31 — echauffement-agilite-vivacite
 **URL:** https://www.facebook.com/reel/418021344197607
 
-**🇪🇸 Español**
+**🇪🇸 Español · versión A**
 
 ```
-⚽ Ideas de ejercicios: calentamiento + agilidad y viveza 🎁⬇️
+⚽ Calentamiento con agilidad: activar y despertar la viveza
 
-🎁 50 ejercicios físicos gratis + guía de jóvenes futbolistas: www.ppf11.com/es o enlace en la bio.
+Del movimiento suave a los apoyos rápidos, para entrar a la sesión enchufado.
 
-#preparaciónfísica #fútbol #entrenamiento #calentamiento #resistencia #velocidad
+🎁 Te regalo 50 EJERCICIOS en PDF
+Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
+👉 Descarga gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento #agilidad
 ```
 
-**🇬🇧 English**
+**🇪🇸 Español · versión B**
 
 ```
-⚽ Exercise ideas: warm-up then agility & quickness 🎁⬇️
+⚽ Calentamiento con agilidad: activar y despertar la viveza
 
-🎁 50 free physical exercises + young players guide: www.ppf11.com/en or link in bio.
+Del movimiento suave a los apoyos rápidos, para entrar a la sesión enchufado.
 
-#physicaltraining #football #soccer #warmup #endurance #speed
+🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
+👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+
+#preparaciónfísica #fútbol #entrenamiento #calentamiento #agilidad
 ```
 
-**🇩🇪 Deutsch**
+**🇬🇧 English · versión A**
 
 ```
-⚽ Übungsideen: Aufwärmen, dann Agilität & Spritzigkeit 🎁⬇️
+⚽ Warm-up with agility: activate and switch on
 
-🎁 50 gratis Athletikübungen + Leitfaden für junge Fußballer: www.ppf11.com/de oder Link in der Bio.
+From smooth movement to quick feet — so you start the session switched on.
 
-#athletiktraining #fußball #training #aufwärmen #ausdauer #schnelligkeit
+🎁 I’m giving you 50 EXERCISES in PDF
+3D diagrams, ready to print and use in your next session.
+👉 Free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup #agility
 ```
 
-**🇮🇹 Italiano**
+**🇬🇧 English · versión B**
 
 ```
-⚽ Idee di esercizi: riscaldamento poi agilità e vivacità 🎁⬇️
+⚽ Warm-up with agility: activate and switch on
 
-🎁 50 esercizi fisici gratis + guida per giovani calciatori: www.ppf11.com/it o link in bio.
+From smooth movement to quick feet — so you start the session switched on.
 
-#preparazionefisica #calcio #allenamento #riscaldamento #resistenza #velocità
+🎁 I’m giving you the YOUNG PLAYERS GUIDE
+👉 Instant free download at ppf11.com/en — link in bio
+
+#physicaltraining #football #soccer #warmup #agility
 ```
 
-**🇵🇹 Português**
+**🇩🇪 Deutsch · versión A**
 
 ```
-⚽ Ideias de exercícios: aquecimento + agilidade e vivacidade 🎁⬇️
+⚽ Aufwärmen mit Agilität: aktivieren und wach werden
 
-🎁 50 exercícios físicos grátis + guia de jovens jogadores: www.ppf11.com/pt ou link na bio.
+Von der ruhigen Bewegung zu schnellen Schritten — damit du hellwach in die Einheit startest.
 
-#preparaçãofísica #futebol #treino #aquecimento #resistência #velocidade
+🎁 Ich schenke dir 50 ÜBUNGEN als PDF
+3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
+👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen #agilität
 ```
 
-**🇳🇱 Nederlands**
+**🇩🇪 Deutsch · versión B**
 
 ```
-⚽ Oefenideeën: opwarming daarna wendbaarheid & felheid 🎁⬇️
+⚽ Aufwärmen mit Agilität: aktivieren und wach werden
 
-🎁 50 gratis fysieke oefeningen + gids voor jonge voetballers: www.ppf11.com/nl of link in bio.
+Von der ruhigen Bewegung zu schnellen Schritten — damit du hellwach in die Einheit startest.
 
-#fysieketraining #voetbal #training #opwarming #uithoudingsvermogen #snelheid
+🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
+👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+
+#athletiktraining #fußball #training #aufwärmen #agilität
+```
+
+**🇮🇹 Italiano · versión A**
+
+```
+⚽ Riscaldamento con agilità: attivare e svegliare la vivacità
+
+Dal movimento morbido agli appoggi rapidi, per entrare in seduta sul pezzo.
+
+🎁 Ti regalo 50 ESERCIZI in PDF
+Schemi 3D, pronti da stampare e usare nella prossima seduta.
+👉 Scarica gratis su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento #agilità
+```
+
+**🇮🇹 Italiano · versión B**
+
+```
+⚽ Riscaldamento con agilità: attivare e svegliare la vivacità
+
+Dal movimento morbido agli appoggi rapidi, per entrare in seduta sul pezzo.
+
+🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
+👉 Download immediato e gratuito su ppf11.com/it — link in bio
+
+#preparazionefisica #calcio #allenamento #riscaldamento #agilità
+```
+
+**🇧🇷 Português · versión A**
+
+```
+⚽ Aquecimento com agilidade: ativar e despertar a vivacidade
+
+Do movimento suave aos apoios rápidos, para entrar no treino ligado.
+
+🎁 Ganhe 50 EXERCÍCIOS em PDF
+Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
+👉 Baixe grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento #agilidade
+```
+
+**🇧🇷 Português · versión B**
+
+```
+⚽ Aquecimento com agilidade: ativar e despertar a vivacidade
+
+Do movimento suave aos apoios rápidos, para entrar no treino ligado.
+
+🎁 Ganhe o GUIA DOS JOVENS JOGADORES
+👉 Download imediato e grátis em ppf11.com/pt — link na bio
+
+#preparaçãofísica #futebol #treino #aquecimento #agilidade
+```
+
+**🇳🇱 Nederlands · versión A**
+
+```
+⚽ Opwarming met wendbaarheid: activeren en scherp worden
+
+Van rustige beweging naar snelle voeten — zodat je scherp aan de sessie begint.
+
+🎁 Ik geef je 50 OEFENINGEN in PDF
+3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
+👉 Gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming #wendbaarheid
+```
+
+**🇳🇱 Nederlands · versión B**
+
+```
+⚽ Opwarming met wendbaarheid: activeren en scherp worden
+
+Van rustige beweging naar snelle voeten — zodat je scherp aan de sessie begint.
+
+🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
+👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+
+#fysieketraining #voetbal #training #opwarming #wendbaarheid
 ```
 
 ---

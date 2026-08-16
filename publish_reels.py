@@ -34,12 +34,33 @@ def load_reels():
 
 
 def pick_next_reel(reels, posted):
+    """Siguiente reel a publicar. Rotacion INFINITA sin repetir.
+
+    Ciclo 1: los reels nunca publicados, en el orden de config/reels.json.
+    Ciclos siguientes: el MENOS RECIENTE (posted esta ordenado por recencia,
+    el mas antiguo primero), evitando que salgan dos reels del MISMO TEMA en
+    dias seguidos -> el ciclo 2 no repite el orden del ciclo 1 y la variedad
+    dia a dia se mantiene.
+
+    BUG ANTERIOR: al acabarse los 30 devolvia siempre uniques[0], asi que a
+    partir del dia 31 habria publicado el MISMO reel todos los dias.
+    """
     uniques = [r for r in reels if not r.get("duplicate_of")]
-    for r in uniques:
-        if r["reel_id"] not in posted:
+    if not uniques:
+        return None
+
+    nunca = [r for r in uniques if r["reel_id"] not in posted]
+    if nunca:
+        return nunca[0]
+
+    # ciclo nuevo: del mas antiguo al mas reciente
+    orden = sorted(uniques, key=lambda r: posted.index(r["reel_id"]))
+    ultimo = posted[-1] if posted else None
+    tema_ultimo = next((r.get("theme_fr") for r in uniques if r["reel_id"] == ultimo), None)
+    for r in orden:
+        if r.get("theme_fr") != tema_ultimo:
             return r
-    # todos publicados -> reiniciar ciclo
-    return uniques[0] if uniques else None
+    return orden[0]
 
 
 def main():
@@ -117,6 +138,9 @@ def main():
         print(f"[REELS][FB][{l}] omitido (llega via crosspost automatico IG→FB)")
 
     if ok:
+        # quitar-y-anadir: 'posted' queda ordenado por RECENCIA (el mas antiguo
+        # primero), que es lo que usa pick_next_reel para rotar sin repetir.
+        posted = [x for x in posted if x != reel["reel_id"]]
         posted.append(reel["reel_id"])
         state[STATE_KEY] = posted[-200:]
         st.save_state(state)

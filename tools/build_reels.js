@@ -1,5 +1,5 @@
 // Genera config/reels.json (datos para el pipeline) + content/reels/REELS_LIST.md (lista legible)
-// a partir de los 31 reels franceses, en los 6 idiomas (NO fr).
+// a partir de los reels franceses (31 de la 1a tanda + 60 de la 2a), en los 6 idiomas (NO fr).
 //
 // Caption = gancho con beneficio + linea de valor (que trabaja el ejercicio) + CTA de CONVERSION + hashtags.
 // DOS VERSIONES por reel e idioma:
@@ -45,6 +45,69 @@ const REELS = [
   { n: 29, id: '24973896835545702', theme: 'vitesse-reaction' },
   { n: 30, id: '2118081678710096', theme: 'echauffement' },
   { n: 31, id: '418021344197607',  theme: 'echauffement-agilite-vivacite' },
+  // ── 2a tanda (16-08-2026): 60 reels mas de la Pagina FR, elegidos por rendimiento
+  // (mediana 269k visualizaciones) y ordenados para no repetir tema dos dias seguidos.
+  // Con estos el catalogo pasa de 30 a 90 unicos = ~3 meses sin repetir.
+  { n: 32 , id: '1809508570436830',  theme: 'echauffement' },  // 1510k views, 12s
+  { n: 33 , id: '1353478703603603',  theme: 'vitesse' },  // 907k views, 25s
+  { n: 34 , id: '1484427340369698',  theme: 'echauffement' },  // 1017k views, 9s
+  { n: 35 , id: '1021467830531503',  theme: 'vitesse' },  // 749k views, 13s
+  { n: 36 , id: '984621130662965',   theme: 'echauffement' },  // 871k views, 30s
+  { n: 37 , id: '2607388416342564',  theme: 'vitesse' },  // 603k views, 50s
+  { n: 38 , id: '899017089299155',   theme: 'echauffement' },  // 865k views, 18s
+  { n: 39 , id: '5413134345433050',  theme: 'vitesse' },  // 344k views, 59s
+  { n: 40 , id: '33959384770343248', theme: 'echauffement' },  // 669k views, 36s
+  { n: 41 , id: '1289351860038055',  theme: 'vitesse' },  // 317k views, 11s
+  { n: 42 , id: '938482639262501',   theme: 'echauffement' },  // 653k views, 18s
+  { n: 43 , id: '1471266464491916',  theme: 'vitesse-agilite' },  // 560k views, 47s
+  { n: 44 , id: '1630568894806546',  theme: 'echauffement' },  // 481k views, 16s
+  { n: 45 , id: '750399584375046',   theme: 'vitesse' },  // 260k views, 25s
+  { n: 46 , id: '915072501269054',   theme: 'echauffement' },  // 461k views, 16s
+  { n: 47 , id: '850324024339225',   theme: 'vitesse-agilite' },  // 282k views, 8s
+  { n: 48 , id: '1399555338964252',  theme: 'echauffement' },  // 461k views, 31s
+  { n: 49 , id: '670586862770252',   theme: 'vitesse' },  // 216k views, 15s
+  { n: 50 , id: '668899308964016',   theme: 'vitesse-agilite' },  // 187k views, 28s
+  { n: 51 , id: '5357425954335945',  theme: 'vitesse-reaction' },  // 932k views, 10s
+  { n: 52 , id: '1674904733825190',  theme: 'echauffement' },  // 417k views, 9s
+  { n: 53 , id: '1287965789914821',  theme: 'vitesse' },  // 211k views, 25s
+  { n: 54 , id: '2377915659346785',  theme: 'vitesse-agilite' },  // 154k views, 10s
+  { n: 55 , id: '1167350848596596',  theme: 'vitesse-reaction' },  // 883k views, 48s
+  { n: 56 , id: '1362625388416742',  theme: 'echauffement' },  // 279k views, 14s
+  { n: 57 , id: '416279121032218',   theme: 'vitesse' },  // 190k views, 11s
+  { n: 58 , id: '576579994824247',   theme: 'vitesse-agilite' },  // 139k views, 21s
+  { n: 59 , id: '1314763053812938',  theme: 'vitesse-reaction' },  // 758k views, 10s
+  { n: 60 , id: '1023375227106047',  theme: 'echauffement' },  // 269k views, 10s
+  { n: 61 , id: '847949534925313',   theme: 'vitesse' },  // 189k views, 23s
+  { n: 62 , id: '1492723929324789',  theme: 'vitesse-agilite' },  // 139k views, 7s
+  { n: 63 , id: '275940755030093',   theme: 'vitesse-reaction' },  // 470k views, 10s
+  { n: 64 , id: '2211356519435134',  theme: 'vivacite-agilite' },  // 322k views, 16s
+  { n: 65 , id: '1449432836806891',  theme: 'echauffement' },  // 261k views, 15s
+  { n: 66 , id: '2766922943645014',  theme: 'vitesse' },  // 179k views, 31s
+  { n: 67 , id: '2283697291829671',  theme: 'vitesse-agilite' },  // 119k views, 13s
+  { n: 68 , id: '1188416662835388',  theme: 'vitesse-reaction' },  // 291k views, 10s
+  { n: 69 , id: '1659794258661704',  theme: 'vivacite-agilite' },  // 236k views, 19s
+  { n: 70 , id: '1207207548155637',  theme: 'echauffement' },  // 258k views, 28s
+  { n: 71 , id: '633315828957059',   theme: 'vitesse' },  // 171k views, 9s
+  { n: 72 , id: '2147092512541442',  theme: 'vitesse-agilite' },  // 110k views, 8s
+  { n: 73 , id: '1647082599867707',  theme: 'vitesse-reaction' },  // 280k views, 42s
+  { n: 74 , id: '1347656440562202',  theme: 'vivacite-agilite' },  // 206k views, 27s
+  { n: 75 , id: '1288838439980647',  theme: 'agilite' },  // 291k views, 7s
+  { n: 76 , id: '2829582420753705',  theme: 'echauffement' },  // 241k views, 31s
+  { n: 77 , id: '634390235310014',   theme: 'vitesse' },  // 148k views, 15s
+  { n: 78 , id: '24190616290601880', theme: 'vitesse-agilite' },  // 101k views, 13s
+  { n: 79 , id: '447246197445156',   theme: 'vitesse-reaction' },  // 267k views, 21s
+  { n: 80 , id: '282995374633801',   theme: 'vivacite-agilite' },  // 149k views, 14s
+  { n: 81 , id: '768869555381443',   theme: 'agilite' },  // 253k views, 8s
+  { n: 82 , id: '922013149458832',   theme: 'agilite-vitesse-reaction' },  // 281k views, 8s
+  { n: 83 , id: '1637210590946873',  theme: 'jeu-reduit-duels' },  // 462k views, 31s
+  { n: 84 , id: '1461568619361466',  theme: 'echauffement' },  // 227k views, 64s
+  { n: 85 , id: '725313246098957',   theme: 'vitesse' },  // 130k views, 8s
+  { n: 86 , id: '1287930393284616',  theme: 'vitesse-agilite' },  // 95k views, 15s
+  { n: 87 , id: '1557270052743619',  theme: 'vitesse-reaction' },  // 221k views, 27s
+  { n: 88 , id: '1755611404858335',  theme: 'vivacite-agilite' },  // 105k views, 14s
+  { n: 89 , id: '1137262891534155',  theme: 'agilite' },  // 222k views, 9s
+  { n: 90 , id: '482231028024395',   theme: 'agilite-vitesse-reaction' },  // 129k views, 8s
+  { n: 91 , id: '1253641132950952',  theme: 'jeu-reduit-duels' },  // 416k views, 31s
 ];
 
 // ── COPY por tema: h = gancho (lo primero que se ve), v = linea de valor ──
@@ -176,6 +239,20 @@ const COPY = {
     nl: { h: 'Wendbaarheid & reactie: prikkel lezen en meteen gaan',
           v: 'Snelle voeten en directe respons — wendbaarheid in de spelsituatie.' },
   },
+  'vivacite-agilite': {
+    es: { h: 'Vivacidad y agilidad: llegar antes al balón dividido',
+          v: 'Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.' },
+    en: { h: 'Quickness & agility: get to the loose ball first',
+          v: 'Short steps, change of direction and an immediate start — the spark that decides who gets there first.' },
+    de: { h: 'Spritzigkeit & Agilität: eher am zweiten Ball sein',
+          v: 'Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.' },
+    it: { h: 'Vivacità e agilità: arrivare prima sulla palla vagante',
+          v: 'Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.' },
+    pt: { h: 'Vivacidade e agilidade: chegar antes na bola dividida',
+          v: 'Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.' },
+    nl: { h: 'Kwiekheid & wendbaarheid: eerder bij de tweede bal',
+          v: 'Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.' },
+  },
   'echauffement-agilite-vivacite': {
     es: { h: 'Calentamiento con agilidad: activar y despertar la viveza',
           v: 'Del movimiento suave a los apoyos rápidos, para entrar a la sesión enchufado.' },
@@ -231,6 +308,7 @@ const HASH_THEME = {
   'coordination':                 { es: '#coordinación', en: '#coordination', de: '#koordination', it: '#coordinazione', pt: '#coordenação', nl: '#coördinatie' },
   'vitesse-agilite':              { es: '#velocidad #agilidad', en: '#speed #agility', de: '#schnelligkeit #agilität', it: '#velocità #agilità', pt: '#velocidade #agilidade', nl: '#snelheid #wendbaarheid' },
   'agilite-vitesse-reaction':     { es: '#agilidad #reacción', en: '#agility #reaction', de: '#agilität #reaktion', it: '#agilità #reazione', pt: '#agilidade #reação', nl: '#wendbaarheid #reactie' },
+  'vivacite-agilite':             { es: '#vivacidad #agilidad', en: '#quickness #agility', de: '#antritt #agilität', it: '#vivacità #agilità', pt: '#vivacidade #agilidade', nl: '#wendbaarheid #snelheid' },
   'echauffement-agilite-vivacite':{ es: '#calentamiento #agilidad', en: '#warmup #agility', de: '#aufwärmen #agilität', it: '#riscaldamento #agilità', pt: '#aquecimento #agilidade', nl: '#opwarming #wendbaarheid' },
 };
 

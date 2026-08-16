@@ -91,8 +91,22 @@ python publish_facebook.py --type article --dry-run
 python publish_facebook.py --type exercise --dry-run
 python publish_instagram.py --dry-run
 ```
-`--dry-run` muestra qué publicaría (y avanza la rotación) sin llamar a las APIs.
-Añade `--only es` para probar un solo idioma.
+`--dry-run` muestra qué publicaría, **sin** llamar a las APIs y **sin** tocar la
+rotación (antes sí la avanzaba: una simulación hacía que el siguiente disparo real
+se saltara esos ejercicios). Añade `--only es` para probar un solo idioma.
+
+### Herramientas de revisión
+
+```powershell
+node tools/check_tokens.js            # validez, permisos y caducidad de los 11 tokens
+node tools/audit_engagement.js --dias 30   # likes/comentarios/alcance por idioma
+python tools/preview_rotation.py 5     # qué publicará cada idioma los próximos 5 días
+python tools/verify_publish.py         # invariantes de la rotación (test de regresión)
+```
+
+`check_tokens.js` avisa si a un token le falta un permiso necesario — es lo que
+faltó detectar durante 13 días cuando `pages_manage_engagement` no estaba y el
+comentario con los enlaces fallaba en silencio.
 
 Para una publicación **real de prueba** en un solo idioma:
 ```powershell

@@ -36,6 +36,7 @@ def main():
     state = st.load_state()
 
     ok, fail = 0, 0
+    used_images = set()  # ninguna cuenta repite la imagen de otra en esta ejecucion
     for lang, cfg in accounts["languages"].items():
         if args.only and lang != args.only:
             continue
@@ -56,8 +57,11 @@ def main():
             if not items:
                 print(f"[IG][{lang}] sin ejercicios")
                 continue
+            # cada cuenta recorre el catalogo en su propio orden (ver src/state.py)
+            items = st.order_for_language(items, lang)
             key = f"ig:{lang}:{KIND}"
-            item = st.pick_next(items, key, state)
+            item = st.pick_next(items, key, state, exclude=used_images)
+            used_images.add(item["image_url"])
             # Preferimos el caption ya redactado (columna caption_ig); si no, plantilla.
             caption = (item.get("caption_ig") or "").strip()
             if not caption:
@@ -94,7 +98,9 @@ def main():
                             "status": "error", "error": str(e)[:300]})
             fail += 1
 
-    st.save_state(state)
+    # OJO: en dry-run NO se persiste (una simulacion adelantaba la rotacion real).
+    if not args.dry_run:
+        st.save_state(state)
     if ok and not args.dry_run:
         st.mark_published(slot)
     print(f"[IG] terminado ok={ok} fail={fail}")

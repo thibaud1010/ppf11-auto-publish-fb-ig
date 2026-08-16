@@ -13,6 +13,7 @@ Estructura de state/posted_log.json:
 """
 import datetime
 import json
+import math
 
 from .config import STATE_DIR
 
@@ -82,20 +83,62 @@ def save_state(state):
     )
 
 
-def pick_next(items, key, state):
-    """Elige el item menos-recientemente publicado (o el primero no publicado)."""
+# ---- desincronizacion por idioma (auditoria 16-08-2026) -----------------
+# Las 6 Paginas ppf11 publicaban LA MISMA imagen el MISMO dia: comparten
+# image_url y todas recorrian el catalogo en el mismo orden desde el mismo
+# sitio (verificado: 1 sola image_url distinta en 6 Paginas, todos los dias).
+# Para Facebook eso es contenido duplicado en 6 sitios a la vez -> principal
+# sospechoso del alcance 0 (el fix del 03-08 desfaso la HORA, no la IMAGEN).
+# Cada idioma recorre el MISMO catalogo con su propio punto de partida Y su
+# propio paso. Solo desplazar el inicio NO bastaba: como todos habian publicado
+# el mismo tramo inicial, el "primer item nunca publicado" volvia a coincidir
+# (probado: es y en seguian eligiendo la misma imagen). Con un paso distinto
+# por idioma las secuencias divergen de verdad y siguen cubriendo el catalogo
+# entero exactamente una vez (paso coprimo con el numero de items).
+LANG_ORDER = ["es", "en", "fr", "de", "it", "pt", "nl"]
+_STRIDES = [7, 11, 13, 17, 19, 23, 29]
+
+
+def order_for_language(items, lang):
+    """Devuelve `items` en el orden propio del idioma (misma lista, otro recorrido)."""
+    n = len(items)
+    if n < 2:
+        return items
+    try:
+        pos = LANG_ORDER.index((lang or "").lower())
+    except ValueError:
+        pos = 0
+    offset = (pos * n) // len(LANG_ORDER)
+    rotated = _STRIDES[pos:] + _STRIDES[:pos]
+    stride = next((s for s in rotated if math.gcd(s, n) == 1), 1)
+    return [items[(offset + i * stride) % n] for i in range(n)]
+
+
+def pick_next(items, key, state, exclude=None):
+    """Elige el item menos-recientemente publicado (o el primero no publicado).
+
+    `exclude` = identidades ya usadas por OTRO idioma en esta misma ejecucion.
+    Garantiza que dos Paginas nunca publiquen la MISMA imagen el mismo dia,
+    aunque sus historiales coincidan (el orden por idioma solo lo hace muy
+    improbable; esto lo hace imposible).
+    """
     if not items:
         return None
+    exclude = exclude or set()
     posted = state.get(key, [])
     # 1) primer item que aun no se ha publicado nunca
     for it in items:
-        if it[IDENTITY] not in posted:
+        if it[IDENTITY] not in posted and it[IDENTITY] not in exclude:
             return it
     # 2) todos publicados -> el mas antiguo (frente de la lista) que siga existiendo
     for ident in posted:
         for it in items:
-            if it[IDENTITY] == ident:
+            if it[IDENTITY] == ident and it[IDENTITY] not in exclude:
                 return it
+    # 3) todo excluido (catalogo mas corto que el numero de idiomas): sin filtro
+    for it in items:
+        if it[IDENTITY] not in posted:
+            return it
     return items[0]
 
 

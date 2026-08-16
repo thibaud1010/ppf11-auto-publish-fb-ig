@@ -13,7 +13,9 @@ import re
 import sys
 import time
 
-from src.config import get_token, load_accounts, load_templates
+import requests
+
+from src.config import FB_HOST, get_token, load_accounts, load_templates
 from src.content import load_items, render_caption
 from src.facebook import publish_comment, publish_photo
 from src import state as st
@@ -55,6 +57,40 @@ def split_links(caption, lang):
     return body + "\n\n" + pointer, "\n".join(linked)
 
 
+_CAN_COMMENT = {}
+
+
+def can_comment(token):
+    """True si el token puede comentar como Pagina (permiso pages_manage_engagement).
+
+    AUDITORIA 16-08-2026: NINGUNO de los 7 tokens tenia ese permiso, asi que
+    publish_comment fallaba SIEMPRE y los 267 posts publicados desde el 03-08
+    anunciaban "Enlaces en el primer comentario" sin que existiera comentario
+    alguno (y sin enlace en el caption, porque split_links lo habia sacado).
+    El fallo paso desapercibido 13 dias porque se capturaba como simple aviso.
+
+    Ante la duda (fallo de red, respuesta inesperada) devolvemos False: es mucho
+    mejor dejar el enlace DENTRO del caption que prometer un comentario que no
+    va a existir.
+    """
+    if token in _CAN_COMMENT:
+        return _CAN_COMMENT[token]
+    ok = False
+    try:
+        resp = requests.get(
+            f"{FB_HOST}/debug_token",
+            params={"input_token": token, "access_token": token},
+            timeout=20,
+        )
+        if resp.status_code == 200:
+            scopes = (resp.json().get("data") or {}).get("scopes") or []
+            ok = "pages_manage_engagement" in scopes
+    except Exception:  # noqa: BLE001 (sin permiso confirmado -> tratamos como que no)
+        ok = False
+    _CAN_COMMENT[token] = ok
+    return ok
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--type", choices=list(KIND_BY_TYPE), required=True)
@@ -75,6 +111,7 @@ def main():
 
     ok, fail = 0, 0
     published_any = False
+    used_images = set()  # ninguna Pagina repite la imagen de otra en esta ejecucion
     for lang, cfg in accounts["languages"].items():
         if args.only and lang != args.only:
             continue
@@ -93,8 +130,11 @@ def main():
         if not items:
             print(f"[FB][{lang}] sin contenido de tipo '{kind}'")
             continue
+        # cada Pagina recorre el catalogo en su propio orden (ver src/state.py)
+        items = st.order_for_language(items, lang)
         key = f"fb:{lang}:{kind}"
-        item = st.pick_next(items, key, state)
+        item = st.pick_next(items, key, state, exclude=used_images)
+        used_images.add(item["image_url"])
         # Preferimos el caption ya redactado (columna caption_fb); si no, plantilla.
         caption = (item.get("caption_fb") or "").strip()
         if not caption:
@@ -116,19 +156,31 @@ def main():
                 "image_url": item["image_url"]}
         try:
             token = get_token(f"FB_TOKEN_{lang.upper()}")
-            # enlaces FUERA del caption (van al primer comentario) -> evita el filtro de spam
-            caption_fb, comment_text = split_links(caption, lang)
+            # Enlaces FUERA del caption (al primer comentario) SOLO si de verdad
+            # podemos comentar; si no, se quedan en el caption (ver can_comment).
+            if can_comment(token):
+                caption_fb, comment_text = split_links(caption, lang)
+            else:
+                caption_fb, comment_text = caption, None
+                print(f"[FB][{lang}] AVISO: al token le falta 'pages_manage_engagement'; "
+                      f"los enlaces se quedan DENTRO del caption")
             res = publish_photo(fb["page_id"], token, item["image_url"], caption_fb)
             print(f"[FB][{lang}] OK id={res.get('id')} <- {item['url']}")
+            comment_status = "en_caption" if comment_text is None else "pendiente"
             if comment_text:
                 target = res.get("post_id") or res.get("id")
                 try:
                     publish_comment(target, token, comment_text)
+                    comment_status = "ok"
                     print(f"[FB][{lang}] enlaces publicados en el primer comentario")
-                except Exception as ce:  # noqa: BLE001 (el post ya salio; no lo contamos como fallo)
-                    print(f"[FB][{lang}] AVISO: fallo el comentario con enlaces: {ce}")
+                except Exception as ce:  # noqa: BLE001 (el post ya salio, pero esto NO puede pasar en silencio)
+                    comment_status = "fallo"
+                    print(f"[FB][{lang}] ERROR: el post salio pero el comentario con los "
+                          f"enlaces fallo (el caption los promete): {ce}")
+                    fail += 1
             st.mark_posted(state, key, item["image_url"])
-            st.log_history({**hist, "status": "ok", "post_id": res.get("id", "")})
+            st.log_history({**hist, "status": "ok", "post_id": res.get("id", ""),
+                            "comment": comment_status})
             ok += 1
         except Exception as e:  # noqa: BLE001
             print(f"[FB][{lang}] ERROR: {e}")
@@ -136,7 +188,11 @@ def main():
             fail += 1
         published_any = True
 
-    st.save_state(state)
+    # OJO: en dry-run NO se persiste. Antes se guardaba siempre, asi que una
+    # simulacion adelantaba la rotacion real y el siguiente disparo se saltaba
+    # los ejercicios "publicados" en la simulacion.
+    if not args.dry_run:
+        st.save_state(state)
     if ok and not args.dry_run:
         st.mark_published(slot)
     print(f"[FB] terminado type={args.type} ok={ok} fail={fail}")

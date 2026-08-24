@@ -69,6 +69,13 @@
   .pill.slot{color:var(--accent-ink);border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
   .card img{width:100%;aspect-ratio:16/9;object-fit:cover;background:#0c0f13;display:block}
   .card .cap{padding:11px 12px 14px;font-size:12.5px;white-space:pre-wrap;line-height:1.5;color:var(--ink);flex:1;word-break:break-word}
+  /* Barra de publicacion a mano (copiar caption + abrir imagen) */
+  .manual{display:flex;gap:8px;padding:0 12px 12px;flex-wrap:wrap}
+  .mbtn{flex:1;min-width:120px;text-align:center;padding:8px 10px;border-radius:9px;cursor:pointer;
+        font-size:12.5px;font-weight:700;text-decoration:none;
+        border:1px solid color-mix(in srgb,var(--accent) 45%,transparent);
+        background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-ink)}
+  .mbtn:hover{background:color-mix(in srgb,var(--accent) 22%,transparent)}
   .when{font-weight:800;font-size:16px}
   .day-h{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;font-size:16px;color:var(--ink);font-weight:800;margin:10px 0 0;padding-top:12px;border-top:1px dashed var(--line)}
   .appr{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:700;color:var(--accent-ink);cursor:pointer;user-select:none}
@@ -436,13 +443,31 @@ function renderPreview(){
         <span class="pill slot">${esc(c.kind)}</span>
         <span style="flex:1"></span><span class="flag">${LANGS[c.it.language].split(" ")[0]}</span></div>
       <img loading="lazy" src="${esc(c.it.image_url)}" alt=""/>
-      <div class="cap">${esc(cap)}</div></div>`;
+      <div class="cap">${esc(cap)}</div>
+      <div class="manual">
+        <button class="mbtn" data-copy="${encodeURIComponent(cap)}">📋 Copiar texto</button>
+        <a class="mbtn" href="${esc(c.it.image_url)}" target="_blank" rel="noopener">🖼️ Abrir imagen</a>
+      </div></div>`;
   }
   out.innerHTML=html;
   out.querySelectorAll('input[data-day]').forEach(cb=>cb.onchange=()=>{
     setApproval(cb.dataset.day, cb.checked);
     const hdr=out.querySelector(`[data-dayhdr="${cb.dataset.day}"]`);
     if(hdr) hdr.classList.toggle('done', cb.checked);
+  });
+  // Publicacion A MANO: en FB los posts por API tienen alcance 0-2 y los escritos
+  // en el compositor 5-13K (auditoria 24-08-2026), asi que el caption se copia
+  // desde aqui y se pega en Facebook.
+  out.querySelectorAll('button[data-copy]').forEach(b=>b.onclick=async()=>{
+    const txt=decodeURIComponent(b.dataset.copy);
+    try{ await navigator.clipboard.writeText(txt); }
+    catch(e){ // sin permiso de portapapeles (http, Safari viejo): copia por textarea
+      const ta=document.createElement("textarea"); ta.value=txt;
+      document.body.appendChild(ta); ta.select();
+      try{ document.execCommand("copy"); }finally{ ta.remove(); }
+    }
+    const prev=b.textContent; b.textContent="✅ Copiado";
+    setTimeout(()=>{ b.textContent=prev; },1400);
   });
 }
 

@@ -1,7 +1,6 @@
 {
   "2026-08-10:ig:morning": true,
   "2026-08-10:ig:evening": true,
-  "2026-08-10:fb:exercise": true,
   "2026-08-11:ig:morning": true,
   "2026-08-11:fb:article": true,
   "2026-08-11:ig:evening": true,
@@ -38,5 +37,6 @@
   "2026-08-19:ig:morning": true,
   "2026-08-24:ig:evening": true,
   "2026-08-25:ig:evening": true,
-  "2026-08-26:ig:evening": true
+  "2026-08-26:ig:evening": true,
+  "2026-08-27:ig:evening": true
 }

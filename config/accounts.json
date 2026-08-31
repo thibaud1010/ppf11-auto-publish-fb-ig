@@ -2,6 +2,8 @@
   "_comment": "IDs NO secretos. Los tokens van en config/secrets.json, en TOKENS_JSON o como variables de entorno FB_TOKEN_<LANG> / IG_TOKEN_<LANG>. Renombra los codigos de idioma a los tuyos.",
   "languages": {
     "es": {
+      "enabled": false,
+      "_comment_enabled": "PAUSADO (2026-08-31): cuenta IG preparacion.fisica.futbol sancionada por Meta ('no compartir enlaces', 25/08->24/09/2026). NO publicar nada en espanol (ejercicios, articulos, reels; FB e IG) hasta que expire la sancion. Reactivar poniendo enabled=true (o borrando esta linea) el 24/09 o despues.",
       "facebook": { "page_id": "132757827561079" },
       "instagram": { "mode": "page", "ig_user_id": "17841413449517207" }
     },

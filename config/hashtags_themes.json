@@ -1,0 +1,183 @@
+{
+  "_comment": "Trios de hashtags TECNICOS por categoria de ejercicio (3 tags). Se AÑADEN a los hashtags base por idioma de hashtags.json. La categoria se deriva del image_url: .../exercises/<marca>/<categoria>/... (marca = ppf11 para es/en/de/it/nl/pt, fr para frances). Editado y validado con el usuario 2026-08-31.",
+  "vitesse": {
+    "es": "#velocidadmáxima #explosividad #reactividad",
+    "en": "#maxspeed #explosiveness #reactivity",
+    "fr": "#vitessemax #explosivité #réactivité",
+    "de": "#maximalgeschwindigkeit #explosivität #reaktivität",
+    "it": "#velocitàmassima #esplosività #reattività",
+    "pt": "#velocidademáxima #explosão #reação",
+    "nl": "#topsnelheid #explosiviteit #reactievermogen"
+  },
+  "force": {
+    "es": "#fuerzaexplosiva #core #pliometría",
+    "en": "#explosivestrength #core #plyometrics",
+    "fr": "#forceexplosive #gainage #pliométrie",
+    "de": "#explosivkraft #core #plyometrie",
+    "it": "#forzaesplosiva #core #pliometria",
+    "pt": "#forçaexplosiva #core #pliometria",
+    "nl": "#explosievekracht #core #plyometrie"
+  },
+  "endurance-capacite": {
+    "es": "#capacidadaeróbica #resistencia #circuitos",
+    "en": "#aerobiccapacity #endurance #circuits",
+    "fr": "#capacitéaérobie #endurance #circuits",
+    "de": "#aerobeausdauer #ausdauer #zirkeltraining",
+    "it": "#capacitàaerobica #resistenza #circuiti",
+    "pt": "#capacidadeaeróbica #resistência #circuitos",
+    "nl": "#aeroobcapaciteit #uithouding #circuits"
+  },
+  "endurance-puissance": {
+    "es": "#potenciaaeróbica #VAM #intermitente",
+    "en": "#aerobicpower #intervals #conditioning",
+    "fr": "#puissanceaérobie #VMA #intermittent",
+    "de": "#aerobeleistung #intervalltraining #kondition",
+    "it": "#potenzaaerobica #VAM #intermittente",
+    "pt": "#potênciaaeróbica #VAM #intervalado",
+    "nl": "#aeroobvermogen #intervaltraining #conditie"
+  },
+  "intermittents": {
+    "es": "#intermitente #VAM #HIIT",
+    "en": "#intervaltraining #HIIT #conditioning",
+    "fr": "#intermittent #VMA #HIIT",
+    "de": "#intervalltraining #HIIT #kondition",
+    "it": "#intermittente #VAM #HIIT",
+    "pt": "#intervalado #VAM #HIIT",
+    "nl": "#intervaltraining #HIIT #conditie"
+  },
+  "coordination": {
+    "es": "#coordinación #agilidad #motricidad",
+    "en": "#coordination #agility #footwork",
+    "fr": "#coordination #agilité #motricité",
+    "de": "#koordination #agilität #beinarbeit",
+    "it": "#coordinazione #agilità #motricità",
+    "pt": "#coordenação #agilidade #motricidade",
+    "nl": "#coördinatie #wendbaarheid #voetenwerk"
+  },
+  "echauffement": {
+    "es": "#calentamiento #activación #propiocepción",
+    "en": "#warmup #activation #mobility",
+    "fr": "#échauffement #activation #proprioception",
+    "de": "#aufwärmen #aktivierung #mobilität",
+    "it": "#riscaldamento #attivazione #propriocezione",
+    "pt": "#aquecimento #ativação #propriocepção",
+    "nl": "#warmingup #activatie #mobiliteit"
+  },
+  "transition": {
+    "es": "#transiciones #contrapressing #contraataque",
+    "en": "#transitions #counterpressing #counterattack",
+    "fr": "#transitions #contrepressing #contreattaque",
+    "de": "#umschalten #gegenpressing #konter",
+    "it": "#transizioni #controropressing #contropiede",
+    "pt": "#transições #contrapressing #contra-ataque",
+    "nl": "#omschakelen #counterpressing #counter"
+  },
+  "nouveaux": {
+    "es": "#transiciones #reactividad #reflejos",
+    "en": "#transitions #reactivity #reflexes",
+    "fr": "#transitions #réactivité #réflexes",
+    "de": "#umschalten #reaktivität #reflexe",
+    "it": "#transizioni #reattività #riflessi",
+    "pt": "#transições #reação #reflexos",
+    "nl": "#omschakelen #reactievermogen #reflexen"
+  },
+  "attaquants": {
+    "es": "#delanteros #finalización #desmarque",
+    "en": "#strikers #finishing #movement",
+    "fr": "#attaquants #finition #démarquage",
+    "de": "#stürmer #torabschluss #freilaufen",
+    "it": "#attaccanti #finalizzazione #smarcamento",
+    "pt": "#atacantes #finalização #desmarque",
+    "nl": "#spitsen #afronden #vrijlopen"
+  },
+  "defenseurs": {
+    "es": "#defensas #marcaje #duelodefensivo",
+    "en": "#defenders #marking #defending",
+    "fr": "#défenseurs #marquage #dueldéfensif",
+    "de": "#verteidiger #manndeckung #zweikampf",
+    "it": "#difensori #marcatura #duellodifensivo",
+    "pt": "#defensores #marcação #duelodefensivo",
+    "nl": "#verdedigers #dekking #verdedigen"
+  },
+  "milieux": {
+    "es": "#centrocampistas #circulación #controlorientado",
+    "en": "#midfielders #ballcirculation #firsttouch",
+    "fr": "#milieux #circulation #contrôleorienté",
+    "de": "#mittelfeld #ballzirkulation #ballannahme",
+    "it": "#centrocampisti #circolazione #controlloorientato",
+    "pt": "#meias #circulação #controleorientado",
+    "nl": "#middenvelders #balcirculatie #balaanname"
+  },
+  "devant-le-but": {
+    "es": "#finalización #remate #reacción",
+    "en": "#finishing #shooting #reaction",
+    "fr": "#finition #frappe #réaction",
+    "de": "#torabschluss #abschluss #reaktion",
+    "it": "#finalizzazione #tiro #reazione",
+    "pt": "#finalização #chute #reação",
+    "nl": "#afronden #schieten #reactie"
+  },
+  "gardien": {
+    "es": "#portero #reflejos #reactividad",
+    "en": "#goalkeeper #reflexes #reactivity",
+    "fr": "#gardien #réflexes #réactivité",
+    "de": "#torwart #reflexe #reaktivität",
+    "it": "#portiere #riflessi #reattività",
+    "pt": "#goleiro #reflexos #reação",
+    "nl": "#keeper #reflexen #reactievermogen"
+  },
+  "techniques": {
+    "es": "#técnica #conducción #controlorientado",
+    "en": "#technique #dribbling #firsttouch",
+    "fr": "#technique #conduite #contrôleorienté",
+    "de": "#technik #ballführung #ballannahme",
+    "it": "#tecnica #conduzione #controlloorientato",
+    "pt": "#técnica #condução #controleorientado",
+    "nl": "#techniek #dribbelen #balaanname"
+  },
+  "tactiques": {
+    "es": "#táctica #juegodeposición #conservación",
+    "en": "#tactics #positionalplay #possession",
+    "fr": "#tactique #jeudeposition #conservation",
+    "de": "#taktik #positionsspiel #ballbesitz",
+    "it": "#tattica #giocodiposizione #possesso",
+    "pt": "#tática #jogodeposição #possedebola",
+    "nl": "#tactiek #positiespel #balbezit"
+  },
+  "jeux-reduits": {
+    "es": "#juegosreducidos #pressing #conservación",
+    "en": "#smallsidedgames #pressing #possession",
+    "fr": "#jeuxréduits #pressing #conservation",
+    "de": "#kleinfeldspiele #pressing #ballbesitz",
+    "it": "#partitelle #pressing #possesso",
+    "pt": "#jogosreduzidos #pressing #posse",
+    "nl": "#partijspelen #pressing #balbezit"
+  },
+  "periodisation-tactique": {
+    "es": "#periodización #juegodeposición #progresión",
+    "en": "#periodization #positionalplay #progression",
+    "fr": "#périodisation #jeudeposition #progression",
+    "de": "#periodisierung #positionsspiel #progression",
+    "it": "#periodizzazione #giocodiposizione #progressione",
+    "pt": "#periodização #jogodeposição #progressão",
+    "nl": "#periodisering #positiespel #progressie"
+  },
+  "pre-saison": {
+    "es": "#pretemporada #fartlek #aeróbico",
+    "en": "#preseason #fartlek #aerobic",
+    "fr": "#préparation #fartlek #aérobie",
+    "de": "#vorbereitung #fartlek #aerob",
+    "it": "#precampionato #fartlek #aerobico",
+    "pt": "#pré-temporada #fartlek #aeróbico",
+    "nl": "#voorbereiding #fartlek #aeroob"
+  },
+  "futsal": {
+    "es": "#futsal #fútbolsala #cambiosdedirección",
+    "en": "#futsal #changeofdirection #dribbling",
+    "fr": "#futsal #changementdedirection #conduite",
+    "de": "#futsal #richtungswechsel #ballführung",
+    "it": "#futsal #cambidirezione #conduzione",
+    "pt": "#futsal #futeboldesalão #mudançadedireção",
+    "nl": "#zaalvoetbal #richtingverandering #dribbelen"
+  }
+}

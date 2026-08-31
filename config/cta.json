@@ -1,14 +1,63 @@
 {
-  "_comment": "Líneas de CTA que se AÑADEN al cuerpo generado (con enlaces de links.json). Placeholders: {free_ex}=página ejercicios gratis del idioma, {article_url}=url del artículo, {exercise_url}=url del ejercicio (fr tiene página propia). IG no admite enlaces clicables → 'enlace en la bio'. FB sí → URL completa.",
+  "_comment": "Líneas de CTA que se AÑADEN al cuerpo generado (con enlaces de links.json). Placeholders: {free_ex}=página ejercicios gratis del idioma, {article_url}=url del artículo, {exercise_url}=url del ejercicio (fr tiene página propia). IG no admite enlaces clicables → 'enlace en la bio'. FB sí → URL completa. exercise.ig = ARRAY de 6 variantes que ROTAN por post (índice derivado del image_url) para romper el patrón fijo de 'regalo+enlace' que Meta marcaba como estafa (restricción IG 25/08/2026). 3 sin empuje a enlace + 3 con enlace suave; sin 'gratis/regalamos'. Validado con el usuario 2026-08-31.",
   "exercise": {
     "ig": {
-      "es": "👉 ¿Buscas más ideas de ejercicios? Te regalamos 100 gratis — enlace en la bio.",
-      "en": "👉 Want more drill ideas? Here are 100 free — link in bio.",
-      "fr": "👉 Tu veux plus d'idées d'exercices ? On t'en offre 100 gratuits — lien en bio.",
-      "de": "👉 Du willst mehr Übungsideen? Wir schenken dir 100 gratis — Link in der Bio.",
-      "it": "👉 Vuoi altre idee di esercizi? Te ne regaliamo 100 gratis — link in bio.",
-      "pt": "👉 Quer mais ideias de exercícios? Oferecemos 100 grátis — link na bio.",
-      "nl": "👉 Wil je meer oefeningen? Wij geven je er 100 gratis — link in bio."
+      "es": [
+        "🔖 Guárdalo para tu próxima sesión de entrenamiento.",
+        "¿Te ha servido este ejercicio? Compártelo.",
+        "Sígueme para un ejercicio nuevo cada día. ⚽",
+        "Más ejercicios como estos en el enlace del perfil.",
+        "Tienes la biblioteca completa con 100 ejercicios en la bio.",
+        "¿Quieres más ideas de ejercicios? Los encuentras en la bio."
+      ],
+      "en": [
+        "🔖 Save it for your next training session.",
+        "Did this drill help? Share it.",
+        "Follow for a new drill every day. ⚽",
+        "More drills like these — link in profile.",
+        "Full library with 100 drills in the bio.",
+        "Want more drill ideas? You'll find them in the bio."
+      ],
+      "fr": [
+        "🔖 Enregistre-le pour ta prochaine séance.",
+        "Cet exercice t'a été utile ? Partage-le.",
+        "Abonne-toi pour un nouvel exercice chaque jour. ⚽",
+        "Plus d'exercices comme ceux-ci dans le lien du profil.",
+        "La bibliothèque complète avec 100 exercices en bio.",
+        "Tu veux plus d'idées d'exercices ? Retrouve-les en bio."
+      ],
+      "de": [
+        "🔖 Speichere es für deine nächste Trainingseinheit.",
+        "Hat dir diese Übung geholfen? Teile sie.",
+        "Folge mir für jeden Tag eine neue Übung. ⚽",
+        "Mehr Übungen wie diese im Profil-Link.",
+        "Komplette Bibliothek mit 100 Übungen in der Bio.",
+        "Willst du mehr Übungsideen? Du findest sie in der Bio."
+      ],
+      "it": [
+        "🔖 Salvalo per la tua prossima seduta.",
+        "Ti è stato utile questo esercizio? Condividilo.",
+        "Seguimi per un nuovo esercizio ogni giorno. ⚽",
+        "Altri esercizi come questi nel link del profilo.",
+        "Libreria completa con 100 esercizi nella bio.",
+        "Vuoi altre idee di esercizi? Le trovi nella bio."
+      ],
+      "pt": [
+        "🔖 Salve para o seu próximo treino.",
+        "Esse exercício te ajudou? Compartilhe.",
+        "Me siga para um novo exercício todo dia. ⚽",
+        "Mais exercícios como esses no link do perfil.",
+        "Biblioteca completa com 100 exercícios na bio.",
+        "Quer mais ideias de exercícios? Você encontra na bio."
+      ],
+      "nl": [
+        "🔖 Bewaar het voor je volgende training.",
+        "Had je iets aan deze oefening? Deel hem.",
+        "Volg me voor elke dag een nieuwe oefening. ⚽",
+        "Meer oefeningen zoals deze via de link in het profiel.",
+        "Volledige bibliotheek met 100 oefeningen in de bio.",
+        "Wil je meer oefeningen? Je vindt ze in de bio."
+      ]
     },
     "fb": {
       "es": "👉 ¿Buscas más ideas de ejercicios? 100 ejercicios gratis aquí: {free_ex}",

@@ -9,7 +9,18 @@ const rd = p => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8').replace(/
 
 const LINKS = rd('config/links.json').free_exercises;
 const CTA = rd('config/cta.json');
-const HASH = rd('config/hashtags.json');
+const HASH = rd('config/hashtags.json');            // { idioma: hashtags base }
+const THEMES = rd('config/hashtags_themes.json');   // { categoria: { idioma: trio } }
+
+// categoria del ejercicio a partir del image_url: .../exercises/<marca>/<categoria>/...
+// (marca = ppf11 para es/en/de/it/nl/pt, fr para frances). Devuelve '' si no casa.
+const catOf = img => { const m = String(img||'').match(/exercises\/[^/]+\/([a-z-]+)\//); return m ? m[1] : ''; };
+const themeTrio = (cat, lang) => (THEMES[cat] && THEMES[cat][lang]) || '';
+// indice determinista 0..n-1 derivado del image_url (mismo calculo en propagate_captions.py):
+// suma de codigos de caracter mod n. Estable e idempotente; reparte las 6 variantes de CTA.
+const variantIdx = (img, n) => { if(!n) return 0; let s=0; const t=String(img); for(let i=0;i<t.length;i++) s+=t.charCodeAt(i); return s % n; };
+// hashtags de EJERCICIO = base del idioma + trio tecnico de la categoria.
+const exTags = (lang, cat) => `${(HASH[lang]||'').trim()} ${themeTrio(cat,lang).trim()}`.trim().replace(/\s+/g,' ');
 
 // Parser CSV correcto: un salto de línea DENTRO de comillas NO separa filas.
 function parseCSV(text){
@@ -51,11 +62,16 @@ function assemble(kind, csvName){
     const lang=f[idx.language], img=f[idx.image_url], topic=f[idx.hashtags], url=f[idx.url];
     const b = (cache[lang+kind] ||= bodies(kind,lang))[img];
     if(b){
-      const ht = tags(lang, topic), freeEx = LINKS[lang]||'';
+      const freeEx = LINKS[lang]||'';
       if(kind==='exercises'){
-        f[idx.caption_ig] = `${b}\n\n${(CTA.exercise.ig[lang]||'')}\n\n${ht}`;
+        const cat = catOf(img);
+        const ht = exTags(lang, cat);                         // base + trio de la categoria
+        const igArr = CTA.exercise.ig[lang];                  // array de 6 variantes
+        const igCta = Array.isArray(igArr) ? (igArr[variantIdx(img, igArr.length)]||'') : (igArr||'');
+        f[idx.caption_ig] = `${b}\n\n${igCta}\n\n${ht}`;
         f[idx.caption_fb] = `${b}\n\n${(CTA.exercise.fb[lang]||'').replace(/\{free_ex\}/g,freeEx).replace(/\{exercise_url\}/g,url)}\n\n${ht}`;
       } else {
+        const ht = tags(lang, topic);                         // articulos: base + tag de tema del CSV (sin cambios)
         f[idx.caption_fb] = `${b}\n\n${(CTA.article.fb[lang]||'').replace(/\{article_url\}/g,url).replace(/\{free_ex\}/g,freeEx)}\n\n${ht}`;
         f[idx.caption_ig] = '';
       }

@@ -146,12 +146,30 @@ def main():
             st.log_history({"platform": "ig", "lang": l, "type": "reel",
                             "reel_id": reel["reel_id"], "status": "error", "error": str(e)[:200]})
             fail += 1
-        # Facebook: YA NO se sube el video por API. Auditoria 03-08-2026: la subida
-        # directa via /videos quedaba enterrada por FB (2 vistas), mientras que los
-        # reels CROSSPOSTEADOS de IG->FB alcanzaban 3K-130K. El reel llega a la
-        # Pagina FB via el crosspost automatico configurado en cada cuenta de IG
-        # ("Compartir en Facebook"), no desde aqui.
-        print(f"[REELS][FB][{l}] omitido (llega via crosspost automatico IG→FB)")
+        # Facebook: el crosspost nativo IG->FB (3K-130K de alcance) es la via buena,
+        # PERO en/de/it/pt NO pueden enlazar su IG a su Pagina (bloqueado por la
+        # sancion de ads del negocio; verificado 2026-09-28). Para esas cuentas
+        # subimos el reel a la Pagina como REEL FB PURO (/video_reels), no como video
+        # de feed (que quedaba enterrado, ~0 alcance). Se activa por cuenta con el
+        # flag "reels_fb_api" en config/accounts.json (es/fr/nl NO lo llevan: usan
+        # crosspost nativo o estan pausadas).
+        if cfg.get("reels_fb_api"):
+            try:
+                page_id = cfg["facebook"]["page_id"]
+                res_fb = rp.fb_publish_reel(page_id, get_token(f"FB_TOKEN_{l.upper()}"),
+                                            public_url, caption)
+                print(f"[REELS][FB][{l}] OK reel {res_fb.get('id')}")
+                st.log_history({"platform": "fb", "lang": l, "type": "reel",
+                                "reel_id": reel["reel_id"], "status": "ok",
+                                "post_id": res_fb.get("id", "")})
+            except Exception as e:  # noqa: BLE001
+                print(f"[REELS][FB][{l}] ERROR: {e}")
+                st.log_history({"platform": "fb", "lang": l, "type": "reel",
+                                "reel_id": reel["reel_id"], "status": "error",
+                                "error": str(e)[:200]})
+                fail += 1
+        else:
+            print(f"[REELS][FB][{l}] omitido (crosspost nativo o cuenta sin flag)")
 
     if ok:
         # quitar-y-anadir: 'posted' queda ordenado por RECENCIA (el mas antiguo

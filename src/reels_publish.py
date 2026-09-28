@@ -87,3 +87,44 @@ def fb_publish_video(page_id, token, video_url, caption):
     if r.status_code != 200:
         raise RuntimeError(f"FB video {page_id} {r.status_code}: {r.text}")
     return r.json()
+
+
+def fb_publish_reel(page_id, token, video_url, caption, retries=40, wait=6):
+    """Publica un REEL FB PURO en la Página vía /video_reels (3 fases).
+
+    Se usa cuando el crosspost nativo IG→FB NO está disponible (cuentas en/de/it/pt,
+    cuya Página no se puede enlazar a su IG por la sanción de ads del negocio). Un Reel
+    FB puro entra en el feed de reels (no como vídeo de feed enterrado que da ~0 alcance).
+
+    Fases: start (obtiene video_id + upload_url) → subida ALOJADA (FB descarga el mp4
+    de la URL pública de Supabase) → finish con video_state=PUBLISHED. Devuelve {id}.
+    """
+    # 1) start
+    r = requests.post(f"{GRAPH}/{page_id}/video_reels", timeout=60,
+                      data={"upload_phase": "start", "access_token": token})
+    if r.status_code != 200:
+        raise RuntimeError(f"FB reel start {page_id} {r.status_code}: {r.text[:200]}")
+    j = r.json()
+    video_id, upload_url = j["video_id"], j["upload_url"]
+    # 2) subida alojada: FB descarga el vídeo de la URL pública (header file_url)
+    u = requests.post(upload_url, timeout=300,
+                      headers={"Authorization": f"OAuth {token}", "file_url": video_url})
+    if u.status_code != 200:
+        raise RuntimeError(f"FB reel upload {video_id} {u.status_code}: {u.text[:200]}")
+    # 3) esperar a que el vídeo esté subido/procesado antes de publicar
+    for _ in range(retries):
+        s = requests.get(f"{GRAPH}/{video_id}", timeout=30,
+                         params={"fields": "status", "access_token": token}).json()
+        vs = ((s.get("status") or {}).get("video_status") or "").lower()
+        if vs in ("ready", "upload_complete", "processing_complete", "complete"):
+            break
+        if vs == "error":
+            raise RuntimeError(f"FB reel {video_id} status error: {s}")
+        time.sleep(wait)
+    # 4) finish + publicar
+    f = requests.post(f"{GRAPH}/{page_id}/video_reels", timeout=60, data={
+        "upload_phase": "finish", "video_id": video_id,
+        "video_state": "PUBLISHED", "description": caption, "access_token": token})
+    if f.status_code != 200:
+        raise RuntimeError(f"FB reel finish {video_id} {f.status_code}: {f.text[:200]}")
+    return {"id": video_id}

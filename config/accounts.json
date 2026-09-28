@@ -8,6 +8,8 @@
       "instagram": { "mode": "page", "ig_user_id": "17841413449517207" }
     },
     "en": {
+      "reels_fb_api": true,
+      "_comment_reels_fb_api": "Camino B (2026-09-28): sube el reel a la Pagina FB como Reel puro (/video_reels) porque el crosspost nativo IG->FB esta bloqueado por la sancion de ads. es/fr/nl NO lo llevan.",
       "facebook": { "page_id": "1024504440752713" },
       "instagram": { "mode": "login", "ig_user_id": "17841442089186417" }
     },
@@ -18,14 +20,17 @@
       "instagram": { "mode": "page", "ig_user_id": "17841404957099202" }
     },
     "de": {
+      "reels_fb_api": true,
       "facebook": { "page_id": "1054668431063584" },
       "instagram": { "mode": "login", "ig_user_id": "17841437469614547" }
     },
     "it": {
+      "reels_fb_api": true,
       "facebook": { "page_id": "1133160749871158" },
       "instagram": { "mode": "login", "ig_user_id": "17841441683493759" }
     },
     "pt": {
+      "reels_fb_api": true,
       "facebook": { "page_id": "1112223148630716" },
       "instagram": { "mode": "login", "ig_user_id": "17841439358213088" }
     },

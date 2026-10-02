@@ -27,13 +27,14 @@ from src import reels_publish as rp
 CONFIG = os.path.join(os.path.dirname(__file__), "config", "reels.json")
 STATE_KEY = "reels:posted"    # lista de reel_id por RECENCIA (rotación sin repetir)
 STATE_COUNT = "reels:count"   # {reel_id: veces publicado} -> alterna caption A/B
+STATE_PRIO = "reels:priority_done:"  # + idioma: reels de prioridad ya publicados ahi
 
 
 def pick_caption(reel, lang, veces):
     """Caption del reel: alterna version A y B para que el repost NO sea identico.
 
-    veces par (0, 2, 4...) -> A (regalo: 50 ejercicios en PDF)
-    veces impar (1, 3...)  -> B (regalo: guia de los jovenes futbolistas)
+    veces par (0, 2, 4...) -> A (50 ejercicios en PDF)
+    veces impar (1, 3...)  -> B (guia de los jovenes futbolistas)
     """
     if veces % 2 == 1:
         return (reel.get("captions_b") or reel["captions"])[lang]
@@ -43,6 +44,26 @@ def pick_caption(reel, lang, veces):
 def load_reels():
     with open(CONFIG, encoding="utf-8") as f:
         return json.load(f)["reels"]
+
+
+def load_priority():
+    with open(CONFIG, encoding="utf-8") as f:
+        return json.load(f).get("priority", {})
+
+
+def pick_priority(reels, priority, state, lang):
+    """Reel de PRIORIDAD pendiente para este idioma (o None).
+
+    config/reels.json -> "priority": {idioma: [reel_id, ...]} = reels que ese
+    idioma publica ANTES que el de la rotacion, una sola vez cada uno (p.ej. un
+    reel que fue viral en otra cuenta mientras esta estaba pausada). Ese dia el
+    idioma publica el de prioridad EN LUGAR del de la rotacion.
+    """
+    hechos = state.get(STATE_PRIO + lang, [])
+    for rid in priority.get(lang, []):
+        if rid not in hechos:
+            return next((r for r in reels if r["reel_id"] == rid), None)
+    return None
 
 
 def pick_next_reel(reels, posted):
@@ -94,15 +115,21 @@ def main():
              if accounts.get(l, {}).get("enabled", True) and (not args.only or l == args.only)]
 
     veces = state.get(STATE_COUNT, {}).get(reel["reel_id"], 0)
+    priority = load_priority()
+    prio = {l: pick_priority(reels, priority, state, l) for l in langs}
+    prio = {l: r for l, r in prio.items() if r}
     version = "B (guia jovenes)" if veces % 2 else "A (50 ejercicios)"
 
     print(f"[REELS] siguiente: #{reel['n']} {reel['fb_url']} (tema {reel['theme_fr']})")
     print(f"[REELS] publicado {veces} vez/veces antes -> caption version {version}")
     print(f"[REELS] idiomas: {', '.join(langs)}  | modo: {'DRY-RUN' if dry else 'PUBLICAR'}")
+    for l, r in prio.items():
+        print(f"[REELS] prioridad {l}: #{r['n']} (tema {r['theme_fr']}) en lugar del de la rotacion")
 
     if dry:
         for l in langs:
-            print(f"\n----- {l} -----\n{pick_caption(reel, l, veces)}")
+            cap = pick_caption(prio[l], l, 0) if l in prio else pick_caption(reel, l, veces)
+            print(f"\n----- {l} -----\n{cap}")
         print("\n[REELS] DRY-RUN: no se publica nada. Usa --publish (con secretos) para lanzar.")
         return
 
@@ -113,22 +140,31 @@ def main():
         sup = json.load(f).get("supabase", {})
     bucket = os.environ.get("SUPABASE_BUCKET") or sup.get("bucket", "videos")
     folder = os.environ.get("SUPABASE_FOLDER") or sup.get("folder", "")
-    filename = (folder + "/" if folder else "") + f"reel_{reel['reel_id']}.mp4"
-    public_url = f"{sb_url}/storage/v1/object/public/{bucket}/{filename}"
 
-    # el vídeo debería estar YA en el bucket (sembrado con tools/seed_reels_bucket.py);
-    # si no está, se descarga de FB y se sube en el momento.
-    if requests.get(public_url, stream=True, timeout=30).status_code != 200:
-        tmp = os.path.join(tempfile.gettempdir(), f"reel_{reel['reel_id']}.mp4")
-        print("[REELS] no está en el bucket; descargando de FB y subiendo…")
-        rp.download_fb_reel(reel["reel_id"], get_token("FB_TOKEN_FR"), tmp)
-        public_url = rp.supabase_upload(tmp, bucket, filename, sb_url, sb_key)
-    print(f"[REELS] URL pública: {public_url}")
+    urls = {}
 
-    ok, fail = 0, 0
+    def video_url(r):
+        # el vídeo debería estar YA en el bucket (sembrado con tools/seed_reels_bucket.py);
+        # si no está, se descarga de FB y se sube en el momento.
+        if r["reel_id"] not in urls:
+            filename = (folder + "/" if folder else "") + f"reel_{r['reel_id']}.mp4"
+            url = f"{sb_url}/storage/v1/object/public/{bucket}/{filename}"
+            if requests.get(url, stream=True, timeout=30).status_code != 200:
+                tmp = os.path.join(tempfile.gettempdir(), f"reel_{r['reel_id']}.mp4")
+                print("[REELS] no está en el bucket; descargando de FB y subiendo…")
+                rp.download_fb_reel(r["reel_id"], get_token("FB_TOKEN_FR"), tmp)
+                url = rp.supabase_upload(tmp, bucket, filename, sb_url, sb_key)
+            print(f"[REELS] URL pública: {url}")
+            urls[r["reel_id"]] = url
+        return urls[r["reel_id"]]
+
+    ok, fail = 0, 0   # ok cuenta solo el reel de la ROTACION (el que avanza el estado)
     for l in langs:
         cfg = accounts[l]
-        caption = pick_caption(reel, l, veces)
+        es_prio = l in prio
+        reel_l = prio[l] if es_prio else reel
+        caption = pick_caption(reel_l, l, 0 if es_prio else veces)
+        public_url = video_url(reel_l)
         # Instagram Reel
         try:
             ig = cfg["instagram"]
@@ -139,12 +175,16 @@ def main():
             res = rp.ig_publish_reel(host, ig["ig_user_id"], token, public_url, caption)
             print(f"[REELS][IG][{l}] OK {res.get('id')}")
             st.log_history({"platform": "ig", "lang": l, "type": "reel",
-                            "reel_id": reel["reel_id"], "status": "ok", "post_id": res.get("id", "")})
-            ok += 1
+                            "reel_id": reel_l["reel_id"], "status": "ok", "post_id": res.get("id", "")})
+            if es_prio:
+                state[STATE_PRIO + l] = state.get(STATE_PRIO + l, []) + [reel_l["reel_id"]]
+                st.save_state(state)
+            else:
+                ok += 1
         except Exception as e:  # noqa: BLE001
             print(f"[REELS][IG][{l}] ERROR: {e}")
             st.log_history({"platform": "ig", "lang": l, "type": "reel",
-                            "reel_id": reel["reel_id"], "status": "error", "error": str(e)[:200]})
+                            "reel_id": reel_l["reel_id"], "status": "error", "error": str(e)[:200]})
             fail += 1
         # Facebook: el crosspost nativo IG->FB (3K-130K de alcance) es la via buena,
         # PERO en/de/it/pt NO pueden enlazar su IG a su Pagina (bloqueado por la
@@ -160,12 +200,12 @@ def main():
                                             public_url, caption)
                 print(f"[REELS][FB][{l}] OK reel {res_fb.get('id')}")
                 st.log_history({"platform": "fb", "lang": l, "type": "reel",
-                                "reel_id": reel["reel_id"], "status": "ok",
+                                "reel_id": reel_l["reel_id"], "status": "ok",
                                 "post_id": res_fb.get("id", "")})
             except Exception as e:  # noqa: BLE001
                 print(f"[REELS][FB][{l}] ERROR: {e}")
                 st.log_history({"platform": "fb", "lang": l, "type": "reel",
-                                "reel_id": reel["reel_id"], "status": "error",
+                                "reel_id": reel_l["reel_id"], "status": "error",
                                 "error": str(e)[:200]})
                 fail += 1
         else:

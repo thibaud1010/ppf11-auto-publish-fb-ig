@@ -3,8 +3,8 @@
 Reels franceses a re-publicar en **Instagram + Facebook** de los 6 idiomas (es/en/de/it/pt/nl). **Francés no se toca.**
 
 Cada reel tiene **dos versiones de caption** (gancho + línea de valor + CTA + hashtags):
-- **A** — regalo: 50 ejercicios en PDF (esquemas 3D). Es la que sale la primera vez.
-- **B** — regalo: guía de los jóvenes futbolistas. Sale cuando el reel se republica.
+- **A** — 50 ejercicios en PDF (esquemas 3D). Es la que sale la primera vez.
+- **B** — guía de los jóvenes futbolistas. Sale cuando el reel se republica.
 
 Total: 91 reels (1 duplicado marcado).
 
@@ -20,9 +20,8 @@ Total: 91 reels (1 duplicado marcado).
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -34,8 +33,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -47,9 +46,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -61,8 +59,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -74,9 +72,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -88,8 +85,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -101,9 +98,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -115,8 +111,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -128,9 +124,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -142,8 +137,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -155,9 +150,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -169,8 +163,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -187,9 +181,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -201,8 +194,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -214,9 +207,8 @@ Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -228,8 +220,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -241,9 +233,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -255,8 +246,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -268,9 +259,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -282,8 +272,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -295,9 +285,8 @@ Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -309,8 +298,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -322,9 +311,8 @@ Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -336,8 +324,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -354,9 +342,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
@@ -368,8 +355,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
@@ -381,9 +368,8 @@ Espacio corto y oposición real: intensidad, decisión y competición en cada ac
 
 Tight space and real opposition — intensity, decision-making and competition in every action.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #smallsidedgames
 ```
@@ -395,8 +381,8 @@ Tight space and real opposition — intensity, decision-making and competition i
 
 Tight space and real opposition — intensity, decision-making and competition in every action.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #smallsidedgames
 ```
@@ -408,9 +394,8 @@ Tight space and real opposition — intensity, decision-making and competition i
 
 Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #kleinfeldspiel
 ```
@@ -422,8 +407,8 @@ Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in je
 
 Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #kleinfeldspiel
 ```
@@ -435,9 +420,8 @@ Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in je
 
 Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #partiteatema
 ```
@@ -449,8 +433,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #partiteatema
 ```
@@ -462,9 +446,8 @@ Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni az
 
 Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #jogoreduzido
 ```
@@ -476,8 +459,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #jogoreduzido
 ```
@@ -489,9 +472,8 @@ Espaço curto e oposição real: intensidade, decisão e competição em cada a�
 
 Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #partijspel
 ```
@@ -503,8 +485,8 @@ Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke 
 
 Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #partijspel
 ```
@@ -521,9 +503,8 @@ Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke 
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -535,8 +516,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -548,9 +529,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -562,8 +542,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -575,9 +555,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -589,8 +568,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -602,9 +581,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -616,8 +594,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -629,9 +607,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -643,8 +620,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -656,9 +633,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -670,8 +646,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -688,9 +664,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -702,8 +677,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -715,9 +690,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -729,8 +703,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -742,9 +716,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -756,8 +729,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -769,9 +742,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -783,8 +755,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -796,9 +768,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -810,8 +781,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -823,9 +794,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -837,8 +807,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -855,9 +825,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -869,8 +838,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -882,9 +851,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -896,8 +864,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -909,9 +877,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -923,8 +890,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -936,9 +903,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -950,8 +916,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -963,9 +929,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -977,8 +942,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -990,9 +955,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -1004,8 +968,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -1022,9 +986,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1036,8 +999,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1049,9 +1012,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1063,8 +1025,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1076,9 +1038,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1090,8 +1051,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1103,9 +1064,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1117,8 +1077,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1130,9 +1090,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1144,8 +1103,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1157,9 +1116,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -1171,8 +1129,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -1189,9 +1147,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
@@ -1203,8 +1160,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
@@ -1216,9 +1173,8 @@ Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el 
 
 Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #core
 ```
@@ -1230,8 +1186,8 @@ Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
 Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #core
 ```
@@ -1243,9 +1199,8 @@ Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
 Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
 ```
@@ -1257,8 +1212,8 @@ Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleic
 
 Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
 ```
@@ -1270,9 +1225,8 @@ Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleic
 
 Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #core
 ```
@@ -1284,8 +1238,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #core
 ```
@@ -1297,9 +1251,8 @@ Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duell
 
 Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #core
 ```
@@ -1311,8 +1264,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #core
 ```
@@ -1324,9 +1277,8 @@ Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no 
 
 Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #core
 ```
@@ -1338,8 +1290,8 @@ Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt
 
 Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #core
 ```
@@ -1356,9 +1308,8 @@ Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1370,8 +1321,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1383,9 +1334,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1397,8 +1347,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1410,9 +1360,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1424,8 +1373,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1437,9 +1386,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1451,8 +1399,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1464,9 +1412,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1478,8 +1425,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1491,9 +1438,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -1505,8 +1451,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -1523,9 +1469,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1537,8 +1482,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1550,9 +1495,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1564,8 +1508,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1577,9 +1521,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1591,8 +1534,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1604,9 +1547,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1618,8 +1560,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1631,9 +1573,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1645,8 +1586,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1658,9 +1599,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -1672,8 +1612,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -1690,9 +1630,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -1704,8 +1643,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -1717,9 +1656,8 @@ Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -1731,8 +1669,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -1744,9 +1682,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -1758,8 +1695,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -1771,9 +1708,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -1785,8 +1721,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -1798,9 +1734,8 @@ Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -1812,8 +1747,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -1825,9 +1760,8 @@ Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -1839,8 +1773,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -1857,9 +1791,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1871,8 +1804,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -1884,9 +1817,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1898,8 +1830,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -1911,9 +1843,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1925,8 +1856,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -1938,9 +1869,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1952,8 +1882,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -1965,9 +1895,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1979,8 +1908,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -1992,9 +1921,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -2006,8 +1934,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -2024,9 +1952,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -2038,8 +1965,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -2051,9 +1978,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -2065,8 +1991,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -2078,9 +2004,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -2092,8 +2017,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -2105,9 +2030,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -2119,8 +2043,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -2132,9 +2056,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -2146,8 +2069,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -2159,9 +2082,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -2173,8 +2095,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -2191,9 +2113,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Frecuencia, ritmo y control del apoyo para moverte mejor con y sin balón.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #coordinación
 ```
@@ -2205,8 +2126,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Frecuencia, ritmo y control del apoyo para moverte mejor con y sin balón.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #coordinación
 ```
@@ -2218,9 +2139,8 @@ Frecuencia, ritmo y control del apoyo para moverte mejor con y sin balón.
 
 Frequency, rhythm and foot control — to move better with and without the ball.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #coordination
 ```
@@ -2232,8 +2152,8 @@ Frequency, rhythm and foot control — to move better with and without the ball.
 
 Frequency, rhythm and foot control — to move better with and without the ball.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #coordination
 ```
@@ -2245,9 +2165,8 @@ Frequency, rhythm and foot control — to move better with and without the ball.
 
 Frequenz, Rhythmus und Fußkontrolle — um dich mit und ohne Ball besser zu bewegen.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #koordination
 ```
@@ -2259,8 +2178,8 @@ Frequenz, Rhythmus und Fußkontrolle — um dich mit und ohne Ball besser zu bew
 
 Frequenz, Rhythmus und Fußkontrolle — um dich mit und ohne Ball besser zu bewegen.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #koordination
 ```
@@ -2272,9 +2191,8 @@ Frequenz, Rhythmus und Fußkontrolle — um dich mit und ohne Ball besser zu bew
 
 Frequenza, ritmo e controllo dell’appoggio per muoverti meglio con e senza palla.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #coordinazione
 ```
@@ -2286,8 +2204,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Frequenza, ritmo e controllo dell’appoggio per muoverti meglio con e senza palla.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #coordinazione
 ```
@@ -2299,9 +2217,8 @@ Frequenza, ritmo e controllo dell’appoggio per muoverti meglio con e senza pal
 
 Frequência, ritmo e controle do apoio para se mover melhor com e sem bola.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #coordenação
 ```
@@ -2313,8 +2230,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Frequência, ritmo e controle do apoio para se mover melhor com e sem bola.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #coordenação
 ```
@@ -2326,9 +2243,8 @@ Frequência, ritmo e controle do apoio para se mover melhor com e sem bola.
 
 Frequentie, ritme en voetcontrole — om beter te bewegen met en zonder bal.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #coördinatie
 ```
@@ -2340,8 +2256,8 @@ Frequentie, ritme en voetcontrole — om beter te bewegen met en zonder bal.
 
 Frequentie, ritme en voetcontrole — om beter te bewegen met en zonder bal.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #coördinatie
 ```
@@ -2358,9 +2274,8 @@ Frequentie, ritme en voetcontrole — om beter te bewegen met en zonder bal.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -2372,8 +2287,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -2385,9 +2300,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -2399,8 +2313,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -2412,9 +2326,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -2426,8 +2339,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -2439,9 +2352,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -2453,8 +2365,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -2466,9 +2378,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -2480,8 +2391,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -2493,9 +2404,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -2507,8 +2417,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -2525,9 +2435,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -2539,8 +2448,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -2552,9 +2461,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -2566,8 +2474,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -2579,9 +2487,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -2593,8 +2500,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -2606,9 +2513,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -2620,8 +2526,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -2633,9 +2539,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -2647,8 +2552,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -2660,9 +2565,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -2674,8 +2578,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -2692,9 +2596,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -2706,8 +2609,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -2719,9 +2622,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -2733,8 +2635,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -2746,9 +2648,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -2760,8 +2661,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -2773,9 +2674,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -2787,8 +2687,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -2800,9 +2700,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -2814,8 +2713,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -2827,9 +2726,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -2841,8 +2739,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -2859,9 +2757,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -2873,8 +2770,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -2886,9 +2783,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -2900,8 +2796,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -2913,9 +2809,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -2927,8 +2822,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -2940,9 +2835,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -2954,8 +2848,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -2967,9 +2861,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -2981,8 +2874,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -2994,9 +2887,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3008,8 +2900,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3026,9 +2918,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3040,8 +2931,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3053,9 +2944,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3067,8 +2957,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3080,9 +2970,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3094,8 +2983,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3107,9 +2996,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3121,8 +3009,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3134,9 +3022,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3148,8 +3035,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3161,9 +3048,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3175,8 +3061,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3193,9 +3079,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -3207,8 +3092,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -3220,9 +3105,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -3234,8 +3118,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -3247,9 +3131,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -3261,8 +3144,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -3274,9 +3157,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -3288,8 +3170,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -3301,9 +3183,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -3315,8 +3196,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -3328,9 +3209,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -3342,8 +3222,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -3360,9 +3240,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3374,8 +3253,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3387,9 +3266,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3401,8 +3279,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3414,9 +3292,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3428,8 +3305,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3441,9 +3318,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3455,8 +3331,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3468,9 +3344,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3482,8 +3357,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3495,9 +3370,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3509,8 +3383,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3527,9 +3401,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
@@ -3541,8 +3414,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el duelo.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #core
 ```
@@ -3554,9 +3427,8 @@ Estímulo, arranque y estabilidad del tronco para no perder el equilibrio en el 
 
 Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #core
 ```
@@ -3568,8 +3440,8 @@ Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
 Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #core
 ```
@@ -3581,9 +3453,8 @@ Cue, start and trunk stability — so you don’t lose your balance in the duel.
 
 Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
 ```
@@ -3595,8 +3466,8 @@ Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleic
 
 Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleichgewicht gerätst.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #rumpfstabilität
 ```
@@ -3608,9 +3479,8 @@ Reiz, Antritt und Rumpfstabilität — damit du im Zweikampf nicht aus dem Gleic
 
 Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #core
 ```
@@ -3622,8 +3492,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duello.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #core
 ```
@@ -3635,9 +3505,8 @@ Stimolo, scatto e stabilità del tronco per non perdere l’equilibrio nel duell
 
 Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #core
 ```
@@ -3649,8 +3518,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no duelo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #core
 ```
@@ -3662,9 +3531,8 @@ Estímulo, arrancada e estabilidade do tronco para não perder o equilíbrio no 
 
 Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #core
 ```
@@ -3676,8 +3544,8 @@ Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt
 
 Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #core
 ```
@@ -3694,9 +3562,8 @@ Prikkel, start en rompstabiliteit — zodat je in het duel niet uit balans raakt
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3708,8 +3575,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3721,9 +3588,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3735,8 +3601,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3748,9 +3614,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3762,8 +3627,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3775,9 +3640,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3789,8 +3653,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3802,9 +3666,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3816,8 +3679,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3829,9 +3692,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3843,8 +3705,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -3861,9 +3723,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3875,8 +3736,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -3888,9 +3749,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3902,8 +3762,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -3915,9 +3775,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3929,8 +3788,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -3942,9 +3801,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3956,8 +3814,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -3969,9 +3827,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3983,8 +3840,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -3996,9 +3853,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -4010,8 +3866,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -4028,9 +3884,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -4042,8 +3897,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -4055,9 +3910,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -4069,8 +3923,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -4082,9 +3936,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -4096,8 +3949,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -4109,9 +3962,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -4123,8 +3975,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -4136,9 +3988,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -4150,8 +4001,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -4163,9 +4014,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -4177,8 +4027,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -4195,9 +4045,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -4209,8 +4058,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -4222,9 +4071,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -4236,8 +4084,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -4249,9 +4097,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -4263,8 +4110,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -4276,9 +4123,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -4290,8 +4136,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -4303,9 +4149,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -4317,8 +4162,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -4330,9 +4175,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -4344,8 +4188,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -4362,9 +4206,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -4376,8 +4219,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -4389,9 +4232,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -4403,8 +4245,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -4416,9 +4258,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -4430,8 +4271,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -4443,9 +4284,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -4457,8 +4297,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -4470,9 +4310,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -4484,8 +4323,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -4497,9 +4336,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -4511,8 +4349,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -4529,9 +4367,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
@@ -4543,8 +4380,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
@@ -4556,9 +4393,8 @@ Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de jueg
 
 Quick footwork and immediate response — agility applied to a game situation.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility #reaction
 ```
@@ -4570,8 +4406,8 @@ Quick footwork and immediate response — agility applied to a game situation.
 
 Quick footwork and immediate response — agility applied to a game situation.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility #reaction
 ```
@@ -4583,9 +4419,8 @@ Quick footwork and immediate response — agility applied to a game situation.
 
 Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität #reaktion
 ```
@@ -4597,8 +4432,8 @@ Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
 Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität #reaktion
 ```
@@ -4610,9 +4445,8 @@ Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
 Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità #reazione
 ```
@@ -4624,8 +4458,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità #reazione
 ```
@@ -4637,9 +4471,8 @@ Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco
 
 Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade #reação
 ```
@@ -4651,8 +4484,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade #reação
 ```
@@ -4664,9 +4497,8 @@ Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
 Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
@@ -4678,8 +4510,8 @@ Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
 Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
@@ -4696,9 +4528,8 @@ Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -4710,8 +4541,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -4723,9 +4554,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -4737,8 +4567,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -4750,9 +4580,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -4764,8 +4593,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -4777,9 +4606,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -4791,8 +4619,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -4804,9 +4632,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -4818,8 +4645,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -4831,9 +4658,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -4845,8 +4671,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -4863,9 +4689,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -4877,8 +4702,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -4890,9 +4715,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -4904,8 +4728,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -4917,9 +4741,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -4931,8 +4754,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -4944,9 +4767,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -4958,8 +4780,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -4971,9 +4793,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -4985,8 +4806,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -4998,9 +4819,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -5012,8 +4832,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -5030,9 +4850,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Del movimiento suave a los apoyos rápidos, para entrar a la sesión enchufado.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento #agilidad
 ```
@@ -5044,8 +4863,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Del movimiento suave a los apoyos rápidos, para entrar a la sesión enchufado.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento #agilidad
 ```
@@ -5057,9 +4876,8 @@ Del movimiento suave a los apoyos rápidos, para entrar a la sesión enchufado.
 
 From smooth movement to quick feet — so you start the session switched on.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup #agility
 ```
@@ -5071,8 +4889,8 @@ From smooth movement to quick feet — so you start the session switched on.
 
 From smooth movement to quick feet — so you start the session switched on.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup #agility
 ```
@@ -5084,9 +4902,8 @@ From smooth movement to quick feet — so you start the session switched on.
 
 Von der ruhigen Bewegung zu schnellen Schritten — damit du hellwach in die Einheit startest.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen #agilität
 ```
@@ -5098,8 +4915,8 @@ Von der ruhigen Bewegung zu schnellen Schritten — damit du hellwach in die Ein
 
 Von der ruhigen Bewegung zu schnellen Schritten — damit du hellwach in die Einheit startest.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen #agilität
 ```
@@ -5111,9 +4928,8 @@ Von der ruhigen Bewegung zu schnellen Schritten — damit du hellwach in die Ein
 
 Dal movimento morbido agli appoggi rapidi, per entrare in seduta sul pezzo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento #agilità
 ```
@@ -5125,8 +4941,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Dal movimento morbido agli appoggi rapidi, per entrare in seduta sul pezzo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento #agilità
 ```
@@ -5138,9 +4954,8 @@ Dal movimento morbido agli appoggi rapidi, per entrare in seduta sul pezzo.
 
 Do movimento suave aos apoios rápidos, para entrar no treino ligado.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento #agilidade
 ```
@@ -5152,8 +4967,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Do movimento suave aos apoios rápidos, para entrar no treino ligado.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento #agilidade
 ```
@@ -5165,9 +4980,8 @@ Do movimento suave aos apoios rápidos, para entrar no treino ligado.
 
 Van rustige beweging naar snelle voeten — zodat je scherp aan de sessie begint.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming #wendbaarheid
 ```
@@ -5179,8 +4993,8 @@ Van rustige beweging naar snelle voeten — zodat je scherp aan de sessie begint
 
 Van rustige beweging naar snelle voeten — zodat je scherp aan de sessie begint.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming #wendbaarheid
 ```
@@ -5197,9 +5011,8 @@ Van rustige beweging naar snelle voeten — zodat je scherp aan de sessie begint
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -5211,8 +5024,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -5224,9 +5037,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -5238,8 +5050,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -5251,9 +5063,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -5265,8 +5076,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -5278,9 +5089,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -5292,8 +5102,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -5305,9 +5115,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -5319,8 +5128,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -5332,9 +5141,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -5346,8 +5154,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -5364,9 +5172,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -5378,8 +5185,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -5391,9 +5198,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -5405,8 +5211,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -5418,9 +5224,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -5432,8 +5237,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -5445,9 +5250,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -5459,8 +5263,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -5472,9 +5276,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -5486,8 +5289,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -5499,9 +5302,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -5513,8 +5315,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -5531,9 +5333,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -5545,8 +5346,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -5558,9 +5359,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -5572,8 +5372,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -5585,9 +5385,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -5599,8 +5398,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -5612,9 +5411,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -5626,8 +5424,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -5639,9 +5437,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -5653,8 +5450,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -5666,9 +5463,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -5680,8 +5476,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -5698,9 +5494,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -5712,8 +5507,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -5725,9 +5520,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -5739,8 +5533,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -5752,9 +5546,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -5766,8 +5559,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -5779,9 +5572,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -5793,8 +5585,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -5806,9 +5598,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -5820,8 +5611,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -5833,9 +5624,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -5847,8 +5637,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -5865,9 +5655,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -5879,8 +5668,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -5892,9 +5681,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -5906,8 +5694,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -5919,9 +5707,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -5933,8 +5720,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -5946,9 +5733,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -5960,8 +5746,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -5973,9 +5759,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -5987,8 +5772,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -6000,9 +5785,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -6014,8 +5798,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -6032,9 +5816,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -6046,8 +5829,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -6059,9 +5842,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -6073,8 +5855,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -6086,9 +5868,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -6100,8 +5881,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -6113,9 +5894,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -6127,8 +5907,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -6140,9 +5920,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -6154,8 +5933,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -6167,9 +5946,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -6181,8 +5959,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -6199,9 +5977,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -6213,8 +5990,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -6226,9 +6003,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -6240,8 +6016,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -6253,9 +6029,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -6267,8 +6042,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -6280,9 +6055,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -6294,8 +6068,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -6307,9 +6081,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -6321,8 +6094,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -6334,9 +6107,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -6348,8 +6120,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -6366,9 +6138,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -6380,8 +6151,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -6393,9 +6164,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -6407,8 +6177,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -6420,9 +6190,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -6434,8 +6203,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -6447,9 +6216,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -6461,8 +6229,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -6474,9 +6242,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -6488,8 +6255,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -6501,9 +6268,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -6515,8 +6281,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -6533,9 +6299,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -6547,8 +6312,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -6560,9 +6325,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -6574,8 +6338,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -6587,9 +6351,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -6601,8 +6364,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -6614,9 +6377,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -6628,8 +6390,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -6641,9 +6403,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -6655,8 +6416,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -6668,9 +6429,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -6682,8 +6442,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -6700,9 +6460,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -6714,8 +6473,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -6727,9 +6486,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -6741,8 +6499,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -6754,9 +6512,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -6768,8 +6525,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -6781,9 +6538,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -6795,8 +6551,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -6808,9 +6564,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -6822,8 +6577,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -6835,9 +6590,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -6849,8 +6603,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -6867,9 +6621,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -6881,8 +6634,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -6894,9 +6647,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -6908,8 +6660,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -6921,9 +6673,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -6935,8 +6686,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -6948,9 +6699,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -6962,8 +6712,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -6975,9 +6725,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -6989,8 +6738,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -7002,9 +6751,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -7016,8 +6764,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -7034,9 +6782,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -7048,8 +6795,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -7061,9 +6808,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -7075,8 +6821,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -7088,9 +6834,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -7102,8 +6847,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -7115,9 +6860,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -7129,8 +6873,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -7142,9 +6886,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -7156,8 +6899,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -7169,9 +6912,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -7183,8 +6925,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -7201,9 +6943,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -7215,8 +6956,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -7228,9 +6969,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -7242,8 +6982,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -7255,9 +6995,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -7269,8 +7008,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -7282,9 +7021,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -7296,8 +7034,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -7309,9 +7047,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -7323,8 +7060,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -7336,9 +7073,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -7350,8 +7086,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -7368,9 +7104,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -7382,8 +7117,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -7395,9 +7130,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -7409,8 +7143,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -7422,9 +7156,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -7436,8 +7169,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -7449,9 +7182,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -7463,8 +7195,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -7476,9 +7208,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -7490,8 +7221,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -7503,9 +7234,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -7517,8 +7247,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -7535,9 +7265,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -7549,8 +7278,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -7562,9 +7291,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -7576,8 +7304,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -7589,9 +7317,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -7603,8 +7330,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -7616,9 +7343,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -7630,8 +7356,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -7643,9 +7369,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -7657,8 +7382,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -7670,9 +7395,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -7684,8 +7408,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -7702,9 +7426,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -7716,8 +7439,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -7729,9 +7452,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -7743,8 +7465,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -7756,9 +7478,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -7770,8 +7491,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -7783,9 +7504,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -7797,8 +7517,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -7810,9 +7530,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -7824,8 +7543,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -7837,9 +7556,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -7851,8 +7569,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -7869,9 +7587,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -7883,8 +7600,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -7896,9 +7613,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -7910,8 +7626,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -7923,9 +7639,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -7937,8 +7652,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -7950,9 +7665,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -7964,8 +7678,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -7977,9 +7691,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -7991,8 +7704,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -8004,9 +7717,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -8018,8 +7730,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -8036,9 +7748,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -8050,8 +7761,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -8063,9 +7774,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -8077,8 +7787,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -8090,9 +7800,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -8104,8 +7813,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -8117,9 +7826,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -8131,8 +7839,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -8144,9 +7852,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -8158,8 +7865,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -8171,9 +7878,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -8185,8 +7891,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -8203,9 +7909,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -8217,8 +7922,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -8230,9 +7935,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -8244,8 +7948,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -8257,9 +7961,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -8271,8 +7974,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -8284,9 +7987,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -8298,8 +8000,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -8311,9 +8013,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -8325,8 +8026,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -8338,9 +8039,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -8352,8 +8052,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -8370,9 +8070,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -8384,8 +8083,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -8397,9 +8096,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -8411,8 +8109,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -8424,9 +8122,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -8438,8 +8135,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -8451,9 +8148,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -8465,8 +8161,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -8478,9 +8174,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -8492,8 +8187,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -8505,9 +8200,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -8519,8 +8213,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -8537,9 +8231,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -8551,8 +8244,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -8564,9 +8257,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -8578,8 +8270,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -8591,9 +8283,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -8605,8 +8296,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -8618,9 +8309,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -8632,8 +8322,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -8645,9 +8335,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -8659,8 +8348,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -8672,9 +8361,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -8686,8 +8374,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -8704,9 +8392,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -8718,8 +8405,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -8731,9 +8418,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -8745,8 +8431,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -8758,9 +8444,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -8772,8 +8457,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -8785,9 +8470,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -8799,8 +8483,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -8812,9 +8496,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -8826,8 +8509,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -8839,9 +8522,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -8853,8 +8535,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -8871,9 +8553,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -8885,8 +8566,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -8898,9 +8579,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -8912,8 +8592,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -8925,9 +8605,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -8939,8 +8618,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -8952,9 +8631,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -8966,8 +8644,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -8979,9 +8657,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -8993,8 +8670,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -9006,9 +8683,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -9020,8 +8696,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -9038,9 +8714,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -9052,8 +8727,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -9065,9 +8740,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -9079,8 +8753,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -9092,9 +8766,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -9106,8 +8779,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -9119,9 +8792,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -9133,8 +8805,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -9146,9 +8818,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -9160,8 +8831,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -9173,9 +8844,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -9187,8 +8857,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -9205,9 +8875,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -9219,8 +8888,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -9232,9 +8901,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -9246,8 +8914,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -9259,9 +8927,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -9273,8 +8940,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -9286,9 +8953,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -9300,8 +8966,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -9313,9 +8979,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -9327,8 +8992,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -9340,9 +9005,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -9354,8 +9018,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -9372,9 +9036,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -9386,8 +9049,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -9399,9 +9062,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -9413,8 +9075,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -9426,9 +9088,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -9440,8 +9101,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -9453,9 +9114,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -9467,8 +9127,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -9480,9 +9140,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -9494,8 +9153,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -9507,9 +9166,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -9521,8 +9179,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -9539,9 +9197,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -9553,8 +9210,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -9566,9 +9223,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -9580,8 +9236,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -9593,9 +9249,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -9607,8 +9262,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -9620,9 +9275,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -9634,8 +9288,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -9647,9 +9301,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -9661,8 +9314,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -9674,9 +9327,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -9688,8 +9340,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -9706,9 +9358,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -9720,8 +9371,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -9733,9 +9384,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -9747,8 +9397,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -9760,9 +9410,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -9774,8 +9423,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -9787,9 +9436,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -9801,8 +9449,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -9814,9 +9462,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -9828,8 +9475,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -9841,9 +9488,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -9855,8 +9501,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -9873,9 +9519,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -9887,8 +9532,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -9900,9 +9545,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -9914,8 +9558,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -9927,9 +9571,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -9941,8 +9584,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -9954,9 +9597,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -9968,8 +9610,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -9981,9 +9623,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -9995,8 +9636,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -10008,9 +9649,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -10022,8 +9662,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -10040,9 +9680,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -10054,8 +9693,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -10067,9 +9706,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -10081,8 +9719,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -10094,9 +9732,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -10108,8 +9745,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -10121,9 +9758,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -10135,8 +9771,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -10148,9 +9784,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -10162,8 +9797,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -10175,9 +9810,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -10189,8 +9823,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -10207,9 +9841,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -10221,8 +9854,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -10234,9 +9867,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -10248,8 +9880,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -10261,9 +9893,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -10275,8 +9906,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -10288,9 +9919,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -10302,8 +9932,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -10315,9 +9945,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -10329,8 +9958,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -10342,9 +9971,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -10356,8 +9984,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -10374,9 +10002,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -10388,8 +10015,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -10401,9 +10028,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -10415,8 +10041,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -10428,9 +10054,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -10442,8 +10067,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -10455,9 +10080,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -10469,8 +10093,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -10482,9 +10106,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -10496,8 +10119,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -10509,9 +10132,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -10523,8 +10145,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -10541,9 +10163,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -10555,8 +10176,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -10568,9 +10189,8 @@ Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide qui
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -10582,8 +10202,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -10595,9 +10215,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -10609,8 +10228,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -10622,9 +10241,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -10636,8 +10254,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -10649,9 +10267,8 @@ Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -10663,8 +10280,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -10676,9 +10293,8 @@ Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -10690,8 +10306,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -10708,9 +10324,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -10722,8 +10337,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -10735,9 +10350,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -10749,8 +10363,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -10762,9 +10376,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -10776,8 +10389,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -10789,9 +10402,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -10803,8 +10415,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -10816,9 +10428,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -10830,8 +10441,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -10843,9 +10454,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -10857,8 +10467,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -10875,9 +10485,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -10889,8 +10498,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -10902,9 +10511,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -10916,8 +10524,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -10929,9 +10537,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -10943,8 +10550,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -10956,9 +10563,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -10970,8 +10576,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -10983,9 +10589,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -10997,8 +10602,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -11010,9 +10615,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -11024,8 +10628,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -11042,9 +10646,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -11056,8 +10659,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -11069,9 +10672,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -11083,8 +10685,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -11096,9 +10698,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -11110,8 +10711,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -11123,9 +10724,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -11137,8 +10737,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -11150,9 +10750,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -11164,8 +10763,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -11177,9 +10776,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -11191,8 +10789,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -11209,9 +10807,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -11223,8 +10820,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -11236,9 +10833,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -11250,8 +10846,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -11263,9 +10859,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -11277,8 +10872,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -11290,9 +10885,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -11304,8 +10898,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -11317,9 +10911,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -11331,8 +10924,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -11344,9 +10937,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -11358,8 +10950,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -11376,9 +10968,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -11390,8 +10981,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -11403,9 +10994,8 @@ Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide qui
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -11417,8 +11007,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -11430,9 +11020,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -11444,8 +11033,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -11457,9 +11046,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -11471,8 +11059,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -11484,9 +11072,8 @@ Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -11498,8 +11085,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -11511,9 +11098,8 @@ Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -11525,8 +11111,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -11543,9 +11129,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -11557,8 +11142,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -11570,9 +11155,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -11584,8 +11168,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -11597,9 +11181,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -11611,8 +11194,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -11624,9 +11207,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -11638,8 +11220,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -11651,9 +11233,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -11665,8 +11246,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -11678,9 +11259,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -11692,8 +11272,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -11710,9 +11290,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -11724,8 +11303,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -11737,9 +11316,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -11751,8 +11329,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -11764,9 +11342,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -11778,8 +11355,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -11791,9 +11368,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -11805,8 +11381,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -11818,9 +11394,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -11832,8 +11407,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -11845,9 +11420,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -11859,8 +11433,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -11877,9 +11451,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -11891,8 +11464,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -11904,9 +11477,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -11918,8 +11490,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -11931,9 +11503,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -11945,8 +11516,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -11958,9 +11529,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -11972,8 +11542,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -11985,9 +11555,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -11999,8 +11568,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -12012,9 +11581,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -12026,8 +11594,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -12044,9 +11612,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -12058,8 +11625,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -12071,9 +11638,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -12085,8 +11651,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -12098,9 +11664,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -12112,8 +11677,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -12125,9 +11690,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -12139,8 +11703,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -12152,9 +11716,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -12166,8 +11729,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -12179,9 +11742,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -12193,8 +11755,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -12211,9 +11773,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -12225,8 +11786,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -12238,9 +11799,8 @@ Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide qui
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -12252,8 +11812,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -12265,9 +11825,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -12279,8 +11838,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -12292,9 +11851,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -12306,8 +11864,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -12319,9 +11877,8 @@ Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -12333,8 +11890,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -12346,9 +11903,8 @@ Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -12360,8 +11916,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -12378,9 +11934,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -12392,8 +11947,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -12405,9 +11960,8 @@ Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -12419,8 +11973,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -12432,9 +11986,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -12446,8 +11999,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -12459,9 +12012,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -12473,8 +12025,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -12486,9 +12038,8 @@ Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -12500,8 +12051,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -12513,9 +12064,8 @@ Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -12527,8 +12077,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -12545,9 +12095,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -12559,8 +12108,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -12572,9 +12121,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -12586,8 +12134,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -12599,9 +12147,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -12613,8 +12160,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -12626,9 +12173,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -12640,8 +12186,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -12653,9 +12199,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -12667,8 +12212,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -12680,9 +12225,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -12694,8 +12238,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -12712,9 +12256,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -12726,8 +12269,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -12739,9 +12282,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -12753,8 +12295,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -12766,9 +12308,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -12780,8 +12321,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -12793,9 +12334,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -12807,8 +12347,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -12820,9 +12360,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -12834,8 +12373,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -12847,9 +12386,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -12861,8 +12399,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -12879,9 +12417,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -12893,8 +12430,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -12906,9 +12443,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -12920,8 +12456,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -12933,9 +12469,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -12947,8 +12482,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -12960,9 +12495,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -12974,8 +12508,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -12987,9 +12521,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -13001,8 +12534,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -13014,9 +12547,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -13028,8 +12560,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -13046,9 +12578,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -13060,8 +12591,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -13073,9 +12604,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -13087,8 +12617,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -13100,9 +12630,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -13114,8 +12643,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -13127,9 +12656,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -13141,8 +12669,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -13154,9 +12682,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -13168,8 +12695,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -13181,9 +12708,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -13195,8 +12721,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -13213,9 +12739,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -13227,8 +12752,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -13240,9 +12765,8 @@ Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide qui
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -13254,8 +12778,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -13267,9 +12791,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -13281,8 +12804,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -13294,9 +12817,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -13308,8 +12830,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -13321,9 +12843,8 @@ Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -13335,8 +12856,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -13348,9 +12869,8 @@ Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -13362,8 +12882,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -13380,9 +12900,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -13394,8 +12913,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -13407,9 +12926,8 @@ Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -13421,8 +12939,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -13434,9 +12952,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -13448,8 +12965,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -13461,9 +12978,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -13475,8 +12991,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -13488,9 +13004,8 @@ Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -13502,8 +13017,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -13515,9 +13030,8 @@ Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -13529,8 +13043,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -13547,9 +13061,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
@@ -13561,8 +13074,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
@@ -13574,9 +13087,8 @@ Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de jueg
 
 Quick footwork and immediate response — agility applied to a game situation.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility #reaction
 ```
@@ -13588,8 +13100,8 @@ Quick footwork and immediate response — agility applied to a game situation.
 
 Quick footwork and immediate response — agility applied to a game situation.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility #reaction
 ```
@@ -13601,9 +13113,8 @@ Quick footwork and immediate response — agility applied to a game situation.
 
 Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität #reaktion
 ```
@@ -13615,8 +13126,8 @@ Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
 Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität #reaktion
 ```
@@ -13628,9 +13139,8 @@ Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
 Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità #reazione
 ```
@@ -13642,8 +13152,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità #reazione
 ```
@@ -13655,9 +13165,8 @@ Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco
 
 Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade #reação
 ```
@@ -13669,8 +13178,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade #reação
 ```
@@ -13682,9 +13191,8 @@ Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
 Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
@@ -13696,8 +13204,8 @@ Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
 Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
@@ -13714,9 +13222,8 @@ Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
 Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
@@ -13728,8 +13235,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
@@ -13741,9 +13248,8 @@ Espacio corto y oposición real: intensidad, decisión y competición en cada ac
 
 Tight space and real opposition — intensity, decision-making and competition in every action.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #smallsidedgames
 ```
@@ -13755,8 +13261,8 @@ Tight space and real opposition — intensity, decision-making and competition i
 
 Tight space and real opposition — intensity, decision-making and competition in every action.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #smallsidedgames
 ```
@@ -13768,9 +13274,8 @@ Tight space and real opposition — intensity, decision-making and competition i
 
 Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #kleinfeldspiel
 ```
@@ -13782,8 +13287,8 @@ Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in je
 
 Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #kleinfeldspiel
 ```
@@ -13795,9 +13300,8 @@ Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in je
 
 Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #partiteatema
 ```
@@ -13809,8 +13313,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #partiteatema
 ```
@@ -13822,9 +13326,8 @@ Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni az
 
 Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #jogoreduzido
 ```
@@ -13836,8 +13339,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #jogoreduzido
 ```
@@ -13849,9 +13352,8 @@ Espaço curto e oposição real: intensidade, decisão e competição em cada a�
 
 Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #partijspel
 ```
@@ -13863,8 +13365,8 @@ Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke 
 
 Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #partijspel
 ```
@@ -13881,9 +13383,8 @@ Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke 
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -13895,8 +13396,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no cansa: prepara.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #calentamiento
 ```
@@ -13908,9 +13409,8 @@ Movilidad, activación y subida progresiva de ritmo. Un buen calentamiento no ca
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -13922,8 +13422,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobility, activation and a progressive rise in intensity. A good warm-up doesn’t tire you out — it gets you ready.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #warmup
 ```
@@ -13935,9 +13435,8 @@ Mobility, activation and a progressive rise in intensity. A good warm-up doesn�
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -13949,8 +13448,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen ermüdet nicht — es macht bereit.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #aufwärmen
 ```
@@ -13962,9 +13461,8 @@ Mobilität, Aktivierung und progressiver Intensitätsaufbau. Gutes Aufwärmen er
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -13976,8 +13474,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento non stanca: prepara.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #riscaldamento
 ```
@@ -13989,9 +13487,8 @@ Mobilità, attivazione e aumento progressivo del ritmo. Un buon riscaldamento no
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -14003,8 +13500,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não cansa: prepara.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #aquecimento
 ```
@@ -14016,9 +13513,8 @@ Mobilidade, ativação e subida progressiva de ritmo. Um bom aquecimento não ca
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -14030,8 +13526,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwarming vermoeit niet — die maakt scherp.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #opwarming
 ```
@@ -14048,9 +13544,8 @@ Mobiliteit, activatie en een geleidelijke opbouw van intensiteit. Een goede opwa
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -14062,8 +13557,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad
 ```
@@ -14075,9 +13570,8 @@ Salidas, zancada y máxima intensidad en distancias cortas, como en el partido.
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -14089,8 +13583,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Starts, stride and maximum intensity over short distances — just like in the match.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed
 ```
@@ -14102,9 +13596,8 @@ Starts, stride and maximum intensity over short distances — just like in the m
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -14116,8 +13609,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im Spiel.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit
 ```
@@ -14129,9 +13622,8 @@ Antritte, Schrittlänge und maximale Intensität auf kurzen Distanzen — wie im
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -14143,8 +13635,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità
 ```
@@ -14156,9 +13648,8 @@ Partenze, falcata e massima intensità su distanze brevi, come in partita.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -14170,8 +13661,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade
 ```
@@ -14183,9 +13674,8 @@ Arrancadas, passada e máxima intensidade em distâncias curtas, como no jogo.
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -14197,8 +13687,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als in de wedstrijd.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid
 ```
@@ -14215,9 +13705,8 @@ Starts, pasfrequentie en maximale intensiteit over korte afstanden — net als i
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -14229,8 +13718,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Cambios de dirección a máxima intensidad, como en una transición real.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #velocidad #agilidad
 ```
@@ -14242,9 +13731,8 @@ Cambios de dirección a máxima intensidad, como en una transición real.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -14256,8 +13744,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Changes of direction at maximum intensity — like a real transition.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #speed #agility
 ```
@@ -14269,9 +13757,8 @@ Changes of direction at maximum intensity — like a real transition.
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -14283,8 +13770,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #schnelligkeit #agilität
 ```
@@ -14296,9 +13783,8 @@ Richtungswechsel bei maximaler Intensität — wie in einer echten Umschaltsitua
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -14310,8 +13796,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Cambi di direzione a massima intensità, come in una transizione vera.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #velocità #agilità
 ```
@@ -14323,9 +13809,8 @@ Cambi di direzione a massima intensità, come in una transizione vera.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -14337,8 +13822,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Mudanças de direção em máxima intensidade, como numa transição real.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #velocidade #agilidade
 ```
@@ -14350,9 +13835,8 @@ Mudanças de direção em máxima intensidade, como numa transição real.
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -14364,8 +13848,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #snelheid #wendbaarheid
 ```
@@ -14382,9 +13866,8 @@ Richtingsveranderingen op maximale intensiteit — als in een echte omschakeling
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -14396,8 +13879,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #reacción #velocidad
 ```
@@ -14409,9 +13892,8 @@ Estímulo visual y arranque inmediato: entrena lo que pasa en la primera décima
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -14423,8 +13905,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Visual cue, immediate start — train what happens in the first tenth of a second.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #reaction #speed
 ```
@@ -14436,9 +13918,8 @@ Visual cue, immediate start — train what happens in the first tenth of a secon
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -14450,8 +13931,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekunde passiert.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #reaktion #schnelligkeit
 ```
@@ -14463,9 +13944,8 @@ Optischer Reiz, sofortiger Antritt — trainiere, was in der ersten Zehntelsekun
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -14477,8 +13957,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #reazione #velocità
 ```
@@ -14490,9 +13970,8 @@ Stimolo visivo e scatto immediato: allena ciò che accade nel primo decimo.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -14504,8 +13983,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #reação #velocidade
 ```
@@ -14517,9 +13996,8 @@ Estímulo visual e arrancada imediata: treina o que acontece no primeiro décimo
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -14531,8 +14009,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebeurt.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #reactie #snelheid
 ```
@@ -14549,9 +14027,8 @@ Visuele prikkel, directe start — train wat er in de eerste tiende seconde gebe
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -14563,8 +14040,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide quién llega primero.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #vivacidad #agilidad
 ```
@@ -14576,9 +14053,8 @@ Apoyos cortos, cambio de dirección y salida inmediata: la chispa que decide qui
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -14590,8 +14066,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Short steps, change of direction and an immediate start — the spark that decides who gets there first.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #quickness #agility
 ```
@@ -14603,9 +14079,8 @@ Short steps, change of direction and an immediate start — the spark that decid
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -14617,8 +14092,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entscheidet, wer zuerst da ist.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #antritt #agilität
 ```
@@ -14630,9 +14105,8 @@ Kurze Schritte, Richtungswechsel und sofortiger Antritt — der Funke, der entsc
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -14644,8 +14118,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide chi arriva primo.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #vivacità #agilità
 ```
@@ -14657,9 +14131,8 @@ Appoggi corti, cambio di direzione e partenza immediata: la scintilla che decide
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -14671,8 +14144,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide quem chega primeiro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #vivacidade #agilidade
 ```
@@ -14684,9 +14157,8 @@ Apoios curtos, mudança de direção e arrancada imediata: a faísca que decide 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -14698,8 +14170,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Korte passen, richtingsverandering en een directe start — de vonk die bepaalt wie er als eerste is.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #snelheid
 ```
@@ -14716,9 +14188,8 @@ Korte passen, richtingsverandering en een directe start — de vonk die bepaalt 
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -14730,8 +14201,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad
 ```
@@ -14743,9 +14214,8 @@ Apoyos, frenada y reaceleración: la base para ganar el primer metro.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -14757,8 +14227,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Footwork, braking and re-acceleration — the base for winning the first metre.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility
 ```
@@ -14770,9 +14240,8 @@ Footwork, braking and re-acceleration — the base for winning the first metre.
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -14784,8 +14253,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten Meter zu gewinnen.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität
 ```
@@ -14797,9 +14266,8 @@ Schrittarbeit, Abbremsen und Wiederbeschleunigung — die Basis, um den ersten M
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -14811,8 +14279,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità
 ```
@@ -14824,9 +14292,8 @@ Appoggi, frenata e riaccelerazione: la base per vincere il primo metro.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -14838,8 +14305,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade
 ```
@@ -14851,9 +14318,8 @@ Apoios, frenagem e reaceleração: a base para ganhar o primeiro metro.
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -14865,8 +14331,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te winnen.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid
 ```
@@ -14883,9 +14349,8 @@ Voetenwerk, afremmen en opnieuw versnellen — de basis om de eerste meter te wi
 
 Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
@@ -14897,8 +14362,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de juego.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #agilidad #reacción
 ```
@@ -14910,9 +14375,8 @@ Apoyos rápidos y respuesta inmediata: agilidad aplicada a la situación de jueg
 
 Quick footwork and immediate response — agility applied to a game situation.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #agility #reaction
 ```
@@ -14924,8 +14388,8 @@ Quick footwork and immediate response — agility applied to a game situation.
 
 Quick footwork and immediate response — agility applied to a game situation.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #agility #reaction
 ```
@@ -14937,9 +14401,8 @@ Quick footwork and immediate response — agility applied to a game situation.
 
 Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #agilität #reaktion
 ```
@@ -14951,8 +14414,8 @@ Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
 Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #agilität #reaktion
 ```
@@ -14964,9 +14427,8 @@ Schnelle Schritte und sofortige Reaktion — Agilität in der Spielsituation.
 
 Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #agilità #reazione
 ```
@@ -14978,8 +14440,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #agilità #reazione
 ```
@@ -14991,9 +14453,8 @@ Appoggi rapidi e risposta immediata: agilità applicata alla situazione di gioco
 
 Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #agilidade #reação
 ```
@@ -15005,8 +14466,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #agilidade #reação
 ```
@@ -15018,9 +14479,8 @@ Apoios rápidos e resposta imediata: agilidade aplicada à situação de jogo.
 
 Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
@@ -15032,8 +14492,8 @@ Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
 Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #wendbaarheid #reactie
 ```
@@ -15050,9 +14510,8 @@ Snelle voeten en directe respons — wendbaarheid in de spelsituatie.
 
 Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-🎁 Te regalo 50 EJERCICIOS en PDF
-Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
-👉 Descarga gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
@@ -15064,8 +14523,8 @@ Esquemas 3D, listos para imprimir y aplicar en tu próxima sesión.
 
 Espacio corto y oposición real: intensidad, decisión y competición en cada acción.
 
-🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS
-👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio
+➕ Sígueme para un ejercicio nuevo cada día.
+📘 La Guía de los jóvenes futbolistas está en la bio.
 
 #preparaciónfísica #fútbol #entrenamiento #juegoreducido
 ```
@@ -15077,9 +14536,8 @@ Espacio corto y oposición real: intensidad, decisión y competición en cada ac
 
 Tight space and real opposition — intensity, decision-making and competition in every action.
 
-🎁 I’m giving you 50 EXERCISES in PDF
-3D diagrams, ready to print and use in your next session.
-👉 Free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.
 
 #physicaltraining #football #soccer #smallsidedgames
 ```
@@ -15091,8 +14549,8 @@ Tight space and real opposition — intensity, decision-making and competition i
 
 Tight space and real opposition — intensity, decision-making and competition in every action.
 
-🎁 I’m giving you the YOUNG PLAYERS GUIDE
-👉 Instant free download at ppf11.com/en — link in bio
+➕ Follow for a new drill every day.
+📘 The Young Players Guide is in the bio.
 
 #physicaltraining #football #soccer #smallsidedgames
 ```
@@ -15104,9 +14562,8 @@ Tight space and real opposition — intensity, decision-making and competition i
 
 Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-🎁 Ich schenke dir 50 ÜBUNGEN als PDF
-3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.
-👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.
 
 #athletiktraining #fußball #training #kleinfeldspiel
 ```
@@ -15118,8 +14575,8 @@ Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in je
 
 Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in jeder Aktion.
 
-🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER
-👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio
+➕ Folge mir für jeden Tag eine neue Übung.
+📘 Den Leitfaden für junge Fußballer findest du in der Bio.
 
 #athletiktraining #fußball #training #kleinfeldspiel
 ```
@@ -15131,9 +14588,8 @@ Enger Raum und echter Gegner — Intensität, Entscheidungen und Wettkampf in je
 
 Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
 
-🎁 Ti regalo 50 ESERCIZI in PDF
-Schemi 3D, pronti da stampare e usare nella prossima seduta.
-👉 Scarica gratis su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.
 
 #preparazionefisica #calcio #allenamento #partiteatema
 ```
@@ -15145,8 +14601,8 @@ Schemi 3D, pronti da stampare e usare nella prossima seduta.
 
 Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni azione.
 
-🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI
-👉 Download immediato e gratuito su ppf11.com/it — link in bio
+➕ Seguimi per un nuovo esercizio ogni giorno.
+📘 La Guida dei giovani calciatori è nella bio.
 
 #preparazionefisica #calcio #allenamento #partiteatema
 ```
@@ -15158,9 +14614,8 @@ Spazio stretto e opposizione reale: intensità, scelte e competizione in ogni az
 
 Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
 
-🎁 Ganhe 50 EXERCÍCIOS em PDF
-Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
-👉 Baixe grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.
 
 #preparaçãofísica #futebol #treino #jogoreduzido
 ```
@@ -15172,8 +14627,8 @@ Esquemas 3D, prontos para imprimir e aplicar no seu próximo treino.
 
 Espaço curto e oposição real: intensidade, decisão e competição em cada ação.
 
-🎁 Ganhe o GUIA DOS JOVENS JOGADORES
-👉 Download imediato e grátis em ppf11.com/pt — link na bio
+➕ Me siga para um novo exercício todo dia.
+📘 O Guia dos jovens jogadores está na bio.
 
 #preparaçãofísica #futebol #treino #jogoreduzido
 ```
@@ -15185,9 +14640,8 @@ Espaço curto e oposição real: intensidade, decisão e competição em cada a�
 
 Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
 
-🎁 Ik geef je 50 OEFENINGEN in PDF
-3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.
-👉 Gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.
 
 #fysieketraining #voetbal #training #partijspel
 ```
@@ -15199,8 +14653,8 @@ Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke 
 
 Kleine ruimte en echte tegenstand — intensiteit, keuzes en competitie in elke actie.
 
-🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS
-👉 Direct en gratis downloaden op ppf11.com/nl — link in bio
+➕ Volg me voor elke dag een nieuwe oefening.
+📘 De Gids voor jonge voetballers vind je in de bio.
 
 #fysieketraining #voetbal #training #partijspel
 ```

@@ -1,10 +1,11 @@
 // Genera config/reels.json (datos para el pipeline) + content/reels/REELS_LIST.md (lista legible)
 // a partir de los reels franceses (31 de la 1a tanda + 60 de la 2a), en los 6 idiomas (NO fr).
 //
-// Caption = gancho con beneficio + linea de valor (que trabaja el ejercicio) + CTA de CONVERSION + hashtags.
+// Caption = gancho con beneficio + linea de valor (que trabaja el ejercicio) + CTA (seguir + recurso en la bio) + hashtags.
 // DOS VERSIONES por reel e idioma:
-//   A -> regalo "50 ejercicios" (PDF, esquemas 3D)
-//   B -> regalo "guia de los jovenes futbolistas"
+//   A -> recurso "50 ejercicios" (PDF, esquemas 3D)
+//   B -> recurso "guia de los jovenes futbolistas"
+// Ninguna usa "regalo/gratis": ver nota en CTA mas abajo.
 // publish_reels.py alterna A/B segun las veces que ese reel ya se publico, asi que
 // al republicarse (ciclo 2+) el caption NO es identico (mejor para Meta y para quien ya lo vio).
 const fs = require('fs');
@@ -269,24 +270,48 @@ const COPY = {
   },
 };
 
-// ── CTA A: regalo "50 ejercicios" (PDF + esquemas 3D + aplicable ya) ──
-const CTA_A = {
-  es: '🎁 Te regalo 50 EJERCICIOS en PDF\nEsquemas 3D, listos para imprimir y aplicar en tu próxima sesión.\n👉 Descarga gratis en ppf11.com/es — enlace en la bio',
-  en: '🎁 I’m giving you 50 EXERCISES in PDF\n3D diagrams, ready to print and use in your next session.\n👉 Free download at ppf11.com/en — link in bio',
-  de: '🎁 Ich schenke dir 50 ÜBUNGEN als PDF\n3D-Grafiken, direkt zum Ausdrucken und Einsetzen in der nächsten Einheit.\n👉 Gratis herunterladen auf ppf11.com/de — Link in der Bio',
-  it: '🎁 Ti regalo 50 ESERCIZI in PDF\nSchemi 3D, pronti da stampare e usare nella prossima seduta.\n👉 Scarica gratis su ppf11.com/it — link in bio',
-  pt: '🎁 Ganhe 50 EXERCÍCIOS em PDF\nEsquemas 3D, prontos para imprimir e aplicar no seu próximo treino.\n👉 Baixe grátis em ppf11.com/pt — link na bio',
-  nl: '🎁 Ik geef je 50 OEFENINGEN in PDF\n3D-schema’s, klaar om te printen en direct te gebruiken in je volgende training.\n👉 Gratis downloaden op ppf11.com/nl — link in bio',
+// ── CTA: SIN marco "regalo/gratis/descarga" (02-10-2026) ──
+// El patron "te regalo X + gratis + enlace en la bio" repetido a diario es el que Meta
+// sanciono en la cuenta es (restriccion de enlaces 25/08 -> 24/09/2026). Ademas el reel
+// viral de @ppf11.en (24/09, 2,85M de alcance) solo dejo ~1.470 seguidores: el caption
+// no pedia seguir. Ahora: 1a linea = seguir la cuenta; 2a = mencion suave del recurso.
+const FOLLOW = {
+  es: '➕ Sígueme para un ejercicio nuevo cada día.',
+  en: '➕ Follow for a new drill every day.',
+  de: '➕ Folge mir für jeden Tag eine neue Übung.',
+  it: '➕ Seguimi per un nuovo esercizio ogni giorno.',
+  pt: '➕ Me siga para um novo exercício todo dia.',
+  nl: '➕ Volg me voor elke dag een nieuwe oefening.',
 };
 
-// ── CTA B: regalo "guia de los jovenes futbolistas" ──
-const CTA_B = {
-  es: '🎁 Te regalo la GUÍA DE LOS JÓVENES FUTBOLISTAS\n👉 Descarga inmediata y gratis en ppf11.com/es — enlace en la bio',
-  en: '🎁 I’m giving you the YOUNG PLAYERS GUIDE\n👉 Instant free download at ppf11.com/en — link in bio',
-  de: '🎁 Ich schenke dir den LEITFADEN FÜR JUNGE FUSSBALLER\n👉 Sofort und gratis herunterladen auf ppf11.com/de — Link in der Bio',
-  it: '🎁 Ti regalo la GUIDA DEI GIOVANI CALCIATORI\n👉 Download immediato e gratuito su ppf11.com/it — link in bio',
-  pt: '🎁 Ganhe o GUIA DOS JOVENS JOGADORES\n👉 Download imediato e grátis em ppf11.com/pt — link na bio',
-  nl: '🎁 Ik geef je de GIDS VOOR JONGE VOETBALLERS\n👉 Direct en gratis downloaden op ppf11.com/nl — link in bio',
+// ── CTA A: recurso "50 ejercicios" (PDF + esquemas 3D) ──
+const RES_A = {
+  es: '📄 50 ejercicios en PDF con esquemas 3D, listos para imprimir: enlace en la bio.',
+  en: '📄 50 drills in PDF with 3D diagrams, ready to print — link in bio.',
+  de: '📄 50 Übungen als PDF mit 3D-Grafiken, direkt zum Ausdrucken — Link in der Bio.',
+  it: '📄 50 esercizi in PDF con schemi 3D, pronti da stampare: link in bio.',
+  pt: '📄 50 exercícios em PDF com esquemas 3D, prontos para imprimir: link na bio.',
+  nl: '📄 50 oefeningen in PDF met 3D-schema’s, klaar om te printen — link in bio.',
+};
+
+// ── CTA B: recurso "guia de los jovenes futbolistas" ──
+const RES_B = {
+  es: '📘 La Guía de los jóvenes futbolistas está en la bio.',
+  en: '📘 The Young Players Guide is in the bio.',
+  de: '📘 Den Leitfaden für junge Fußballer findest du in der Bio.',
+  it: '📘 La Guida dei giovani calciatori è nella bio.',
+  pt: '📘 O Guia dos jovens jogadores está na bio.',
+  nl: '📘 De Gids voor jonge voetballers vind je in de bio.',
+};
+const cta = res => Object.fromEntries(LANGS.map(l => [l, `${FOLLOW[l]}\n${res[l]}`]));
+const CTA_A = cta(RES_A);
+const CTA_B = cta(RES_B);
+
+// ── Prioridad por idioma: reels que ESE idioma publica ANTES que el de la rotacion ──
+// (una sola vez cada uno; publish_reels.py lo apunta en state "reels:priority_done:<lang>").
+// es: el #55 fue viral en @ppf11.en el 24/09 mientras es estaba pausada -> nunca salio ahi.
+const PRIORITY = {
+  es: ['1167350848596596'],
 };
 
 // ── Hashtags: base por idioma + 1 etiqueta del tema (relevante, no siempre las mismas) ──
@@ -332,15 +357,16 @@ const out = REELS.map(r => {
     theme_fr: r.theme,
     duplicate_of: r.dup || null,
     titles,
-    captions: capsA,    // version A (regalo: 50 ejercicios) — la que usa el ciclo 1
-    captions_b: capsB,  // version B (regalo: guia jovenes) — al republicarse
+    captions: capsA,    // version A (50 ejercicios) — la que usa el ciclo 1
+    captions_b: capsB,  // version B (guia jovenes) — al republicarse
   };
 });
 fs.mkdirSync(path.join(ROOT, 'content', 'reels'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'config', 'reels.json'),
   JSON.stringify({
-    _comment: 'Reels FR de PPF11 a re-publicar en IG+FB de los 6 idiomas (es/en/de/it/pt/nl). NO frances. Caption = gancho + linea de valor + CTA de conversion + hashtags. DOS versiones: captions (A: regalo 50 ejercicios) y captions_b (B: regalo guia jovenes); publish_reels.py alterna segun las veces publicado, asi el repost no es identico.',
+    _comment: 'Reels FR de PPF11 a re-publicar en IG+FB de los 6 idiomas (es/en/de/it/pt/nl). NO frances. Caption = gancho + linea de valor + CTA (seguir + recurso en la bio, sin regalo/gratis) + hashtags. DOS versiones: captions (A: 50 ejercicios) y captions_b (B: guia jovenes); publish_reels.py alterna segun las veces publicado, asi el repost no es identico. priority = reels que un idioma publica antes que la rotacion (una vez).',
     supabase: { bucket: 'videos', folder: 'reels' },
+    priority: PRIORITY,
     langs: LANGS,
     count: out.length,
     unique: out.filter(r => !r.duplicate_of).length,
@@ -352,8 +378,8 @@ const LNAME = { es: '🇪🇸 Español', en: '🇬🇧 English', de: '🇩🇪 D
 let md = `# Reels PPF11 — lista traducida (6 idiomas)\n\n`;
 md += `Reels franceses a re-publicar en **Instagram + Facebook** de los 6 idiomas (es/en/de/it/pt/nl). **Francés no se toca.**\n\n`;
 md += `Cada reel tiene **dos versiones de caption** (gancho + línea de valor + CTA + hashtags):\n`;
-md += `- **A** — regalo: 50 ejercicios en PDF (esquemas 3D). Es la que sale la primera vez.\n`;
-md += `- **B** — regalo: guía de los jóvenes futbolistas. Sale cuando el reel se republica.\n\n`;
+md += `- **A** — 50 ejercicios en PDF (esquemas 3D). Es la que sale la primera vez.\n`;
+md += `- **B** — guía de los jóvenes futbolistas. Sale cuando el reel se republica.\n\n`;
 md += `Total: ${out.length} reels (${out.filter(r=>r.duplicate_of).length} duplicado marcado).\n\n---\n\n`;
 for (const r of out) {
   md += `## Reel ${r.n} — ${r.theme_fr}${r.duplicate_of ? ` — ⚠️ DUPLICADO del #${r.duplicate_of}` : ''}\n`;

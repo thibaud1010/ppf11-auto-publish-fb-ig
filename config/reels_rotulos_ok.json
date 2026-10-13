@@ -1,0 +1,4 @@
+{
+  "_comment": "Rotulos VALIDADOS por la usuaria. Un reel solo sale con rotulo (flag reels_variant) si su reel_id esta en la lista de ese idioma; si no, sale el video original. El texto del rotulo es titles[idioma] de config/reels.json.",
+  "es": []
+}

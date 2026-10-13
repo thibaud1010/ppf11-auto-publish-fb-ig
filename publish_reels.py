@@ -186,6 +186,9 @@ def main():
             print(f"[REELS][{lang}] AVISO variante falló, sale el original: {e}")
             return None
 
+    with open(os.path.join(os.path.dirname(CONFIG), "reels_rotulos_ok.json"), encoding="utf-8") as f:
+        rotulos_ok = json.load(f)
+
     ok, fail = 0, 0   # ok cuenta solo el reel de la ROTACION (el que avanza el estado)
     for l in langs:
         cfg = accounts[l]
@@ -193,7 +196,10 @@ def main():
         reel_l = prio[l] if es_prio else reel
         caption = pick_caption(reel_l, l, 0 if es_prio else veces)
         public_url = video_url(reel_l)
-        variant = bool(cfg.get("reels_variant")) and variant_url(reel_l, l)
+        # el rótulo solo sale si la usuaria lo validó (config/reels_rotulos_ok.json)
+        variant = (bool(cfg.get("reels_variant"))
+                   and reel_l["reel_id"] in rotulos_ok.get(l, [])
+                   and variant_url(reel_l, l))
         if variant:
             public_url = variant
         # Instagram Reel

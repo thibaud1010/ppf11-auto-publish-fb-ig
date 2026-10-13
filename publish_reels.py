@@ -13,6 +13,7 @@ Uso:
   python publish_reels.py --publish --only es
 """
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -198,13 +199,14 @@ def main():
             urls[r["reel_id"]] = url
         return urls[r["reel_id"]]
 
-    def variant_url(r, lang):
+    def variant_url(r, lang, text):
         # PRUEBA rótulo (flag "reels_variant" en accounts.json): archivo PROPIO de la
         # cuenta = lienzo vertical + título del reel en su idioma (src/reels_variant.py).
         # Se cachea en el bucket; si algo falla devuelve None y sale el vídeo original.
         base = video_url(r)
         filename = ((folder + "/" if folder else "")
-                    + f"reel_{r['reel_id']}_{lang}_{rv.STYLE}.mp4")
+                    + f"reel_{r['reel_id']}_{lang}_{rv.STYLE}_"
+                    + hashlib.sha1(text.encode()).hexdigest()[:8] + ".mp4")   # texto nuevo -> archivo nuevo
         url = f"{sb_url}/storage/v1/object/public/{bucket}/{filename}"
         try:
             if requests.get(url, stream=True, timeout=30).status_code == 200:
@@ -217,7 +219,7 @@ def main():
                     for chunk in d.iter_content(1 << 20):
                         f.write(chunk)
             out = rv.build_variant(src, os.path.join(tmp, f"reel_{r['reel_id']}_{lang}.mp4"),
-                                   r["titles"][lang])
+                                   text)
             url = rp.supabase_upload(out, bucket, filename, sb_url, sb_key)
             print(f"[REELS][{lang}] variante con rótulo: {url}")
             return url
@@ -243,9 +245,8 @@ def main():
         st.mark_done(done_key)   # ANTES de publicar: pase lo que pase, hoy no se reintenta
         public_url = video_url(reel_l)
         # el rótulo solo sale si la usuaria lo validó (config/reels_rotulos_ok.json)
-        variant = (bool(cfg.get("reels_variant"))
-                   and reel_l["titles"][l] in rotulos_ok.get(l, [])
-                   and variant_url(reel_l, l))
+        rotulo = rotulos_ok.get(l, {}).get(reel_l["titles"][l])
+        variant = bool(cfg.get("reels_variant")) and rotulo and variant_url(reel_l, l, rotulo)
         if variant:
             public_url = variant
         # Instagram Reel

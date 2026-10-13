@@ -1,4 +1,16 @@
 {
-  "_comment": "Rotulos VALIDADOS por la usuaria. Un reel solo sale con rotulo (flag reels_variant) si su titulo (titles[idioma], texto exacto) esta en la lista de ese idioma; si no, sale el video original. El texto del rotulo es titles[idioma] de config/reels.json.",
-  "es": []
+  "_comment": "Rotulos VALIDADOS por la usuaria (13-10-2026). Por idioma: titulo del reel (titles[idioma] de config/reels.json, texto exacto) -> texto del rotulo ('Tema: gancho'; el tema sale en mayusculas). Un reel solo sale con rotulo (flag reels_variant) si su titulo esta aqui; si no, sale el video original.",
+  "es": {
+    "⚽ Calentamiento: llegar al primer duelo a tope": "Calentamiento: activa el cuerpo antes del balón",
+    "⚽ Agilidad: cambiar de dirección sin perder velocidad": "Agilidad: cambiar de dirección sin perder velocidad",
+    "⚽ Juego reducido: duelos que se parecen al partido": "Juego reducido: duelos que se parecen al partido",
+    "⚽ Velocidad: ganar el metro que decide la jugada": "Velocidad: llega antes que tu rival",
+    "⚽ Reacción y core: salir fuerte desde cualquier posición": "Reacción y core: salir fuerte desde cualquier posición",
+    "⚽ Velocidad de reacción: el primer paso lo decide todo": "Velocidad de reacción: el primer paso lo decide todo",
+    "⚽ Coordinación: pies rápidos, cuerpo bajo control": "Coordinación: pies rápidos, cuerpo bajo control",
+    "⚽ Velocidad y agilidad: acelerar, frenar y volver a salir": "Velocidad y agilidad: acelerar, frenar y volver a salir",
+    "⚽ Agilidad y reacción: leer el estímulo y salir ya": "Agilidad y reacción: leer el estímulo y salir ya",
+    "⚽ Calentamiento con agilidad: activar y despertar la viveza": "Calentamiento ágil: activa piernas y reflejos",
+    "⚽ Vivacidad y agilidad: llegar antes al balón dividido": "Vivacidad y agilidad: llegar antes al balón dividido"
+  }
 }

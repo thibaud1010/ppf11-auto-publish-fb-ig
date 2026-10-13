@@ -1,0 +1,7 @@
+{
+  "_comment": "Horarios de publicacion. Cada dia, cada cuenta publica a una hora AL AZAR dentro de la franja [hora, hora + window_minutes], distinta por dia, idioma y tipo de post (src/schedule.py). Las horas son LOCALES de la zona 'tz' de cada idioma. 'default' vale para los idiomas que no tienen bloque propio. grace_minutes = margen para publicar si el disparo llega tarde; pasado ese margen la franja se pierde (no se publica a deshoras).",
+  "window_minutes": 45,
+  "grace_minutes": 120,
+  "default": { "tz": "Europe/Paris", "morning": "07:00", "midday": "12:00", "evening": "18:00" },
+  "es": { "tz": "America/Bogota", "morning": "07:00", "midday": "13:00", "evening": "20:00" }
+}

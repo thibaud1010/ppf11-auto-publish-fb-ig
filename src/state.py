@@ -30,7 +30,10 @@ def log_history(record):
         f.write(line + "\n")
 
 
-# ---- idempotencia: publicar una sola vez por franja y dia (hora de Paris) ----
+# ---- idempotencia: publicar una sola vez por franja y dia ----
+KEEP_MARKS = 600   # marcas por idioma: ~6 idiomas x 5 posts/dia x 20 dias
+
+
 def paris_now():
     try:
         from zoneinfo import ZoneInfo
@@ -58,10 +61,22 @@ def already_published(slot):
 def mark_published(slot):
     data = _published_load()
     data[f"{paris_now().strftime('%Y-%m-%d')}:{slot}"] = True
-    # conserva solo las ultimas ~40 marcas
-    if len(data) > 40:
-        for k in sorted(data)[:-40]:
-            del data[k]
+    for k in sorted(data)[:-KEEP_MARKS]:
+        del data[k]
+    _published_path().write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def is_done(key):
+    return _published_load().get(key) is True
+
+
+def mark_done(key):
+    """Marca `key` como hecho. Se marca tambien cuando el intento FALLA: no se
+    reintenta ese dia (un post creado cuya respuesta se pierde no se duplica)."""
+    data = _published_load()
+    data[key] = True
+    for k in sorted(data)[:-KEEP_MARKS]:
+        del data[k]
     _published_path().write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 

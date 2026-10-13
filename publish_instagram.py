@@ -12,6 +12,7 @@ import sys
 from src.config import FB_HOST, IG_LOGIN_HOST, get_token, load_accounts, load_templates
 from src.content import load_items, render_caption
 from src.instagram import publish
+from src import schedule as sch
 from src import state as st
 
 KIND = "exercises"
@@ -24,12 +25,6 @@ def main():
     parser.add_argument("--only", help="publicar solo este idioma (p.ej. es)")
     parser.add_argument("--force", action="store_true", help="publicar aunque ya se hiciera esta franja hoy")
     args = parser.parse_args()
-
-    # franja segun la hora de Paris: mañana (<13h) o tarde
-    slot = "ig:morning" if st.paris_now().hour < 13 else "ig:evening"
-    if not args.dry_run and not args.force and st.already_published(slot):
-        print(f"[IG] {slot} ya publicado hoy (Paris); se omite (idempotencia).")
-        return
 
     accounts = load_accounts()
     templates = load_templates()
@@ -46,6 +41,15 @@ def main():
         ig = cfg.get("instagram")
         if not ig:
             continue
+        # ¿le toca a este idioma AHORA? (mañana o tarde; hora al azar dentro de su
+        # franja, 1 vez por franja y dia — ver src/schedule.py)
+        done_key = None
+        if args.force:
+            done_key = sch.nearest(lang, ("ig:morning", "ig:evening"))
+        elif not args.dry_run:
+            done_key = sch.due(lang, "ig:morning") or sch.due(lang, "ig:evening")
+            if not done_key:
+                continue
         # TODO el trabajo del idioma va dentro de UN solo try. Antes, cargar el CSV
         # (load_items), pick_next o preparar el caption quedaban FUERA del try: si
         # cualquiera de esos petaba, el script se cortaba ANTES de save_state() y el
@@ -77,6 +81,7 @@ def main():
                 st.mark_posted(state, key, item["image_url"])
                 ok += 1
                 continue
+            st.mark_done(done_key)   # ANTES de publicar: pase lo que pase, hoy no se reintenta
             # SISTEMA MIXTO: host + token segun instagram.mode de accounts.json
             mode = ig.get("mode", "page")
             if mode == "login":  # en/it/de/pt: Instagram Login
@@ -101,8 +106,6 @@ def main():
     # OJO: en dry-run NO se persiste (una simulacion adelantaba la rotacion real).
     if not args.dry_run:
         st.save_state(state)
-    if ok and not args.dry_run:
-        st.mark_published(slot)
     print(f"[IG] terminado ok={ok} fail={fail}")
     sys.exit(1 if fail else 0)
 

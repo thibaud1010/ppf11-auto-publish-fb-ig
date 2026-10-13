@@ -21,6 +21,7 @@ import tempfile
 import requests
 
 from src.config import FB_HOST, IG_LOGIN_HOST, get_token, load_accounts
+from src import schedule as sch
 from src import state as st
 from src import reels_publish as rp
 from src import reels_variant as rv
@@ -29,6 +30,7 @@ CONFIG = os.path.join(os.path.dirname(__file__), "config", "reels.json")
 STATE_KEY = "reels:posted"    # lista de reel_id por RECENCIA (rotación sin repetir)
 STATE_COUNT = "reels:count"   # {reel_id: veces publicado} -> alterna caption A/B
 STATE_PRIO = "reels:priority_done:"  # + idioma: reels de prioridad ya publicados ahi
+STATE_DAY = "reels:day"       # lista "dia=reel_id=veces": el reel de cada dia (ver reel_of_day)
 
 
 def pick_caption(reel, lang, veces):
@@ -97,42 +99,79 @@ def pick_next_reel(reels, posted):
     return orden[0]
 
 
+def reel_of_day(reels, state, day):
+    """(reel, veces) del dia `day`. El PRIMER idioma al que le toca ese dia elige el
+    reel y avanza la rotacion; los demas idiomas (que publican a otra hora, en otro
+    disparo) reutilizan el mismo. `veces` = publicaciones previas -> caption A/B.
+
+    Se guarda como TEXTO "dia=reel_id=veces" en una lista: tools/merge_state.js
+    fusiona listas por union y los ids no caben en un Number de JS.
+    """
+    for entry in state.get(STATE_DAY, []):
+        d, rid, veces = entry.split("=")
+        if d == day:
+            reel = next((r for r in reels if r["reel_id"] == rid), None)
+            if reel:
+                return reel, int(veces)
+    posted = state.get(STATE_KEY, [])
+    reel = pick_next_reel(reels, posted)
+    if not reel:
+        return None, 0
+    cuenta = state.get(STATE_COUNT, {})
+    veces = cuenta.get(reel["reel_id"], 0)
+    # quitar-y-anadir: 'posted' queda ordenado por RECENCIA (el mas antiguo
+    # primero), que es lo que usa pick_next_reel para rotar sin repetir.
+    state[STATE_KEY] = ([x for x in posted if x != reel["reel_id"]] + [reel["reel_id"]])[-200:]
+    cuenta[reel["reel_id"]] = veces + 1   # la proxima vez sale la OTRA version del caption
+    state[STATE_COUNT] = cuenta
+    state[STATE_DAY] = (state.get(STATE_DAY, []) + [f"{day}={reel['reel_id']}={veces}"])[-10:]
+    st.save_state(state)
+    return reel, veces
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--publish", action="store_true", help="publicar de verdad (por defecto dry-run)")
     ap.add_argument("--only", help="solo este idioma")
+    ap.add_argument("--force", action="store_true", help="publicar ya, sin esperar la hora de cada idioma")
     args = ap.parse_args()
     dry = not args.publish
 
     reels = load_reels()
     state = st.load_state()
-    posted = state.get(STATE_KEY, [])
-    reel = pick_next_reel(reels, posted)
-    if not reel:
-        print("[REELS] no hay reels en config/reels.json"); return
-
     accounts = load_accounts()["languages"]
     langs = [l for l in ["es", "en", "de", "it", "pt", "nl"]
              if accounts.get(l, {}).get("enabled", True) and (not args.only or l == args.only)]
-
-    veces = state.get(STATE_COUNT, {}).get(reel["reel_id"], 0)
     priority = load_priority()
-    prio = {l: pick_priority(reels, priority, state, l) for l in langs}
-    prio = {l: r for l, r in prio.items() if r}
-    version = "B (guia jovenes)" if veces % 2 else "A (50 ejercicios)"
-
-    print(f"[REELS] siguiente: #{reel['n']} {reel['fb_url']} (tema {reel['theme_fr']})")
-    print(f"[REELS] publicado {veces} vez/veces antes -> caption version {version}")
-    print(f"[REELS] idiomas: {', '.join(langs)}  | modo: {'DRY-RUN' if dry else 'PUBLICAR'}")
-    for l, r in prio.items():
-        print(f"[REELS] prioridad {l}: #{r['n']} (tema {r['theme_fr']}) en lugar del de la rotacion")
 
     if dry:
+        reel = pick_next_reel(reels, state.get(STATE_KEY, []))
+        if not reel:
+            print("[REELS] no hay reels en config/reels.json"); return
+        veces = state.get(STATE_COUNT, {}).get(reel["reel_id"], 0)
+        print(f"[REELS] siguiente: #{reel['n']} {reel['fb_url']} (tema {reel['theme_fr']})")
+        print(f"[REELS] publicado {veces} vez/veces antes -> caption version "
+              f"{'B (guia jovenes)' if veces % 2 else 'A (50 ejercicios)'}")
         for l in langs:
-            cap = pick_caption(prio[l], l, 0) if l in prio else pick_caption(reel, l, veces)
-            print(f"\n----- {l} -----\n{cap}")
-        print("\n[REELS] DRY-RUN: no se publica nada. Usa --publish (con secretos) para lanzar.")
+            r = pick_priority(reels, priority, state, l)
+            when = sch.planned(l, "reels")[1]
+            extra = f", PRIORIDAD #{r['n']}" if r else ""
+            print()
+            print(f"----- {l} (hoy a las {when:%H:%M} hora local{extra}) -----")
+            print(pick_caption(r, l, 0) if r else pick_caption(reel, l, veces))
+        print()
+        print("[REELS] DRY-RUN: no se publica nada. Usa --publish (con secretos) para lanzar.")
         return
+
+    # ¿a que idiomas les toca AHORA? (hora al azar dentro de su franja, 1 vez/dia)
+    todo = {}
+    for l in langs:
+        key = sch.planned(l, "reels")[0] if args.force else sch.due(l, "reels")
+        if key:
+            todo[l] = key
+    if not todo:
+        print("[REELS] a ningun idioma le toca ahora."); return
+    print(f"[REELS] idiomas a los que les toca: {', '.join(todo)}")
 
     # ---- publicación real (WIP: validar) ----
     sb_url = os.environ["SUPABASE_URL"].rstrip("/")
@@ -190,11 +229,18 @@ def main():
         rotulos_ok = json.load(f)
 
     ok, fail = 0, 0   # ok cuenta solo el reel de la ROTACION (el que avanza el estado)
-    for l in langs:
+    for l, done_key in todo.items():
         cfg = accounts[l]
-        es_prio = l in prio
-        reel_l = prio[l] if es_prio else reel
+        reel, veces = reel_of_day(reels, state, done_key.split(":")[0])
+        if not reel:
+            print("[REELS] no hay reels en config/reels.json"); break
+        prio_reel = pick_priority(reels, priority, state, l)
+        es_prio = prio_reel is not None
+        reel_l = prio_reel if es_prio else reel
         caption = pick_caption(reel_l, l, 0 if es_prio else veces)
+        print(f"[REELS][{l}] reel #{reel_l['n']} (tema {reel_l['theme_fr']})"
+              f"{' PRIORIDAD' if es_prio else ''}")
+        st.mark_done(done_key)   # ANTES de publicar: pase lo que pase, hoy no se reintenta
         public_url = video_url(reel_l)
         # el rótulo solo sale si la usuaria lo validó (config/reels_rotulos_ok.json)
         variant = (bool(cfg.get("reels_variant"))
@@ -249,17 +295,6 @@ def main():
         else:
             print(f"[REELS][FB][{l}] omitido (crosspost nativo o cuenta sin flag)")
 
-    if ok:
-        # quitar-y-anadir: 'posted' queda ordenado por RECENCIA (el mas antiguo
-        # primero), que es lo que usa pick_next_reel para rotar sin repetir.
-        posted = [x for x in posted if x != reel["reel_id"]]
-        posted.append(reel["reel_id"])
-        state[STATE_KEY] = posted[-200:]
-        # veces publicado -> la proxima vez sale la OTRA version del caption
-        cuenta = state.get(STATE_COUNT, {})
-        cuenta[reel["reel_id"]] = veces + 1
-        state[STATE_COUNT] = cuenta
-        st.save_state(state)
     # el vídeo se queda en el bucket (sembrado, se reutiliza en la rotación).
     print(f"[REELS] terminado ok={ok} fail={fail}")
     sys.exit(1 if fail and not ok else 0)

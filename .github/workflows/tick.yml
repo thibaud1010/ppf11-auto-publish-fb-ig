@@ -1,0 +1,82 @@
+name: Tick - publicar lo que toca (hora al azar por idioma)
+
+# DISPARADOR PRINCIPAL desde 2026-10-13. Cada ~10 min mira a que cuentas les toca
+# publicar AHORA y publica solo esas. La hora de cada cuenta cae al azar dentro de
+# su franja y cambia cada dia (config/schedule.json + src/schedule.py); `es` va en
+# hora de Bogota, el resto en hora de Paris.
+#
+# No duplica aunque se dispare mil veces: cada post se marca por dia+tipo+idioma
+# en state/published.json ANTES de publicarse, y los disparos corren en serie
+# (mismo grupo de concurrencia que los demas workflows).
+#
+# Los workflows antiguos (instagram / facebook-* / reels) siguen valiendo para
+# lanzar a mano y como disparo extra de cron-job.org: usan la misma logica.
+on:
+  schedule:
+    - cron: "4-59/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    concurrency: publish-state
+    steps:
+      - uses: actions/checkout@v4
+      - name: Partir del estado mas reciente
+        run: git fetch origin main && git reset --hard origin/main
+      - name: Que toca ahora
+        id: due
+        run: python3 tools/due.py | tee -a "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        if: steps.due.outputs.any == 'true'
+        with:
+          python-version: "3.11"
+      - if: steps.due.outputs.any == 'true'
+        run: pip install -r requirements.txt
+      - name: FB articulo
+        if: ${{ !cancelled() && steps.due.outputs.fb_article == 'true' }}
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+        run: python publish_facebook.py --type article
+      - name: FB ejercicio
+        if: ${{ !cancelled() && steps.due.outputs.fb_exercise == 'true' }}
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+        run: python publish_facebook.py --type exercise
+      - name: IG ejercicio
+        if: ${{ !cancelled() && steps.due.outputs.ig == 'true' }}
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+        run: python publish_instagram.py
+      - name: ffmpeg (variante con rotulo, flag reels_variant)
+        if: ${{ !cancelled() && steps.due.outputs.reels == 'true' }}
+        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core)
+      - name: Reel del dia
+        if: ${{ !cancelled() && steps.due.outputs.reels == 'true' }}
+        env:
+          TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
+        run: python publish_reels.py --publish
+      - name: Guardar estado
+        if: ${{ always() && steps.due.outputs.any == 'true' }}
+        # Guardado por FUSION (tools/merge_state.js) — ver instagram.yml.
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          cp -r state /tmp/state_ours
+          for i in 1 2 3 4 5; do
+            git rebase --abort 2>/dev/null || true
+            git fetch origin main
+            git reset --hard origin/main
+            node tools/merge_state.js /tmp/state_ours state
+            git add state/
+            git commit -m "state: tick $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+            git push origin main && exit 0
+            echo "reintento push $i"; sleep 5
+          done
+          echo "push fallo" >&2; exit 1

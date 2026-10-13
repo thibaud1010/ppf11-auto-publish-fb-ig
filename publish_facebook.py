@@ -18,6 +18,7 @@ import requests
 from src.config import FB_HOST, get_token, load_accounts, load_templates
 from src.content import load_items, render_caption
 from src.facebook import publish_comment, publish_photo
+from src import schedule as sch
 from src import state as st
 
 KIND_BY_TYPE = {"article": "articles", "exercise": "exercises"}
@@ -99,10 +100,7 @@ def main():
     parser.add_argument("--force", action="store_true", help="publicar aunque ya se hiciera hoy")
     args = parser.parse_args()
 
-    slot = f"fb:{args.type}"
-    if not args.dry_run and not args.force and st.already_published(slot):
-        print(f"[FB] {slot} ya publicado hoy (Paris); se omite (idempotencia).")
-        return
+    post = f"fb:{args.type}"   # franja y hora de cada idioma: src/schedule.py
 
     kind = KIND_BY_TYPE[args.type]
     accounts = load_accounts()
@@ -121,6 +119,12 @@ def main():
         fb = cfg.get("facebook")
         if not fb:
             continue
+        # ¿le toca a este idioma AHORA? (hora al azar dentro de su franja, 1 vez/dia)
+        done_key = None
+        if not args.dry_run:
+            done_key = sch.planned(lang, post)[0] if args.force else sch.due(lang, post)
+            if not done_key:
+                continue
         # DESFASE anti-duplicados: no publicar las 7 paginas en el mismo minuto.
         if published_any and not args.dry_run:
             pause = random.uniform(*STAGGER_RANGE)
@@ -151,6 +155,7 @@ def main():
             st.mark_posted(state, key, item["image_url"])
             ok += 1
             continue
+        st.mark_done(done_key)   # ANTES de publicar: pase lo que pase, hoy no se reintenta
         hist = {"platform": "fb", "lang": lang, "type": args.type,
                 "title": item.get("title", ""), "url": item.get("url", ""),
                 "image_url": item["image_url"]}
@@ -193,8 +198,6 @@ def main():
     # los ejercicios "publicados" en la simulacion.
     if not args.dry_run:
         st.save_state(state)
-    if ok and not args.dry_run:
-        st.mark_published(slot)
     print(f"[FB] terminado type={args.type} ok={ok} fail={fail}")
     sys.exit(1 if fail else 0)
 

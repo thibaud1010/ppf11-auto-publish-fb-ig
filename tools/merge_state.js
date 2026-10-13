@@ -53,14 +53,14 @@ const readText = p => { try { return fs.readFileSync(p, "utf8"); } catch (e) { r
   }
 }
 
-// published.json — unión de marcas de franja hecha (conserva las últimas ~40)
+// published.json — unión de marcas de franja hecha (conserva las últimas ~600: van por idioma)
 {
   const A = readJSON(path.join(ours, "published.json"));
   const B = readJSON(path.join(base, "published.json")) || {};
   if (A) {
     const M = { ...B, ...A };
     const keys = Object.keys(M).sort();
-    for (const k of keys.slice(0, Math.max(0, keys.length - 40))) delete M[k];
+    for (const k of keys.slice(0, Math.max(0, keys.length - 600))) delete M[k];
     fs.writeFileSync(path.join(base, "published.json"), JSON.stringify(M, null, 2) + "\n");
     console.log("[merge] published.json fusionado");
   }

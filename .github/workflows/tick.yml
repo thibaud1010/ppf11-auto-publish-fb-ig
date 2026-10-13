@@ -15,6 +15,10 @@ on:
   schedule:
     - cron: "4-59/10 * * * *"
   workflow_dispatch:
+  # Disparo manual SIN token: cambiar .github/tick_request y hacer push a main.
+  push:
+    branches: [main]
+    paths: [".github/tick_request"]
 
 permissions:
   contents: write

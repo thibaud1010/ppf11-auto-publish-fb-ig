@@ -38,6 +38,9 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
+      - name: ffmpeg (variante con rotulo, flag reels_variant)
+        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+      - run: sudo apt-get install -y -qq fonts-dejavu-core || true
       - name: Publicar reel (rotacion)
         env:
           TOKENS_JSON: ${{ secrets.TOKENS_JSON }}

@@ -23,6 +23,7 @@ import requests
 from src.config import FB_HOST, IG_LOGIN_HOST, get_token, load_accounts
 from src import state as st
 from src import reels_publish as rp
+from src import reels_variant as rv
 
 CONFIG = os.path.join(os.path.dirname(__file__), "config", "reels.json")
 STATE_KEY = "reels:posted"    # lista de reel_id por RECENCIA (rotación sin repetir)
@@ -158,6 +159,33 @@ def main():
             urls[r["reel_id"]] = url
         return urls[r["reel_id"]]
 
+    def variant_url(r, lang):
+        # PRUEBA rótulo (flag "reels_variant" en accounts.json): archivo PROPIO de la
+        # cuenta = lienzo vertical + título del reel en su idioma (src/reels_variant.py).
+        # Se cachea en el bucket; si algo falla devuelve None y sale el vídeo original.
+        base = video_url(r)
+        filename = ((folder + "/" if folder else "")
+                    + f"reel_{r['reel_id']}_{lang}_{rv.STYLE}.mp4")
+        url = f"{sb_url}/storage/v1/object/public/{bucket}/{filename}"
+        try:
+            if requests.get(url, stream=True, timeout=30).status_code == 200:
+                return url
+            tmp = tempfile.gettempdir()
+            src = os.path.join(tmp, f"reel_{r['reel_id']}.mp4")
+            if not os.path.exists(src):
+                with requests.get(base, stream=True, timeout=300) as d, open(src, "wb") as f:
+                    d.raise_for_status()
+                    for chunk in d.iter_content(1 << 20):
+                        f.write(chunk)
+            out = rv.build_variant(src, os.path.join(tmp, f"reel_{r['reel_id']}_{lang}.mp4"),
+                                   r["titles"][lang])
+            url = rp.supabase_upload(out, bucket, filename, sb_url, sb_key)
+            print(f"[REELS][{lang}] variante con rótulo: {url}")
+            return url
+        except Exception as e:  # noqa: BLE001
+            print(f"[REELS][{lang}] AVISO variante falló, sale el original: {e}")
+            return None
+
     ok, fail = 0, 0   # ok cuenta solo el reel de la ROTACION (el que avanza el estado)
     for l in langs:
         cfg = accounts[l]
@@ -165,6 +193,9 @@ def main():
         reel_l = prio[l] if es_prio else reel
         caption = pick_caption(reel_l, l, 0 if es_prio else veces)
         public_url = video_url(reel_l)
+        variant = bool(cfg.get("reels_variant")) and variant_url(reel_l, l)
+        if variant:
+            public_url = variant
         # Instagram Reel
         try:
             ig = cfg["instagram"]
@@ -175,7 +206,8 @@ def main():
             res = rp.ig_publish_reel(host, ig["ig_user_id"], token, public_url, caption)
             print(f"[REELS][IG][{l}] OK {res.get('id')}")
             st.log_history({"platform": "ig", "lang": l, "type": "reel",
-                            "reel_id": reel_l["reel_id"], "status": "ok", "post_id": res.get("id", "")})
+                            "reel_id": reel_l["reel_id"], "status": "ok", "post_id": res.get("id", ""),
+                            **({"variant": rv.STYLE} if variant else {})})
             if es_prio:
                 state[STATE_PRIO + l] = state.get(STATE_PRIO + l, []) + [reel_l["reel_id"]]
                 st.save_state(state)

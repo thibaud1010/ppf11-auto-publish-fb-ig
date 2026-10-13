@@ -5,7 +5,9 @@
       "enabled": true,
       "_comment_enabled": "REACTIVADO 2026-10-02 tras expirar la sancion de enlaces de IG (vencia 24/09). Publica con la CTA rotatoria nueva (sin 'gratis/regalamos') para no re-disparar la sancion. Antes estuvo PAUSADO 2026-08-31 -> 2026-10-02.",
       "facebook": { "page_id": "132757827561079" },
-      "instagram": { "mode": "page", "ig_user_id": "17841413449517207" }
+      "instagram": { "mode": "page", "ig_user_id": "17841413449517207" },
+      "reels_variant": true,
+      "_comment_reels_variant": "PRUEBA desde 2026-10-13: el reel de esta cuenta sale con rotulo en su idioma (src/reels_variant.py). Quitar el flag para volver al video original."
     },
     "en": {
       "reels_fb_api": true,

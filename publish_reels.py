@@ -198,7 +198,7 @@ def main():
         public_url = video_url(reel_l)
         # el rótulo solo sale si la usuaria lo validó (config/reels_rotulos_ok.json)
         variant = (bool(cfg.get("reels_variant"))
-                   and reel_l["reel_id"] in rotulos_ok.get(l, [])
+                   and reel_l["titles"][l] in rotulos_ok.get(l, [])
                    and variant_url(reel_l, l))
         if variant:
             public_url = variant

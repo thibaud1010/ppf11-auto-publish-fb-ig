@@ -310,5 +310,10 @@
   "2026-10-21:ig:evening:es": true,
   "2026-10-21:fb:exercise:es": true,
   "2026-10-22:ig:morning:de": true,
-  "2026-10-22:ig:morning:nl": true
+  "2026-10-22:ig:morning:nl": true,
+  "2026-10-22:fb:article:de": true,
+  "2026-10-22:fb:article:nl": true,
+  "2026-10-22:ig:morning:en": true,
+  "2026-10-22:ig:morning:it": true,
+  "2026-10-22:ig:morning:pt": true
 }

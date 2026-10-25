@@ -402,5 +402,10 @@
   "2026-10-25:fb:article:en": true,
   "2026-10-25:fb:article:it": true,
   "2026-10-25:ig:morning:en": true,
-  "2026-10-25:fb:article:nl": true
+  "2026-10-25:fb:article:nl": true,
+  "2026-10-25:fb:article:de": true,
+  "2026-10-25:fb:article:pt": true,
+  "2026-10-25:ig:morning:it": true,
+  "2026-10-25:ig:morning:pt": true,
+  "2026-10-25:ig:morning:nl": true
 }

@@ -14,7 +14,7 @@ import subprocess
 import tempfile
 import textwrap
 
-STYLE = "v1"   # cambia al tocar el diseño -> nombre de archivo nuevo en el bucket
+STYLE = "v2"   # cambia al tocar el diseño -> nombre de archivo nuevo en el bucket
 
 W, H = 1080, 1920
 BAND_Y = 280            # por debajo de la zona que tapa la interfaz de Reels
@@ -33,11 +33,8 @@ def title_lines(title):
     """'⚽ Tema: gancho' -> [(linea, estilo), ...] con el tema en mayúsculas."""
     text = re.sub(r"^[^\w¿¡]+", "", title).strip()
     head, _, sub = text.partition(": ")
-    lines = [(l, HEAD) for l in textwrap.wrap(head.upper(), HEAD["wrap"])]
-    if sub:
-        sub = sub[0].upper() + sub[1:]
-        lines += [(l, SUB) for l in textwrap.wrap(sub, SUB["wrap"])]
-    return lines
+    # v2 (2026-10-28): solo el tema en blanco; el gancho (frase amarilla) ya no se pinta
+    return [(l, HEAD) for l in textwrap.wrap(head.upper(), HEAD["wrap"])]
 
 
 def build_variant(src, dest, title):

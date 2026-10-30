@@ -446,7 +446,6 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/nouveaux/EXERCICE-NOUVEAU-2.jpg"
   ],
   "ig:en:exercises": [
-    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/jeux-reduits/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/transition/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/techniques/EXERCICES-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/tactiques/EXERCICE-1.jpg",
@@ -545,7 +544,8 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/coordination/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/echauffement/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/pre-saison/EXERCICE-1.jpg",
-    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/devant-le-but/EXERCICE-5.jpg"
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/devant-le-but/EXERCICE-5.jpg",
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/jeux-reduits/EXERCICE-1.jpg"
   ],
   "ig:fr:exercises": [
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/fr/nouveaux/EXERCICE-NOUVEAU-1.jpg",
@@ -660,7 +660,6 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/force/EXERCICE-1.jpg"
   ],
   "ig:it:exercises": [
-    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/coordination/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/echauffement/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/pre-saison/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/devant-le-but/EXERCICE-5.jpg",
@@ -759,7 +758,8 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/endurance-capacite/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/endurance-puissance/EXERCICE-1.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/intermittents/EXERCICE-TOP-4.jpg",
-    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/force/EXERCICE-1.jpg"
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/force/EXERCICE-1.jpg",
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/coordination/EXERCICE-1.jpg"
   ],
   "ig:pt:exercises": [
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/transition/EXERCICE-1.jpg",
@@ -1181,7 +1181,8 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/gardien/EXERCICE-5.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/techniques/EXERCICES-4.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/devant-le-but/EXERCICE-1.jpg",
-    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/coordination/EXERCICE-4.jpg"
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/coordination/EXERCICE-4.jpg",
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/endurance-puissance/EXERCICE-5.jpg"
   ],
   "fb:it:exercises": [
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/nouveaux/EXERCICE-NOUVEAU-1.jpg",
@@ -1432,7 +1433,8 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/transition/EXERCICE-5.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/nouveaux/EXERCICE-NOUVEAU-4.jpg",
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/devant-le-but/EXERCICE-4.jpg",
-    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/echauffement/EXERCICE-3.jpg"
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/echauffement/EXERCICE-3.jpg",
+    "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/milieux/EXERCICE-4.jpg"
   ],
   "reels:posted": [
     "1951129368927387",

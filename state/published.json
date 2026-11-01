@@ -1,9 +1,6 @@
 {
-  "2026-10-10:ig:morning": true,
   "2026-10-11:ig:morning": true,
-  "2026-10-11:fb:article": true,
   "2026-10-11:ig:evening": true,
-  "2026-10-11:fb:exercise": true,
   "2026-10-12:fb:article": true,
   "2026-10-12:ig:morning": true,
   "2026-10-12:ig:evening": true,
@@ -598,5 +595,8 @@
   "2026-11-01:ig:morning:es": true,
   "2026-11-01:fb:article:es": true,
   "2026-11-01:fb:exercise:en": true,
-  "2026-11-01:fb:exercise:pt": true
+  "2026-11-01:fb:exercise:pt": true,
+  "2026-11-01:fb:exercise:it": true,
+  "2026-11-01:ig:evening:en": true,
+  "2026-11-01:ig:evening:pt": true
 }

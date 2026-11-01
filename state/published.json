@@ -1,7 +1,5 @@
 {
-  "2026-10-08:ig:morning": true,
   "2026-10-09:ig:morning": true,
-  "2026-10-09:fb:article": true,
   "2026-10-09:ig:evening": true,
   "2026-10-09:fb:exercise": true,
   "2026-10-10:ig:morning": true,
@@ -598,5 +596,7 @@
   "2026-11-01:ig:morning:it": true,
   "2026-11-01:fb:article:de": true,
   "2026-11-01:fb:article:it": true,
-  "2026-11-01:reels:it": true
+  "2026-11-01:reels:it": true,
+  "2026-11-01:reels:de": true,
+  "2026-11-01:reels:nl": true
 }

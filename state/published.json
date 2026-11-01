@@ -1,5 +1,4 @@
 {
-  "2026-10-07:ig:morning": true,
   "2026-10-08:ig:morning": true,
   "2026-10-08:fb:article": true,
   "2026-10-08:fb:exercise": true,
@@ -598,5 +597,6 @@
   "2026-11-01:fb:article:nl": true,
   "2026-11-01:ig:morning:en": true,
   "2026-11-01:ig:morning:nl": true,
-  "2026-11-01:ig:morning:pt": true
+  "2026-11-01:ig:morning:pt": true,
+  "2026-11-01:ig:morning:it": true
 }

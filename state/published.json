@@ -14,7 +14,6 @@
   "2026-10-20:ig:evening:nl": true,
   "2026-10-20:ig:evening:it": true,
   "2026-10-20:reels:es": true,
-  "2026-10-20:ig:evening:es": true,
   "2026-10-21:fb:article:pt": true,
   "2026-10-21:fb:article:it": true,
   "2026-10-21:ig:morning:en": true,
@@ -598,5 +597,6 @@
   "2026-11-09:reels:en": true,
   "2026-11-09:reels:de": true,
   "2026-11-09:reels:it": true,
-  "2026-11-09:reels:nl": true
+  "2026-11-09:reels:nl": true,
+  "2026-11-09:reels:pt": true
 }

@@ -26,6 +26,10 @@ permissions:
 jobs:
   tick:
     runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
     concurrency: publish-state
     steps:
       - uses: actions/checkout@v4

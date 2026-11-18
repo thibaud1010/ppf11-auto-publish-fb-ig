@@ -11,7 +11,9 @@ import sys
 
 from src.config import FB_HOST, IG_LOGIN_HOST, get_token, load_accounts, load_templates
 from src.content import load_items, render_caption
-from src.instagram import publish
+from src.instagram import publish  # noqa: F401 (imagen; ya no se usa)
+from src import exercise_videos as ev
+from src import reels_publish as rp
 from src import schedule as sch
 from src import state as st
 
@@ -45,9 +47,9 @@ def main():
         # franja, 1 vez por franja y dia — ver src/schedule.py)
         done_key = None
         if args.force:
-            done_key = sch.nearest(lang, ("ig:morning", "ig:evening"))
+            done_key = sch.planned(lang, "ig:morning")[0]
         elif not args.dry_run:
-            done_key = sch.due(lang, "ig:morning") or sch.due(lang, "ig:evening")
+            done_key = sch.due(lang, "ig:morning")   # desde 2026-11-18 solo manana (la tarde se elimino)
             if not done_key:
                 continue
         # TODO el trabajo del idioma va dentro de UN solo try. Antes, cargar el CSV
@@ -57,13 +59,11 @@ def main():
         # en cada disparo (duplicados). Ahora cualquier fallo del idioma se captura,
         # el bucle termina y save_state() SIEMPRE persiste lo ya publicado.
         try:
-            items = load_items(KIND, lang)
+            items = ev.load(lang)   # ejercicio = VIDEO animado (Reel)
             if not items:
                 print(f"[IG][{lang}] sin ejercicios")
                 continue
-            # cada cuenta recorre el catalogo en su propio orden (ver src/state.py)
-            items = st.order_for_language(items, lang)
-            key = f"ig:{lang}:{KIND}"
+            key = f"ig:{lang}:exercise_videos"   # rotacion en orden del catalogo
             item = st.pick_next(items, key, state, exclude=used_images)
             used_images.add(item["image_url"])
             # Preferimos el caption ya redactado (columna caption_ig); si no, plantilla.
@@ -90,7 +90,7 @@ def main():
             else:  # "page" (es/fr/nl): IG vinculado a la Pagina -> token de la Pagina
                 host = FB_HOST
                 token = get_token(f"FB_TOKEN_{lang.upper()}")
-            res = publish(ig["ig_user_id"], token, item["image_url"], caption, host=host)
+            res = rp.ig_publish_reel(host, ig["ig_user_id"], token, ev.public_url(item, lang), caption)
             print(f"[IG][{lang}] OK ({mode}) id={res.get('id')} <- {item['url']}")
             st.mark_posted(state, key, item["image_url"])
             st.log_history({"platform": "ig", "lang": lang, "type": "exercise",

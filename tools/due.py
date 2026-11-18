@@ -16,7 +16,7 @@ from src import schedule as sch  # noqa: E402
 GROUPS = {
     "fb_article": (["fb:article"], "facebook"),
     "fb_exercise": (["fb:exercise"], "facebook"),
-    "ig": (["ig:morning", "ig:evening"], "instagram"),
+    "ig": (["ig:morning"], "instagram"),   # la tarde de IG se elimino 2026-11-18
     "reels": (["reels"], "instagram"),
 }
 REELS_LANGS = ["es", "en", "de", "it", "pt", "nl"]   # fr es el idioma origen

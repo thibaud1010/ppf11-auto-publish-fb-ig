@@ -19,6 +19,10 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
     # MISMO grupo que IG y FB-articulo: escriben en state/ y no deben pushear a la vez
     # (la carrera de push congelaba la rotacion de IG -> duplicados). Mismo grupo = en serie.
     concurrency: publish-state

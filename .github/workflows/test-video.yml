@@ -1,0 +1,50 @@
+name: Prueba - ejercicio en video (un idioma, forzado)
+
+# Publica YA el ejercicio en video de UN idioma en FB e IG (--force --only).
+# Disparo SIN token: escribir el idioma en .github/test_video_request y push a main.
+on:
+  push:
+    branches: [main]
+    paths: [".github/test_video_request"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    concurrency: publish-state
+    env:
+      TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch origin main && git reset --hard origin/main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: IG reel ejercicio
+        run: python publish_instagram.py --force --only "$(tr -d '[:space:]' < .github/test_video_request)"
+      - name: FB video ejercicio
+        if: ${{ !cancelled() }}
+        run: python publish_facebook.py --type exercise --force --only "$(tr -d '[:space:]' < .github/test_video_request)"
+      - name: Guardar estado
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          cp -r state /tmp/state_ours
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            node tools/merge_state.js /tmp/state_ours state
+            git add state/
+            git commit -m "state: test video $(date -u +%FT%TZ)" || { echo "sin cambios"; exit 0; }
+            git push origin main && exit 0
+            sleep 5
+          done
+          exit 1

@@ -18,6 +18,8 @@ import requests
 from src.config import FB_HOST, get_token, load_accounts, load_templates
 from src.content import load_items, render_caption
 from src.facebook import publish_comment, publish_photo
+from src import exercise_videos as ev
+from src import reels_publish as rp
 from src import schedule as sch
 from src import state as st
 
@@ -130,13 +132,15 @@ def main():
             pause = random.uniform(*STAGGER_RANGE)
             print(f"[FB] desfase anti-spam: {pause/60:.1f} min antes de '{lang}'…")
             time.sleep(pause)
-        items = load_items(kind, lang)
+        is_video = args.type == "exercise"   # desde 2026-11-18: ejercicio = VIDEO animado
+        items = ev.load(lang) if is_video else load_items(kind, lang)
         if not items:
             print(f"[FB][{lang}] sin contenido de tipo '{kind}'")
             continue
-        # cada Pagina recorre el catalogo en su propio orden (ver src/state.py)
-        items = st.order_for_language(items, lang)
-        key = f"fb:{lang}:{kind}"
+        if not is_video:
+            # cada Pagina recorre el catalogo en su propio orden (ver src/state.py)
+            items = st.order_for_language(items, lang)
+        key = f"fb:{lang}:exercise_videos" if is_video else f"fb:{lang}:{kind}"
         item = st.pick_next(items, key, state, exclude=used_images)
         used_images.add(item["image_url"])
         # Preferimos el caption ya redactado (columna caption_fb); si no, plantilla.
@@ -169,7 +173,11 @@ def main():
                 caption_fb, comment_text = caption, None
                 print(f"[FB][{lang}] AVISO: al token le falta 'pages_manage_engagement'; "
                       f"los enlaces se quedan DENTRO del caption")
-            res = publish_photo(fb["page_id"], token, item["image_url"], caption_fb)
+            if is_video:
+                # video de feed de la Pagina (los mp4 son 16:9; /video_reels exige 9:16)
+                res = rp.fb_publish_video(fb["page_id"], token, ev.public_url(item, lang), caption_fb)
+            else:
+                res = publish_photo(fb["page_id"], token, item["image_url"], caption_fb)
             print(f"[FB][{lang}] OK id={res.get('id')} <- {item['url']}")
             comment_status = "en_caption" if comment_text is None else "pendiente"
             if comment_text:

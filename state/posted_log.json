@@ -1802,5 +1802,11 @@
     "2026-11-11=1410319904111204=1",
     "2026-11-13=1716199756236138=1",
     "2026-11-15=1625589885398990=1"
+  ],
+  "ig:de:exercise_videos": [
+    "video:de:01-intermittent-force"
+  ],
+  "fb:de:exercise_videos": [
+    "video:de:01-intermittent-force"
   ]
 }

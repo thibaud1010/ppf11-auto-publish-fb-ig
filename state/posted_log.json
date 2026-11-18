@@ -64,7 +64,8 @@
     "https://www.preparationphysiquefootball.com/images/blog/Travail-de-l-endurance-en-football-amateur.jpg",
     "https://www.preparationphysiquefootball.com/images/blog/Hydratation.jpg",
     "https://www.preparationphysiquefootball.com/images/blog/La-proprioception-pourquoi-quand-comment.jpg",
-    "https://www.preparationphysiquefootball.com/images/blog/Comment-ameliorer-sa-detente-verticale-et-effectuer-une-tete-puissante-en-l-air.jpg"
+    "https://www.preparationphysiquefootball.com/images/blog/Comment-ameliorer-sa-detente-verticale-et-effectuer-une-tete-puissante-en-l-air.jpg",
+    "https://www.preparationphysiquefootball.com/images/blog/Preparation-physique-dissociee-associee-et-integree-c-est-quoi.jpg"
   ],
   "fb:en:articles": [
     "https://www.preparationphysiquefootball.com/images/blog/8-qualites-quun-coach-devrait-avoir.jpg",
@@ -1583,7 +1584,6 @@
     "https://cdn.jsdelivr.net/gh/thibaud1010/ppf11-auto-publish-fb-ig@main/content/images/exercises/ppf11/nouveaux/EXERCICE-NOUVEAU-3.jpg"
   ],
   "reels:posted": [
-    "26479037135113424",
     "2334653287018363",
     "1662346061566915",
     "1866420667358692",
@@ -1672,7 +1672,8 @@
     "1305650665083512",
     "1410319904111204",
     "1716199756236138",
-    "1625589885398990"
+    "1625589885398990",
+    "26479037135113424"
   ],
   "reels:count": {
     "1951129368927387": 2,
@@ -1686,7 +1687,7 @@
     "1305650665083512": 2,
     "1716199756236138": 2,
     "2998496860338769": 2,
-    "26479037135113424": 1,
+    "26479037135113424": 2,
     "1410319904111204": 2,
     "1625589885398990": 2,
     "2334653287018363": 1,
@@ -1801,7 +1802,8 @@
     "2026-11-10=1305650665083512=1",
     "2026-11-11=1410319904111204=1",
     "2026-11-13=1716199756236138=1",
-    "2026-11-15=1625589885398990=1"
+    "2026-11-15=1625589885398990=1",
+    "2026-11-18=26479037135113424=1"
   ],
   "ig:de:exercise_videos": [
     "video:de:01-intermittent-force"

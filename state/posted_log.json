@@ -1863,5 +1863,11 @@
   ],
   "fb:en:exercise_videos": [
     "video:en:01-intermittent-force"
+  ],
+  "ig:pt:exercise_videos": [
+    "video:pt:01-intermittent-force"
+  ],
+  "fb:pt:exercise_videos": [
+    "video:pt:01-intermittent-force"
   ]
 }

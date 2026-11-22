@@ -1839,5 +1839,11 @@
     "video:de:02-5-parcours-avec-ballon",
     "video:de:03-le-relais-memoire",
     "video:de:04-plongeon-zone-annoncee"
+  ],
+  "ig:es:exercise_videos": [
+    "video:es:01-intermittent-force"
+  ],
+  "fb:es:exercise_videos": [
+    "video:es:01-intermittent-force"
   ]
 }

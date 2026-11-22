@@ -41,6 +41,8 @@ def public_url(item, lang):
     sb_url = os.environ["SUPABASE_URL"].rstrip("/")
     sb_key = os.environ["SUPABASE_KEY"]
     bucket = os.environ.get("SUPABASE_BUCKET") or "videos"
+    if item.get("path"):   # ya subido a mano (p.ej. es/, con musica anadida)
+        return f"{sb_url}/storage/v1/object/public/{bucket}/{item['path']}"
     filename = f"ejercicios/{lang}/{item['id']}.mp4"
     url = f"{sb_url}/storage/v1/object/public/{bucket}/{filename}"
     h = requests.head(url, timeout=30)

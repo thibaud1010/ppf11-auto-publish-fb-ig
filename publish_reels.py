@@ -141,8 +141,20 @@ def main():
     reels = load_reels()
     state = st.load_state()
     accounts = load_accounts()["languages"]
-    langs = [l for l in ["es", "en", "de", "it", "pt", "nl"]
-             if accounts.get(l, {}).get("enabled", True) and (not args.only or l == args.only)]
+    with open(CONFIG, encoding="utf-8") as f:
+        cfgr = json.load(f)
+    start = cfgr.get("start", {})   # idioma -> primer dia con reels (hora local del idioma)
+
+    def started(l):
+        d = start.get(l)
+        if not d or args.force:
+            return True
+        tz = sch._lang_cfg(sch._config(), l)["tz"]
+        return sch.local_now(tz).strftime("%Y-%m-%d") >= d
+
+    langs = [l for l in cfgr.get("langs", ["es", "en", "de", "it", "pt", "nl"])
+             if accounts.get(l, {}).get("enabled", True) and (not args.only or l == args.only)
+             and started(l)]
     priority = load_priority()
 
     if dry:

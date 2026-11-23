@@ -41,6 +41,8 @@
       "instagram": { "mode": "page", "ig_user_id": "17841439245232249" }
     },
     "el": {
+      "reels_fb_api": true,
+      "_comment_reels_fb_api": "2026-11-23: el reel se sube DIRECTO a la Pagina FB (/video_reels), sin depender del crosspost nativo IG->FB.",
       "_comment_enabled": "NUEVO 2026-11-23 (griego, PPF11.gr / @ppf11.gr). ACTIVADO 2026-11-23 con los 50 videos de ejercicios (videos/el/) + textos en griego. Solo ejercicios animados y reels (sin articulos); enlaces a www.ppf11.com/el/.",
       "facebook": { "page_id": "1482380814954714" },
       "instagram": { "mode": "page", "ig_user_id": "17841461981617074" }

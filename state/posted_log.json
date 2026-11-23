@@ -1821,7 +1821,8 @@
     "video:de:02-5-parcours-avec-ballon",
     "video:de:03-le-relais-memoire",
     "video:de:04-plongeon-zone-annoncee",
-    "video:de:05-le-toro-des-couleurs"
+    "video:de:05-le-toro-des-couleurs",
+    "video:de:06-tour-des-partenaires"
   ],
   "ig:es:exercise_videos": [
     "video:es:01-intermittent-force",
@@ -1835,28 +1836,32 @@
     "video:it:02-5-parcours-avec-ballon"
   ],
   "fb:it:exercise_videos": [
-    "video:it:01-intermittent-force"
+    "video:it:01-intermittent-force",
+    "video:it:02-5-parcours-avec-ballon"
   ],
   "ig:nl:exercise_videos": [
     "video:nl:01-intermittent-force",
     "video:nl:02-5-parcours-avec-ballon"
   ],
   "fb:nl:exercise_videos": [
-    "video:nl:01-intermittent-force"
+    "video:nl:01-intermittent-force",
+    "video:nl:02-5-parcours-avec-ballon"
   ],
   "ig:en:exercise_videos": [
     "video:en:01-intermittent-force",
     "video:en:02-5-parcours-avec-ballon"
   ],
   "fb:en:exercise_videos": [
-    "video:en:01-intermittent-force"
+    "video:en:01-intermittent-force",
+    "video:en:02-5-parcours-avec-ballon"
   ],
   "ig:pt:exercise_videos": [
     "video:pt:01-intermittent-force",
     "video:pt:02-5-parcours-avec-ballon"
   ],
   "fb:pt:exercise_videos": [
-    "video:pt:01-intermittent-force"
+    "video:pt:01-intermittent-force",
+    "video:pt:02-5-parcours-avec-ballon"
   ],
   "ig:el:exercise_videos": [
     "video:el:01-intermittent-force"

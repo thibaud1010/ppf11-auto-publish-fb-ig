@@ -14,7 +14,9 @@ import subprocess
 import tempfile
 import textwrap
 
-STYLE = "v2"   # cambia al tocar el diseño -> nombre de archivo nuevo en el bucket
+STYLE = "v3"   # cambia al tocar el diseño -> nombre de archivo nuevo en el bucket
+# v3 (2026-11-23): 41 reels base re-subidos CON musica (antes sin pista de audio);
+# subir la version obliga a regenerar los rotulos desde la base nueva.
 
 W, H = 1080, 1920
 BAND_Y = 280            # por debajo de la zona que tapa la interfaz de Reels

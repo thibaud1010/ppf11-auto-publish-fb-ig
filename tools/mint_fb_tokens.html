@@ -45,13 +45,13 @@
 
   <div class="card">
     <label>Resultado — pega esto en <code>config/secrets.json</code> y/o en el secreto <code>TOKENS_JSON</code> de GitHub</label>
-    <textarea id="out" readonly placeholder="Aquí aparecerán tus 6 tokens de página…"></textarea>
+    <textarea id="out" readonly placeholder="Aquí aparecerán tus tokens de página…"></textarea>
     <button onclick="copyOut()">Copiar</button>
   </div>
 
 <script>
 const GV="v21.0";
-// Mapa page_id -> idioma (tus 6 páginas)
+// Mapa page_id -> idioma (tus 8 páginas)
 const PAGE_LANG={
   "530259557167030":"fr",       // Préparation Physique Football
   "1024504440752713":"en",      // PPF11 - en
@@ -59,7 +59,8 @@ const PAGE_LANG={
   "1133160749871158":"it",      // PPF11.it
   "1009641588905073":"nl",      // PPF11.nl
   "1112223148630716":"pt",      // PPF11.bra-pt
-  "132757827561079":"es"        // Preparacion Física Fútbol
+  "132757827561079":"es",       // Preparacion Física Fútbol
+  "1482380814954714":"el"       // PPF11.gr
 };
 const $=id=>document.getElementById(id);
 function setStatus(msg,cls){const s=$("status");s.className=cls||"muted";s.textContent=msg;}
@@ -87,7 +88,7 @@ async function run(){
     window._secrets=result;
     $("out").value=JSON.stringify(result,null,2);
     $("dlBtn").style.display="inline-block";
-    setStatus("Listo · "+Object.keys(result).length+"/6 páginas: "+rows.join("  |  "),"ok");
+    setStatus("Listo · "+Object.keys(result).length+"/"+Object.keys(PAGE_LANG).length+" páginas: "+rows.join("  |  "),"ok");
   }catch(e){
     setStatus("Error: "+e.message+"\n\nSi es un error de CORS/red, usa el método por URL (te lo indica el asistente).","err");
   }

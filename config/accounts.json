@@ -39,6 +39,11 @@
     "nl": {
       "facebook": { "page_id": "1009641588905073" },
       "instagram": { "mode": "page", "ig_user_id": "17841439245232249" }
+    },
+    "el": {
+      "_comment_enabled": "NUEVO 2026-11-23 (griego, PPF11.gr / @ppf11.gr). ACTIVADO 2026-11-23 con los 50 videos de ejercicios (videos/el/) + textos en griego. Solo ejercicios animados y reels (sin articulos); enlaces a www.ppf11.com/el/.",
+      "facebook": { "page_id": "1482380814954714" },
+      "instagram": { "mode": "page", "ig_user_id": "17841461981617074" }
     }
   }
 }

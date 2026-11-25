@@ -54,11 +54,51 @@ def supabase_delete(bucket, filename, sb_url, sb_key):
                     headers={"Authorization": f"Bearer {sb_key}"}, timeout=60)
 
 
-def ig_publish_reel(host, ig_user_id, token, video_url, caption, retries=40, wait=6):
-    """IG Reel: crea contenedor REELS, espera procesado, publica. Devuelve la respuesta."""
+def ig_publish_story(host, ig_user_id, token, video_url, retries=40, wait=6):
+    """IG Story con el mismo vídeo (media_type=STORIES). Sin caption ni stickers (la API no los admite)."""
     r = requests.post(f"{host}/{ig_user_id}/media", timeout=60, data={
-        "media_type": "REELS", "video_url": video_url,
-        "caption": caption, "access_token": token})
+        "media_type": "STORIES", "video_url": video_url, "access_token": token})
+    if r.status_code != 200:
+        raise RuntimeError(f"IG story create {r.status_code}: {r.text}")
+    cid = r.json()["id"]
+    for _ in range(retries):
+        s = requests.get(f"{host}/{cid}", timeout=30,
+                         params={"fields": "status_code", "access_token": token})
+        code = (s.json() or {}).get("status_code")
+        if code == "FINISHED":
+            break
+        if code == "ERROR":
+            raise RuntimeError(f"IG story procesado ERROR: {s.text}")
+        time.sleep(wait)
+    else:
+        raise RuntimeError("IG story: timeout esperando el procesado del vídeo")
+    p = requests.post(f"{host}/{ig_user_id}/media_publish", timeout=60,
+                      data={"creation_id": cid, "access_token": token})
+    if p.status_code != 200:
+        raise RuntimeError(f"IG story publish {p.status_code}: {p.text}")
+    return p.json()
+
+
+def ig_story_after(cfg, lang, host, ig_user_id, token, video_url):
+    """Si la cuenta lleva "ig_story": true (accounts.json), repite el vídeo como Story.
+    Un fallo aquí NO marca el reel como fallido (ya está publicado): solo se avisa."""
+    if not cfg.get("ig_story"):
+        return
+    try:
+        res = ig_publish_story(host, ig_user_id, token, video_url)
+        print(f"[IG][{lang}] story OK id={res.get('id')}")
+    except Exception as e:  # noqa: BLE001
+        print(f"[IG][{lang}] AVISO story fallida (el reel SÍ salió): {e}")
+
+
+def ig_publish_reel(host, ig_user_id, token, video_url, caption, retries=40, wait=6, cover_url=None):
+    """IG Reel: crea contenedor REELS, espera procesado, publica. Devuelve la respuesta.
+    cover_url = imagen de portada propia (si no, IG elige un fotograma)."""
+    data = {"media_type": "REELS", "video_url": video_url,
+            "caption": caption, "access_token": token}
+    if cover_url:
+        data["cover_url"] = cover_url
+    r = requests.post(f"{host}/{ig_user_id}/media", timeout=60, data=data)
     if r.status_code != 200:
         raise RuntimeError(f"IG reel create {r.status_code}: {r.text}")
     cid = r.json()["id"]

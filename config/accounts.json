@@ -48,8 +48,9 @@
       "instagram": { "mode": "page", "ig_user_id": "17841461981617074" }
     },
     "pl": {
-      "enabled": false,
-      "_comment_enabled": "NUEVO 2026-11-25 (polaco, PPF11.pl). PAUSADO hasta tener FB_TOKEN_PL + 50 videos de ejercicios (videos/pl/) + reels traducidos. Mismo esquema que el: solo ejercicios animados y reels (sin articulos).",
+      "_comment_enabled": "NUEVO 2026-11-25 (polaco, PPF11.pl / @ppf11.pl). ACTIVADO 2026-11-25: 50 videos de ejercicios con musica (videos/pl/) + portada propia (videos/portadas/pl/, campo 'cover'); reels traducidos desde 2026-11-26. Sin articulos; enlaces a www.ppf11.com/pl/.",
+      "ig_story": true,
+      "_comment_ig_story": "2026-11-25: cada reel de IG (ejercicio y reel diario) se repite como Story (src/reels_publish.ig_story_after). Solo pl por ahora.",
       "reels_fb_api": true,
       "facebook": { "page_id": "1562276483634359" },
       "instagram": { "mode": "page", "ig_user_id": "17841462763874857" }

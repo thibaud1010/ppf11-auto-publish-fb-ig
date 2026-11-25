@@ -90,8 +90,11 @@ def main():
             else:  # "page" (es/fr/nl): IG vinculado a la Pagina -> token de la Pagina
                 host = FB_HOST
                 token = get_token(f"FB_TOKEN_{lang.upper()}")
-            res = rp.ig_publish_reel(host, ig["ig_user_id"], token, ev.public_url(item, lang), caption)
+            vurl = ev.public_url(item, lang)
+            res = rp.ig_publish_reel(host, ig["ig_user_id"], token, vurl, caption,
+                                     cover_url=ev.cover_url(item))
             print(f"[IG][{lang}] OK ({mode}) id={res.get('id')} <- {item['url']}")
+            rp.ig_story_after(cfg, lang, host, ig["ig_user_id"], token, vurl)
             st.mark_posted(state, key, item["image_url"])
             st.log_history({"platform": "ig", "lang": lang, "type": "exercise",
                             "title": item.get("title", ""), "url": item.get("url", ""),

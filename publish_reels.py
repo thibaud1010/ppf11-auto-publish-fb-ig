@@ -270,6 +270,7 @@ def main():
                 host, token = FB_HOST, get_token(f"FB_TOKEN_{l.upper()}")
             res = rp.ig_publish_reel(host, ig["ig_user_id"], token, public_url, caption)
             print(f"[REELS][IG][{l}] OK {res.get('id')}")
+            rp.ig_story_after(cfg, l, host, ig["ig_user_id"], token, public_url)
             st.log_history({"platform": "ig", "lang": l, "type": "reel",
                             "reel_id": reel_l["reel_id"], "status": "ok", "post_id": res.get("id", ""),
                             **({"variant": rv.STYLE} if variant else {})})

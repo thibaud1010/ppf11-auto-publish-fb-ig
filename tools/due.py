@@ -19,7 +19,7 @@ GROUPS = {
     "ig": (["ig:morning"], "instagram"),   # la tarde de IG se elimino 2026-11-18
     "reels": (["reels"], "instagram"),
 }
-REELS_LANGS = ["es", "en", "de", "it", "pt", "nl", "el"]   # fr es el idioma origen; el desde 30/11 (config/reels.json start)
+REELS_LANGS = ["es", "en", "de", "it", "pt", "nl", "el", "pl"]   # fr es el idioma origen; el desde 30/11, pl desde 26/11 (config/reels.json start)
 
 
 def main():

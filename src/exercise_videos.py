@@ -36,6 +36,15 @@ def load(lang):
     return items
 
 
+def cover_url(item):
+    """URL publica de la portada del Reel (campo 'cover' = ruta en el bucket), o None."""
+    if not item.get("cover"):
+        return None
+    sb_url = os.environ["SUPABASE_URL"].rstrip("/")
+    bucket = os.environ.get("SUPABASE_BUCKET") or "videos"
+    return f"{sb_url}/storage/v1/object/public/{bucket}/{item['cover']}"
+
+
 def public_url(item, lang):
     """URL publica del mp4 en Supabase; lo sube desde el Drive si aun no esta."""
     sb_url = os.environ["SUPABASE_URL"].rstrip("/")

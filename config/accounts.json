@@ -46,6 +46,13 @@
       "_comment_enabled": "NUEVO 2026-11-23 (griego, PPF11.gr / @ppf11.gr). ACTIVADO 2026-11-23 con los 50 videos de ejercicios (videos/el/) + textos en griego. Solo ejercicios animados y reels (sin articulos); enlaces a www.ppf11.com/el/.",
       "facebook": { "page_id": "1482380814954714" },
       "instagram": { "mode": "page", "ig_user_id": "17841461981617074" }
+    },
+    "pl": {
+      "enabled": false,
+      "_comment_enabled": "NUEVO 2026-11-25 (polaco, PPF11.pl). PAUSADO hasta tener FB_TOKEN_PL + 50 videos de ejercicios (videos/pl/) + reels traducidos. Mismo esquema que el: solo ejercicios animados y reels (sin articulos).",
+      "reels_fb_api": true,
+      "facebook": { "page_id": "1562276483634359" },
+      "instagram": { "mode": "page", "ig_user_id": "17841462763874857" }
     }
   }
 }

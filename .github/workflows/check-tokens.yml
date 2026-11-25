@@ -1,0 +1,18 @@
+name: Comprobar tokens (secreto TOKENS_JSON)
+
+# Revisa validez/permisos/caducidad de los tokens del secreto TOKENS_JSON (no publica nada).
+# Disparo SIN gh: cambiar .github/check_tokens_request y push a main.
+on:
+  push:
+    branches: [main]
+    paths: [".github/check_tokens_request"]
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: node tools/check_tokens.js

@@ -40,6 +40,8 @@ LINKS_IN_COMMENT = {
     "it": "👇 Link nel primo commento",
     "pt": "👇 Links no primeiro comentário",
     "nl": "👇 Links in de eerste reactie",
+    "el": "👇 Σύνδεσμος στο πρώτο σχόλιο",
+    "pl": "👇 Link w pierwszym komentarzu",
 }
 STAGGER_RANGE = (180, 300)  # segundos entre paginas (3-5 min)
 

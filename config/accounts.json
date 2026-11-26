@@ -56,8 +56,10 @@
       "instagram": { "mode": "page", "ig_user_id": "17841462763874857" }
     },
     "ru": {
-      "_comment_enabled": "NUEVO 2026-11-26 (ruso, PPF11.ru / @ppf11.ru). ACTIVADO 2026-11-26: SOLO los 50 videos de ejercicios con musica (videos/ru/) + portada propia (videos/portadas/ru/), 2 vueltas y se para (max_cycles). Sin reels, sin stories, sin articulos. Horario = default (Paris), como los demas. Enlaces a www.ppf11.com/ru/.",
+      "_comment_enabled": "NUEVO 2026-11-26 (ruso, PPF11.ru / @ppf11.ru). ACTIVADO 2026-11-26: SOLO los 50 videos de ejercicios con musica (videos/ru/) + portada propia (videos/portadas/ru/), 2 vueltas y se para (max_cycles). Sin reels ni articulos. Horario = default (Paris), como los demas. Enlaces a www.ppf11.com/ru/.",
       "max_cycles": 2,
+      "ig_story": true,
+      "_comment_ig_story": "2026-11-26: cada ejercicio publicado como Reel en IG se repite como Story (src/reels_publish.ig_story_after).",
       "_comment_max_cycles": "Tope de vueltas del catalogo de ejercicios en video por plataforma (contador exercise_videos:count en state/posted_log.json). 2 x 50 = 100 posts en IG y 100 en FB, luego nada.",
       "facebook": { "page_id": "1405412342664556" },
       "instagram": { "mode": "page", "ig_user_id": "17841447429322199" }

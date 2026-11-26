@@ -1930,5 +1930,15 @@
   ],
   "fb:pl:exercise_videos": [
     "video:pl:01-intermittent-force"
+  ],
+  "ig:ru:exercise_videos": [
+    "video:ru:01-intermittent-force"
+  ],
+  "exercise_videos:count": {
+    "ig:ru": 1,
+    "fb:ru": 1
+  },
+  "fb:ru:exercise_videos": [
+    "video:ru:01-intermittent-force"
   ]
 }

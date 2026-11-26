@@ -1,16 +1,9 @@
 {
-  "2026-10-27:ig:morning:pt": true,
-  "2026-10-27:ig:morning:en": true,
-  "2026-10-27:ig:morning:de": true,
-  "2026-10-27:ig:morning:nl": true,
-  "2026-10-27:ig:morning:it": true,
   "2026-10-27:reels:pt": true,
   "2026-10-27:reels:en": true,
   "2026-10-27:reels:de": true,
   "2026-10-27:reels:it": true,
   "2026-10-27:reels:nl": true,
-  "2026-10-27:ig:morning:es": true,
-  "2026-10-27:ig:evening:pt": true,
   "2026-10-27:reels:es": true,
   "2026-10-28:fb:article:nl": true,
   "2026-10-28:fb:article:pt": true,
@@ -598,5 +591,12 @@
   "2026-11-26:fb:article:es": true,
   "2026-11-26:ig:morning:es": true,
   "2026-11-26:ig:morning:ru": true,
-  "2026-11-26:fb:exercise:ru": true
+  "2026-11-26:fb:exercise:ru": true,
+  "2026-11-26:fb:exercise:en": true,
+  "2026-11-26:fb:exercise:de": true,
+  "2026-11-26:fb:exercise:it": true,
+  "2026-11-26:fb:exercise:pt": true,
+  "2026-11-26:fb:exercise:nl": true,
+  "2026-11-26:fb:exercise:el": true,
+  "2026-11-26:fb:exercise:pl": true
 }

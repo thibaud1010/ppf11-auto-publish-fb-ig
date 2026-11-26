@@ -54,6 +54,13 @@
       "reels_fb_api": true,
       "facebook": { "page_id": "1562276483634359" },
       "instagram": { "mode": "page", "ig_user_id": "17841462763874857" }
+    },
+    "ru": {
+      "enabled": false,
+      "_comment_enabled": "NUEVO 2026-11-26 (ruso). PAUSADO hasta tener FB_TOKEN_RU + page_id/ig_user_id + 50 videos de ejercicios (videos/ru/). Mismo esquema que pl: solo ejercicios animados y reels (sin articulos); enlaces a www.ppf11.com/ru/.",
+      "reels_fb_api": true,
+      "facebook": { "page_id": "" },
+      "instagram": { "mode": "page", "ig_user_id": "" }
     }
   }
 }

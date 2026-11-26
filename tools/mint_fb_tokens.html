@@ -84,6 +84,7 @@ async function run(){
     (acc.data||[]).forEach(p=>{
       const lang=PAGE_LANG[p.id];
       if(lang){result["FB_TOKEN_"+lang.toUpperCase()]=p.access_token;rows.push(lang+" ✓ "+p.name);}
+      else if(/(^|[^a-z])ru([^a-z]|$)/i.test(p.name)){result["FB_TOKEN_RU"]=p.access_token;rows.push("ru ✓ "+p.name+" (id "+p.id+" — pásaselo a Claude)");}
       else{rows.push("(?) "+p.name+" — id "+p.id+" no está en el mapa");}
     });
     window._secrets=result;

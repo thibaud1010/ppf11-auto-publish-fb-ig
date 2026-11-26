@@ -1,6 +1,5 @@
 {
   "2026-10-27:ig:morning:pt": true,
-  "2026-10-27:fb:article:de": true,
   "2026-10-27:fb:article:nl": true,
   "2026-10-27:ig:morning:en": true,
   "2026-10-27:ig:morning:de": true,
@@ -598,5 +597,6 @@
   "2026-11-25:fb:exercise:pt": true,
   "2026-11-25:fb:exercise:nl": true,
   "2026-11-25:fb:exercise:el": true,
-  "2026-11-25:reels:es": true
+  "2026-11-25:reels:es": true,
+  "2026-11-25:fb:exercise:es": true
 }

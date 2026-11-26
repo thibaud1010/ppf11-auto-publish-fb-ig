@@ -69,3 +69,24 @@ def public_url(item, lang):
             if f.read(12)[4:8] != b"ftyp":
                 raise RuntimeError(f"Drive {item['drive_id']}: no devolvio un mp4 (¿compartido por enlace?)")
         return rp.supabase_upload(dest, bucket, filename, sb_url, sb_key)
+
+
+# --- Limite de vueltas por idioma (accounts.json "max_cycles") --------------------
+# Contador en posted_log.json como OBJETO {"<plat>:<lang>": n} (merge_state.js se
+# queda con el valor mayor, asi que no se pierde aunque dos ejecuciones guarden a la vez).
+COUNT_KEY = "exercise_videos:count"
+
+
+def cycles_exhausted(cfg, state, plat, lang, n_items):
+    """True si el idioma tiene max_cycles y ya publico max_cycles * n_items videos en plat."""
+    mc = cfg.get("max_cycles")
+    if not mc:
+        return False
+    done = int((state.get(COUNT_KEY) or {}).get(f"{plat}:{lang}", 0))
+    return done >= int(mc) * n_items
+
+
+def bump(state, plat, lang):
+    c = dict(state.get(COUNT_KEY) or {})
+    c[f"{plat}:{lang}"] = int(c.get(f"{plat}:{lang}", 0)) + 1
+    state[COUNT_KEY] = c

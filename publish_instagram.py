@@ -64,6 +64,9 @@ def main():
                 print(f"[IG][{lang}] sin ejercicios")
                 continue
             key = f"ig:{lang}:exercise_videos"   # rotacion en orden del catalogo
+            if ev.cycles_exhausted(cfg, state, "ig", lang, len(items)):
+                print(f"[IG][{lang}] max_cycles alcanzado ({cfg.get('max_cycles')} vueltas); no se publica mas.")
+                continue
             item = st.pick_next(items, key, state, exclude=used_images)
             used_images.add(item["image_url"])
             # Preferimos el caption ya redactado (columna caption_ig); si no, plantilla.
@@ -96,6 +99,7 @@ def main():
             print(f"[IG][{lang}] OK ({mode}) id={res.get('id')} <- {item['url']}")
             rp.ig_story_after(cfg, lang, host, ig["ig_user_id"], token, vurl)
             st.mark_posted(state, key, item["image_url"])
+            ev.bump(state, "ig", lang)
             st.log_history({"platform": "ig", "lang": lang, "type": "exercise",
                             "title": item.get("title", ""), "url": item.get("url", ""),
                             "image_url": item["image_url"], "status": "ok", "post_id": res.get("id", "")})

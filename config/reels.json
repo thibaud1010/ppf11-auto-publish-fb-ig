@@ -1,5 +1,5 @@
 {
-  "_comment": "Reels FR de PPF11 a re-publicar en IG+FB de los 6 idiomas (es/en/de/it/pt/nl/el/pl/ru). NO frances. Caption = gancho + linea de valor + CTA (seguir + recurso en la bio, sin regalo/gratis) + hashtags. DOS versiones: captions (A: 50 ejercicios) y captions_b (B: guia jovenes); publish_reels.py alterna segun las veces publicado, asi el repost no es identico. priority = reels que un idioma publica antes que la rotacion (una vez).",
+  "_comment": "Reels FR de PPF11 a re-publicar en IG+FB de los 6 idiomas (es/en/de/it/pt/nl/el/pl). NO frances. Caption = gancho + linea de valor + CTA (seguir + recurso en la bio, sin regalo/gratis) + hashtags. DOS versiones: captions (A: 50 ejercicios) y captions_b (B: guia jovenes); publish_reels.py alterna segun las veces publicado, asi el repost no es identico. priority = reels que un idioma publica antes que la rotacion (una vez).",
   "supabase": {
     "bucket": "videos",
     "folder": "reels"
@@ -17,8 +17,7 @@
     "pt",
     "nl",
     "el",
-    "pl",
-    "ru"
+    "pl"
   ],
   "count": 91,
   "unique": 90,

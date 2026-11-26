@@ -144,6 +144,9 @@ def main():
             # cada Pagina recorre el catalogo en su propio orden (ver src/state.py)
             items = st.order_for_language(items, lang)
         key = f"fb:{lang}:exercise_videos" if is_video else f"fb:{lang}:{kind}"
+        if is_video and ev.cycles_exhausted(cfg, state, "fb", lang, len(items)):
+            print(f"[FB][{lang}] max_cycles alcanzado ({cfg.get('max_cycles')} vueltas); no se publica mas.")
+            continue
         item = st.pick_next(items, key, state, exclude=used_images)
         used_images.add(item["image_url"])
         # Preferimos el caption ya redactado (columna caption_fb); si no, plantilla.
@@ -195,6 +198,8 @@ def main():
                           f"enlaces fallo (el caption los promete): {ce}")
                     fail += 1
             st.mark_posted(state, key, item["image_url"])
+            if is_video:
+                ev.bump(state, "fb", lang)
             st.log_history({**hist, "status": "ok", "post_id": res.get("id", ""),
                             "comment": comment_status})
             ok += 1

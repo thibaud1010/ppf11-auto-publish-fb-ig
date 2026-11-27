@@ -84,11 +84,16 @@ def ig_story_after(cfg, lang, host, ig_user_id, token, video_url):
     Un fallo aquí NO marca el reel como fallido (ya está publicado): solo se avisa."""
     if not cfg.get("ig_story"):
         return
+    from .state import log_history   # import local: evita dependencia circular
     try:
         res = ig_publish_story(host, ig_user_id, token, video_url)
         print(f"[IG][{lang}] story OK id={res.get('id')}")
+        log_history({"platform": "ig", "lang": lang, "type": "story", "status": "ok",
+                     "post_id": res.get("id", "")})
     except Exception as e:  # noqa: BLE001
         print(f"[IG][{lang}] AVISO story fallida (el reel SÍ salió): {e}")
+        log_history({"platform": "ig", "lang": lang, "type": "story", "status": "error",
+                     "error": str(e)[:200]})
 
 
 def ig_publish_reel(host, ig_user_id, token, video_url, caption, retries=40, wait=6, cover_url=None):

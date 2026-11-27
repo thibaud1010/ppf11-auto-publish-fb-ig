@@ -1,0 +1,67 @@
+name: Auditoria diaria de publicaciones (dia anterior)
+
+# Cada dia ~06:15 de Paris revisa lo publicado AYER en todos los idiomas (tools/audit_day.py,
+# SOLO LECTURA). Si hay problemas abre un aviso (Issue) asignado a thibaud1010 -> GitHub
+# lo manda por email. Si todo esta bien no avisa. El resumen queda en state/audit/<dia>.md.
+# Lanzar a mano: Actions -> este workflow -> Run workflow (opcional: fecha YYYY-MM-DD).
+on:
+  schedule:
+    - cron: "15 5 * * *"
+  # Disparo SIN token: escribir la fecha (YYYY-MM-DD) en .github/audit_request y push a main.
+  push:
+    branches: [main]
+    paths: [".github/audit_request"]
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Dia a revisar (YYYY-MM-DD). Vacio = ayer"
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    concurrency: publish-state
+    env:
+      TOKENS_JSON: ${{ secrets.TOKENS_JSON }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch origin main && git reset --hard origin/main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Etiqueta 'auditoria' (si no existe)
+        run: |
+          curl -s -o /dev/null -X POST -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/labels" \
+            -d '{"name":"auditoria","color":"d93f0b","description":"Aviso de la auditoria diaria de publicaciones"}' || true
+      - name: Auditar
+        run: |
+          D="${{ inputs.date }}"
+          if [ "${{ github.event_name }}" = "push" ]; then D="$(tr -d '[:space:]' < .github/audit_request)"; fi
+          if [ -n "$D" ]; then
+            python tools/audit_day.py --issue --date "$D"
+          else
+            python tools/audit_day.py --issue
+          fi
+      - name: Guardar resumen
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          cp -r state/audit /tmp/audit_ours 2>/dev/null || exit 0
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p state/audit && cp /tmp/audit_ours/* state/audit/
+            git add state/audit/
+            git commit -m "state: auditoria $(date -u +%F)" || { echo "sin cambios"; exit 0; }
+            git push origin main && exit 0
+            sleep 5
+          done
+          exit 1

@@ -1856,7 +1856,8 @@
     "video:de:06-tour-des-partenaires",
     "video:de:07-le-carre-magique",
     "video:de:08-chaises-musicales",
-    "video:de:09-couleurs-puis-porte"
+    "video:de:09-couleurs-puis-porte",
+    "video:de:10-le-cone-puis-le-but"
   ],
   "ig:es:exercise_videos": [
     "video:es:01-intermittent-force",
@@ -1886,7 +1887,8 @@
     "video:it:02-5-parcours-avec-ballon",
     "video:it:03-le-relais-memoire",
     "video:it:04-plongeon-zone-annoncee",
-    "video:it:05-le-toro-des-couleurs"
+    "video:it:05-le-toro-des-couleurs",
+    "video:it:06-tour-des-partenaires"
   ],
   "ig:nl:exercise_videos": [
     "video:nl:01-intermittent-force",
@@ -1901,7 +1903,8 @@
     "video:nl:02-5-parcours-avec-ballon",
     "video:nl:03-le-relais-memoire",
     "video:nl:04-plongeon-zone-annoncee",
-    "video:nl:05-le-toro-des-couleurs"
+    "video:nl:05-le-toro-des-couleurs",
+    "video:nl:06-tour-des-partenaires"
   ],
   "ig:en:exercise_videos": [
     "video:en:01-intermittent-force",
@@ -1916,7 +1919,8 @@
     "video:en:02-5-parcours-avec-ballon",
     "video:en:03-le-relais-memoire",
     "video:en:04-plongeon-zone-annoncee",
-    "video:en:05-le-toro-des-couleurs"
+    "video:en:05-le-toro-des-couleurs",
+    "video:en:06-tour-des-partenaires"
   ],
   "ig:pt:exercise_videos": [
     "video:pt:01-intermittent-force",
@@ -1931,7 +1935,8 @@
     "video:pt:02-5-parcours-avec-ballon",
     "video:pt:03-le-relais-memoire",
     "video:pt:04-plongeon-zone-annoncee",
-    "video:pt:05-le-toro-des-couleurs"
+    "video:pt:05-le-toro-des-couleurs",
+    "video:pt:06-tour-des-partenaires"
   ],
   "ig:el:exercise_videos": [
     "video:el:01-intermittent-force",
@@ -1944,7 +1949,8 @@
     "video:el:01-intermittent-force",
     "video:el:02-5-parcours-avec-ballon",
     "video:el:03-le-relais-memoire",
-    "video:el:04-plongeon-zone-annoncee"
+    "video:el:04-plongeon-zone-annoncee",
+    "video:el:05-le-toro-des-couleurs"
   ],
   "ig:pl:exercise_videos": [
     "video:pl:01-intermittent-force",
@@ -1953,7 +1959,8 @@
   ],
   "fb:pl:exercise_videos": [
     "video:pl:01-intermittent-force",
-    "video:pl:02-5-parcours-avec-ballon"
+    "video:pl:02-5-parcours-avec-ballon",
+    "video:pl:03-le-relais-memoire"
   ],
   "ig:ru:exercise_videos": [
     "video:ru:01-intermittent-force",
@@ -1961,14 +1968,14 @@
   ],
   "exercise_videos:count": {
     "ig:ru": 2,
-    "fb:ru": 1,
-    "fb:en": 1,
-    "fb:de": 1,
-    "fb:it": 1,
-    "fb:pt": 1,
-    "fb:nl": 1,
-    "fb:el": 1,
-    "fb:pl": 1,
+    "fb:ru": 2,
+    "fb:en": 2,
+    "fb:de": 2,
+    "fb:it": 2,
+    "fb:pt": 2,
+    "fb:nl": 2,
+    "fb:el": 2,
+    "fb:pl": 2,
     "fb:es": 1,
     "ig:en": 1,
     "ig:de": 1,
@@ -1982,7 +1989,8 @@
     "fb:tr": 1
   },
   "fb:ru:exercise_videos": [
-    "video:ru:01-intermittent-force"
+    "video:ru:01-intermittent-force",
+    "video:ru:02-5-parcours-avec-ballon"
   ],
   "ig:tr:exercise_videos": [
     "video:tr:01-intermittent-force"

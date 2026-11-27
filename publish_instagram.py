@@ -97,7 +97,9 @@ def main():
             res = rp.ig_publish_reel(host, ig["ig_user_id"], token, vurl, caption,
                                      cover_url=ev.cover_url(item))
             print(f"[IG][{lang}] OK ({mode}) id={res.get('id')} <- {item['url']}")
-            rp.ig_story_after(cfg, lang, host, ig["ig_user_id"], token, vurl)
+            # Story: video propio con portada (campo 'story') si existe; si no, el mismo del reel
+            rp.ig_story_after(cfg, lang, host, ig["ig_user_id"], token,
+                              ev.asset_url(item, "story") or vurl)
             st.mark_posted(state, key, item["image_url"])
             ev.bump(state, "ig", lang)
             st.log_history({"platform": "ig", "lang": lang, "type": "exercise",

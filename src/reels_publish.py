@@ -134,6 +134,30 @@ def fb_publish_video(page_id, token, video_url, caption):
     return r.json()
 
 
+def fb_set_thumbnail(video_id, token, image_url, lang="", retries=8, wait=20):
+    """Pone una imagen propia como miniatura preferida del video FB (/{video_id}/thumbnails).
+    La API pide el fichero (multipart 'source'), asi que se descarga de image_url.
+    Reintenta mientras FB procesa el video. Un fallo NO marca el post como fallido: solo avisa."""
+    try:
+        img = requests.get(image_url, timeout=60)
+        img.raise_for_status()
+    except Exception as e:  # noqa: BLE001
+        print(f"[FB][{lang}] AVISO miniatura: no se pudo bajar {image_url}: {e}")
+        return False
+    last = ""
+    for _ in range(retries):
+        r = requests.post(f"{GRAPH}/{video_id}/thumbnails", timeout=60,
+                          data={"is_preferred": "true", "access_token": token},
+                          files={"source": ("cover.jpg", img.content, "image/jpeg")})
+        if r.status_code == 200 and (r.json() or {}).get("success", True):
+            print(f"[FB][{lang}] miniatura propia OK")
+            return True
+        last = f"{r.status_code}: {r.text[:200]}"
+        time.sleep(wait)
+    print(f"[FB][{lang}] AVISO miniatura propia fallida (el video SI salio): {last}")
+    return False
+
+
 def fb_publish_reel(page_id, token, video_url, caption, retries=40, wait=6):
     """Publica un REEL FB PURO en la Página vía /video_reels (3 fases).
 

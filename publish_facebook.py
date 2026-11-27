@@ -183,6 +183,9 @@ def main():
             if is_video:
                 # video de feed de la Pagina (los mp4 son 16:9; /video_reels exige 9:16)
                 res = rp.fb_publish_video(fb["page_id"], token, ev.public_url(item, lang), caption_fb)
+                thumb = ev.asset_url(item, "cover_fb")   # portada 16:9 propia (si no, FB elige fotograma)
+                if thumb:
+                    rp.fb_set_thumbnail(res.get("id"), token, thumb, lang)
             else:
                 res = publish_photo(fb["page_id"], token, item["image_url"], caption_fb)
             print(f"[FB][{lang}] OK id={res.get('id')} <- {item['url']}")

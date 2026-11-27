@@ -36,13 +36,20 @@ def load(lang):
     return items
 
 
-def cover_url(item):
-    """URL publica de la portada del Reel (campo 'cover' = ruta en el bucket), o None."""
-    if not item.get("cover"):
+def asset_url(item, field):
+    """URL publica del fichero del bucket indicado en item[field] (ruta en el bucket), o None.
+    Campos: 'cover' (portada 9:16 del Reel IG), 'cover_fb' (miniatura 16:9 del video FB),
+    'story' (video 9:16 de la Story IG con portada + ejercicio)."""
+    if not item.get(field):
         return None
     sb_url = os.environ["SUPABASE_URL"].rstrip("/")
     bucket = os.environ.get("SUPABASE_BUCKET") or "videos"
-    return f"{sb_url}/storage/v1/object/public/{bucket}/{item['cover']}"
+    return f"{sb_url}/storage/v1/object/public/{bucket}/{item[field]}"
+
+
+def cover_url(item):
+    """URL publica de la portada del Reel (campo 'cover' = ruta en el bucket), o None."""
+    return asset_url(item, "cover")
 
 
 def public_url(item, lang):

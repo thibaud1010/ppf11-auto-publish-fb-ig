@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-26",
+  "langs": {
+    "es": {
+      "problems": [],
+      "info": [
+        "FB articulo: facebook.com/1436803938435503",
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgNQPGXB5Pr/",
+        "IG reel del dia: https://www.instagram.com/reel/DgN69KdNLNS/",
+        "FB ejercicio (video): facebook.com/3388808704648442"
+      ],
+      "posts_ok": 4
+    },
+    "en": {
+      "problems": [
+        "IG reel del dia: NO salio (la publicacion nunca se lanzo ese dia)",
+        "FB reel del dia: NO salio (la publicacion nunca se lanzo ese dia)"
+      ],
+      "info": [
+        "FB articulo: facebook.com/122136340832957277",
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMi9NmBcKZ/",
+        "FB ejercicio (video): facebook.com/1834612301024722"
+      ],
+      "posts_ok": 3
+    },
+    "de": {
+      "problems": [
+        "IG reel del dia: NO salio (la publicacion nunca se lanzo ese dia)",
+        "FB reel del dia: NO salio (la publicacion nunca se lanzo ese dia)"
+      ],
+      "info": [
+        "FB articulo: facebook.com/122146296962884134",
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMjA57CVJk/",
+        "FB ejercicio (video): facebook.com/1572331954659115"
+      ],
+      "posts_ok": 3
+    },
+    "it": {
+      "problems": [
+        "IG reel del dia: NO salio (la publicacion nunca se lanzo ese dia)",
+        "FB reel del dia: NO salio (la publicacion nunca se lanzo ese dia)"
+      ],
+      "info": [
+        "FB articulo: facebook.com/122143574120810746",
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMjJvhJAVw/",
+        "FB ejercicio (video): facebook.com/2578395732636002"
+      ],
+      "posts_ok": 3
+    },
+    "pt": {
+      "problems": [
+        "IG reel del dia: NO salio (la publicacion nunca se lanzo ese dia)",
+        "FB reel del dia: NO salio (la publicacion nunca se lanzo ese dia)"
+      ],
+      "info": [
+        "FB articulo: facebook.com/122139266234846972",
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMjN7WhMKJ/",
+        "FB ejercicio (video): facebook.com/1829906161671888"
+      ],
+      "posts_ok": 3
+    },
+    "nl": {
+      "problems": [
+        "IG reel del dia: NO salio (la publicacion nunca se lanzo ese dia)"
+      ],
+      "info": [
+        "FB articulo: facebook.com/122133573320915309",
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMjR-3x4RX/",
+        "FB ejercicio (video): facebook.com/2097244054328582"
+      ],
+      "posts_ok": 3
+    },
+    "el": {
+      "problems": [],
+      "info": [
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMjWaohZzu/",
+        "FB ejercicio (video): facebook.com/2377715326397301"
+      ],
+      "posts_ok": 2
+    },
+    "pl": {
+      "problems": [
+        "IG reel del dia: NO salio (la publicacion nunca se lanzo ese dia)",
+        "FB reel del dia: NO salio (la publicacion nunca se lanzo ese dia)"
+      ],
+      "info": [
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgMjbWcg2PD/",
+        "FB ejercicio (video): facebook.com/2074437693213688"
+      ],
+      "posts_ok": 2
+    },
+    "ru": {
+      "problems": [],
+      "info": [
+        "IG ejercicio (reel): https://www.instagram.com/reel/DgNUv6wT9tH/",
+        "FB ejercicio (video): facebook.com/1084135511309794"
+      ],
+      "posts_ok": 2
+    }
+  },
+  "total_problems": 11
+}

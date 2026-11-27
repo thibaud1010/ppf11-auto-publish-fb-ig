@@ -13,9 +13,7 @@
   "2026-10-28:ig:evening:pt": true,
   "2026-10-28:ig:evening:it": true,
   "2026-10-28:ig:evening:nl": true,
-  "2026-10-28:ig:evening:en": true,
   "2026-10-28:reels:es": true,
-  "2026-10-28:ig:evening:es": true,
   "2026-10-29:ig:morning:pt": true,
   "2026-10-29:fb:article:nl": true,
   "2026-10-29:ig:morning:en": true,
@@ -598,5 +596,7 @@
   "2026-11-27:reels:de": true,
   "2026-11-27:reels:it": true,
   "2026-11-27:reels:nl": true,
-  "2026-11-27:reels:pl": true
+  "2026-11-27:reels:pl": true,
+  "2026-11-27:reels:en": true,
+  "2026-11-27:reels:pt": true
 }

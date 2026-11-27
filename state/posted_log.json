@@ -1977,9 +1977,17 @@
     "ig:nl": 1,
     "ig:el": 1,
     "ig:pl": 1,
-    "ig:es": 1
+    "ig:es": 1,
+    "ig:tr": 1,
+    "fb:tr": 1
   },
   "fb:ru:exercise_videos": [
     "video:ru:01-intermittent-force"
+  ],
+  "ig:tr:exercise_videos": [
+    "video:tr:01-intermittent-force"
+  ],
+  "fb:tr:exercise_videos": [
+    "video:tr:01-intermittent-force"
   ]
 }

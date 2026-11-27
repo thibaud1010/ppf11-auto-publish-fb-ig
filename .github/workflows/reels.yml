@@ -1,24 +1,27 @@
-name: Reels - PPF11 (video FR -> IG+FB 6 idiomas) [WIP]
+name: Reels - PPF11 (video FR -> IG+FB por idioma)
 
-# BORRADOR / WIP. Solo disparo MANUAL (workflow_dispatch) y DRY-RUN por defecto.
-# NO hay disparo automatico (ni cron de GitHub ni cron-job.org) hasta validar.
-# Para activarlo de verdad:
-#   1) crear un bucket PUBLICO en Supabase y los secretos SUPABASE_URL / SUPABASE_KEY (service_role) / SUPABASE_BUCKET
-#   2) probar: Run workflow con publish=si y only=es (valida descarga FB + IG Reel)
-#   3) (opcional) crear el disparo diario a mediodia en cron-job.org, como los otros.
+# EN VIVO. Disparo por reloj externo (cron-job.org, workflow_dispatch) a mediodia de
+# Paris y de Bogota; el tick.yml tambien lo cubre cuando GitHub lo ejecuta.
+# 2026-11-27: PUBLICA POR DEFECTO. Antes solo publicaba si el disparo mandaba
+# publish=si; desde el 01/11 los disparos de cron-job.org llegaban SIN ese dato ->
+# cada ejecucion era una simulacion "success" sin publicar nada (solo salian reels
+# cuando un tick caia por casualidad en la franja). Para SIMULAR: simular=si.
+# Sin riesgo de duplicados: cada idioma se marca por dia en state/published.json.
 on:
   workflow_dispatch:
     inputs:
+      simular:
+        description: "Escribe 'si' para SOLO SIMULAR (vacio = publica de verdad)"
+        type: string
+        default: ""
       publish:
-        # Comparacion de STRINGS (a prueba de balas via API): 'si' publica, vacio = solo simula.
-        # Antes era un boolean 'dry_run' con el truco ternario ${{ x && '' || '--publish' }},
-        # que en GitHub da '--publish' SIEMPRE (la rama vacia rompe el ternario) -> publicaba
-        # aunque quisieras simular. Con string == 'si' el comportamiento es inequivoco.
-        description: "Escribe 'si' para PUBLICAR de verdad (vacio = solo simular)"
+        # OBSOLETO (se ignora): se mantiene para que los disparos antiguos de cron-job.org
+        # que aun lo envian no fallen por input desconocido.
+        description: "Obsoleto, se ignora"
         type: string
         default: ""
       only:
-        description: "Solo un idioma (es/en/de/it/pt/nl), opcional"
+        description: "Solo un idioma (es/en/de/it/pt/nl/el/pl), opcional"
         type: string
         default: ""
 
@@ -47,7 +50,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
           SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
-        run: python publish_reels.py ${{ inputs.publish == 'si' && '--publish' || '' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+        run: python publish_reels.py ${{ inputs.simular != 'si' && '--publish' || '' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
       - name: Guardar estado
         if: always()   # guardar el estado AUNQUE falle un idioma (evita rotacion congelada -> reels duplicados)
         # Guardado por FUSION (tools/merge_state.js) — ver instagram.yml.

@@ -63,6 +63,14 @@
       "_comment_max_cycles": "Tope de vueltas del catalogo de ejercicios en video por plataforma (contador exercise_videos:count en state/posted_log.json). 2 x 50 = 100 posts en IG y 100 en FB, luego nada.",
       "facebook": { "page_id": "1405412342664556" },
       "instagram": { "mode": "page", "ig_user_id": "17841447429322199" }
+    },
+    "tr": {
+      "_comment_enabled": "NUEVO 2026-11-27 (turco, PPF11.tr / @ppf11.tr). ACTIVADO 2026-11-27. SOLO los 50 videos de ejercicios con musica (videos/tr/) + portada propia (videos/portadas/tr/), 2 vueltas y se para (max_cycles). Sin reels ni articulos. Horario Europe/Istanbul 09:00/20:00 (para caer dentro de los disparos fijos de cron-job.org 06:50 y 17:50 UTC). Enlaces a www.ppf11.com/tr/.",
+      "max_cycles": 2,
+      "ig_story": true,
+      "_comment_ig_story": "Cada ejercicio publicado como Reel en IG se repite como Story (src/reels_publish.ig_story_after).",
+      "facebook": { "page_id": "1397176333486758" },
+      "instagram": { "mode": "page", "ig_user_id": "17841464966624239" }
     }
   }
 }

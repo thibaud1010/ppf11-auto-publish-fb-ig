@@ -4,5 +4,6 @@
   "grace_minutes": 120,
   "default": { "tz": "Europe/Paris", "morning": "07:00", "midday": "12:00", "evening": "18:00" },
   "es": { "tz": "America/Bogota", "morning": "07:00", "midday": "13:00", "evening": "20:00" },
-  "el": { "tz": "Europe/Athens", "morning": "07:00", "midday": "12:00", "evening": "18:00" }
+  "el": { "tz": "Europe/Athens", "morning": "07:00", "midday": "12:00", "evening": "18:00" },
+  "tr": { "tz": "Europe/Istanbul", "morning": "09:00", "midday": "14:00", "evening": "20:00" }
 }

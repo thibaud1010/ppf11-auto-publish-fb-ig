@@ -1872,7 +1872,8 @@
     "video:es:02-5-parcours-avec-ballon",
     "video:es:03-le-relais-memoire",
     "video:es:04-plongeon-zone-annoncee",
-    "video:es:05-le-toro-des-couleurs"
+    "video:es:05-le-toro-des-couleurs",
+    "video:es:06-tour-des-partenaires"
   ],
   "ig:it:exercise_videos": [
     "video:it:01-intermittent-force",
@@ -1976,7 +1977,7 @@
     "fb:nl": 2,
     "fb:el": 2,
     "fb:pl": 2,
-    "fb:es": 1,
+    "fb:es": 2,
     "ig:en": 1,
     "ig:de": 1,
     "ig:it": 1,
